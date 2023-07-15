@@ -1,0 +1,105 @@
+"alg-geom/9710028",,"J.M. Landsberg","On the infinitesimal rigidity of homogeneous varieties","AMSTeX 12 pages, change from earlier version: an affirmative answer
+  to question 6 in the original version of the paper had been already proven by
+  Zak",,,,"alg-geom dg-ga math.AG math.DG",,"  Let $X\subset P^N$ be a variety (respectively a patch of an analytic
+submanifold) and let $x\in X$ be a general point. We show that if the
+projective second fundamental form of $X$ at $x$ is isomorphic to the second
+fundamental form of a point of a Segre $P^n\times P^m$, $n,m\geq 2$, a
+Grassmaniann $G(2,n+2)$, $n\geq 4$, or the Cayley plane $OP^2$, then $X$ is the
+corresponding homogeneous variety (resp. a patch of the corresponding
+homogeneous variety). If the projective second fundamental form of $X$ at $x$
+is isomorphic to the second fundamental form of a point of a Veronese
+$v_2(P^n)$ and the Fubini cubic form of $X$ at $x$ is zero, then $X=v_2(P^n)$
+(resp. a patch of $v_2(P^n)$). All these results are valid in the real or
+complex analytic categories and locally in the $C^{\infty}$ category if one
+assumes the hypotheses hold in a neighborhood of any point $x$. As a byproduct,
+we show that the systems of quadrics $I_2(P^{m-1}\sqcup P^{n-1}), I_2(P^1\times
+P^{n-1})$ and $I_2(S_5)$ are stable in the sense that if $A_t\subset S^2T^*$ is
+an analytic family such that for $t\neq 0$, $A_t\simeq A$, then $A_0\simeq A$.
+  We also make some observations related to the Fulton-Hansen connectedness
+theorem.
+","[{""version"":""v1"",""created"":""Sun, 26 Oct 1997 09:52:27 GMT""},{""version"":""v2"",""created"":""Wed, 29 Oct 1997 16:33:31 GMT""}]","2007-05-23"
+"cond-mat/9710277","Skorik","Sergei Skorik","Exactly unsolved problems of interacting 1D fermions","13 pages, LaTex",,,,"cond-mat.mes-hall",,"  Applications of the integrable system techniques to the non-equilibrium
+transport problems are discussed. We describe one-dimensional electrons
+tunneling through a point-like defect either by the s-d exchange (Kondo)
+mechanism, or via the resonanse level (Anderson) mechanism. These models are
+potential candidates to be solved exactly in the presence of arbitrary external
+bias. We draw attention also to several mesoscopical systems which can be
+tackled by the massless form-factor approach, as perturbations of integrable
+models. The basic unperturbed model is the massless sine-Gordon model with the
+interaction (cosine) term restricted to one point, which is integrable. It is
+being perturbed by the second interaction term, which destroys integrability.
+Quasi-exact results can be obtained by making use of the basis of massless
+quasiparticles of the sine-Gordon model.
+","[{""version"":""v1"",""created"":""Sun, 26 Oct 1997 10:27:47 GMT""}]","2007-05-23"
+"gr-qc/9710112","Lior M. Burko","Lior M. Burko","Structure of the black hole's Cauchy horizon singularity","4 pages, RevTeX, 4 Encapsulated PostScript figures, submitted to
+  Phys. Rev. Lett","Phys.Rev.Lett. 79 (1997) 4958-4961","10.1103/PhysRevLett.79.4958",,"gr-qc",,"  We study the Cauchy horizon (CH) singularity of a spherical charged black
+hole perturbed nonlinearly by a self-gravitating massless scalar field. We show
+numerically that the singularity is weak both at the early and at the late
+sections of the CH, where the focusing of the area coordinate $r$ is strong. In
+the early section the metric is almost Reissner-Nordstr\""{o}m, and the fields
+behave according to perturbation analysis. We find exact analytical expressions
+for the gradients of $r$ and of the scalar field, which are valid at both
+sections. We then verify these analytical results numerically.
+","[{""version"":""v1"",""created"":""Sun, 26 Oct 1997 14:45:16 GMT""}]","2009-10-30"
+"hep-ph/9710473",,"Kwok Lung Chan, Utpal Chattopadhyay and Pran Nath","Naturalness, Weak Scale Supersymmetry and the Prospect for the
+  Observation of Supersymmetry at the Tevatron and at the LHC","32 pages LaTex. Revised version to appear in Phys.Rev.D","Phys.Rev.D58:096004,1998","10.1103/PhysRevD.58.096004",,"hep-ph",,"  Naturalness bounds on weak scale supersymmetry in the context of radiative
+breaking of the electro-weak symmetry are analyzed. In the case of minimal
+supergravity it is found that for low tan\beta and for low values of fine
+tuning Phi, where Phi is defined essentially by the ratio \mu^2/M_Z^2 where \mu
+is the Higgs mixing parameter and M_Z is the Z boson mass, the allowed values
+of the universal scalar parameter m_0, and the universal gaugino mass m_{1/2}
+lie on the surface of an ellipsoid with radii fixed by \Phi leading to tightly
+constrained upper bounds \sim \sqrt\Phi.Thus for tan\beta\leq 2(\leq 5) it is
+found that the upper limits for the entire set of sparticle masses lie in the
+range < 700 GeV (<1.5TeV) for any reasonable range of fine tuning (\Phi\leq
+20). However, it is found that there exist regions of the parameter space where
+the fine tuning does not tightly constrain m_0 and m_{1/2}. Effects of non-
+universalities in the Higgs sector and in the third generation sector on
+naturalness bounds are also analyzed and it is found that non-universalities
+can significantly affect the upper bounds. It is also found that achieving the
+maximum Higgs mass allowed in supergravity unified models requires a high
+degree of fine tuning. Thus a heavy sparticle spectrum is indicated if the
+Higgs mass exceeds 120 GeV. The prospect for the discovery of supersymmetry at
+the Tevatron and at the LHC in view of these results is discussed.
+","[{""version"":""v1"",""created"":""Sat, 25 Oct 1997 19:06:26 GMT""},{""version"":""v2"",""created"":""Tue, 23 Jun 1998 20:55:08 GMT""},{""version"":""v3"",""created"":""Wed, 24 Jun 1998 00:54:44 GMT""}]","2008-11-26"
+"hep-ph/9710474","Han Meng","Han Meng, Ma Wen-Gan, Han Liang and Jiang Yi","SUSY QCD corrections to W $\gamma$ production in polarized hadronic
+  collisions","25 pages, Latex, including 6 figures in eps files. submitted to
+  Journal of Physics G; hanm@lx04.mphy.ustc.edu.cn","J.Phys.G24:551-565,1998","10.1088/0954-3899/24/3/007",,"hep-ph",,"  We present the calculation of the supersymmetric QCD correction to $W \gamma$
+production process in polarized proton-antiproton collisions at the TeV energy
+region. We find that the correction can reach 1.2% at parton level with
+favorable mass values of squarks and gluino, which is comparable with the
+virtual correction part of the conventional QCD. The production rates for
+different polarized $p \bar{p}$ collisions are also compared.
+","[{""version"":""v1"",""created"":""Sun, 26 Oct 1997 02:05:54 GMT""}]","2008-11-26"
+"hep-th/9710193","Kim","Dae Kwan Kim, K.G. Klimenko","Finite Density Effect in the Gross-Neveu Model in a Weakly Curved
+  $R^1\times S^2$ Spacetime","RevTeX, minor changes, new references are added","J.Phys.A31:5565,1998","10.1088/0305-4470/31/25/007",,"hep-th hep-ph",,"  The three-dimensional Gross-Neveu model in $R^{1} \times S^{2}$ spacetime is
+considered at finite particles number density. We evaluate an effective
+potential of the composite scalar field $\sigma(x)$, which is expressed in
+terms of a scalar curvature $R$ and nonzero chemical potential $\mu$. We then
+derive the critical values of $(R,\mu)$ at which the system undergoes the first
+order phase transition from the phase with broken chiral invariance to the
+symmetric phase.
+","[{""version"":""v1"",""created"":""Sat, 25 Oct 1997 17:14:17 GMT""},{""version"":""v2"",""created"":""Sat, 8 Nov 1997 04:12:14 GMT""}]","2008-11-26"
+"nucl-th/9710058","Morten Hjorth-Jensen","O. Elgaroy and M. Hjorth-Jensen","Properties of Pairing Correlations in Infinite Nuclear Matter","7 pages, 3 figures included, Revtex style. Proceedings of Condensed
+  Matter Theories 21, Luso, Portugal, 21-27 sept 1997. To appear in Condensed
+  Matter Theories Vol. 13","Condensed Matter Theories 13 (1998) 381-391",,,"nucl-th",,"  We discuss various properties of singlet S pairing in neutron and nuclear
+matter in terms of the bare nuclon-nucleon interaction. Relations to the NN
+phase shifts are discussed, as well as various properties of the BCS wave
+function and the coherence length for fermion superfluids in infinite matter.
+","[{""version"":""v1"",""created"":""Sun, 26 Oct 1997 14:25:15 GMT""}]","2007-05-23"
+"solv-int/9710024","Choong-Ki You","C. Ahn and C.K. You","Complete Nondiagonal Reflection Matrices of RSOS/SOS and Hard Hexagon
+  Models","18pages,Latex",,"10.1088/0305-4470/31/9/003",,"solv-int hep-th nlin.SI",,"  In this paper we compute the most general nondiagonal reflection matrices of
+the RSOS/SOS models and hard hexagon model using the boundary Yang-Baxter
+equations. We find new one-parameter family of reflection matrices for the RSOS
+model in addition to the previous result without any parameter. We also find
+three classes of reflection matrices for the SOS model, which has one or two
+parameters. For the hard hexagon model which can be mapped to RSOS(5) model by
+folding four RSOS heights into two, the solutions can be obtained similarly
+with a main difference in the boundary unitarity conditions. Due to this, the
+reflection matrices can have two free parameters. We show that these extra
+terms can be identified with the `decorated' solutions. We also generalize the
+hard hexagon model by `folding' the RSOS heights of the general RSOS(p) model
+and show that they satisfy the integrability conditions such as the Yang-
+Baxter and boundary Yang-Baxter equations. These models can be solved using the
+results for the RSOS models.
+","[{""version"":""v1"",""created"":""Sun, 26 Oct 1997 04:51:23 GMT""}]","2009-10-30"

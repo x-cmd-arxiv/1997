@@ -1,0 +1,141 @@
+"astro-ph/9703006","Lipunova Galina","Galina V. Lipunova (Sternberg Astronomical Institute, Moscow, Russia)","A Burst of Electromagnetic Radiation from a Collapsing Magnetized Star","24 pages, LaTeX, 6 EPS figures included","Astron.Lett. 23 (1997) 104",,,"astro-ph",,"  The pattern of variations in the intensity of magnetodipole losses is studied
+with the relativistic effect of magnetic-field dissipation during collapse into
+a black hole taken into account.
+  A burst-type solution can be obtained both for a direct collapse and for the
+formation of a rapidly-rotating, self-gravitating object - a spinar - using a
+simple model. Analytical dependences on radius describing an electromagnetic
+burst are derived. The time dependence of the burst shape for an infinitely
+distant observer and the maximum energy of relativistic particles accelerated
+by an electric field are numerically calculated.
+  The objects under consideration are of particular interest because particles
+in their vicinity can be accelerated up to the Planck energies. Possible
+astrophysical applications to the theory of active galactic nuclei (AGNs) and
+QSOs are briefly discussed. It is shown for the first time that a spinar can be
+produced by a merger of neutron stars; this possibility is considered in and
+without connection with the formation of gamma-ray bursts.
+","[{""version"":""v1"",""created"":""Sat, 1 Mar 1997 17:31:48 GMT""}]","2007-05-23"
+"cond-mat/9703008","Chien-Jung Huang","Chien-Jung Huang (Cornell University) C. J. Umrigar (Cornell
+  University) M.P. Nightingale (University of Rhode Island)","Accuracy of Electronic Wave Functions in Quantum Monte Carlo: the Effect
+  of High-Order Correlations","9 pages, no figures, Latex",,"10.1063/1.474658",,"cond-mat physics.chem-ph",,"  Compact and accurate wave functions can be constructed by quantum Monte Carlo
+methods. Typically, these wave functions consist of a sum of a small number of
+Slater determinants multiplied by a Jastrow factor. In this paper we study the
+importance of including high-order, nucleus-three-electron correlations in the
+Jastrow factor. An efficient algorithm based on the theory of invariants is
+used to compute the high-body correlations. We observe significant improvements
+in the variational Monte Carlo energy and in the fluctuations of the local
+energies but not in the fixed-node diffusion Monte Carlo energies. Improvements
+for the ground states of physical, fermionic atoms are found to be smaller than
+those for the ground states of fictitious, bosonic atoms, indicating that
+errors in the nodal surfaces of the fermionic wave functions are a limiting
+factor.
+","[{""version"":""v1"",""created"":""Sun, 2 Mar 1997 03:29:34 GMT""}]","2009-10-30"
+"cond-mat/9703009","Yu Shi","Yu Shi","SO(4) symmetry and off-diagonal long-range order in the Hubbard bilayer","14 pages, Latex",,"10.1088/0253-6102/28/1/23",,"cond-mat.str-el",,"  Yang's $\eta$ pairing operator is generalized to explore off-diagonal
+long-range order in the Hubbard bilayer with an arbitrary chemical potential.
+With this operator and a constraint condition on annihilation and creation
+operators, we construct explicitly eigenstates which possess simultaneously
+three kinds of off-diagonal long-range order, i.e., the intralayer one and the
+interlayer one for on-site pairing, and that for interlayer nearest-neighbor
+pairing. As in the simple Hubbard model there is also an SO(4) symmetry, with
+the the generators properly defined. A sufficient condition leads to at least
+one of the above three kinds of off-diagonal long-range order. A constraint
+relation among different kinds of off-diagonal long-range order is also given.
+There exists a triplet of collective modes if the U(1) symmetry of a subgroup
+is spontaneously broken.
+","[{""version"":""v1"",""created"":""Sun, 2 Mar 1997 10:57:36 GMT""}]","2018-01-17"
+"cond-mat/9703010","Katanin Andrew","V. Yu. Irkhin, A. A. Katanin and M. I. Katsnelson","On the Self-Consistent Spin-Wave Theory of Two-Dimensional Magnets With
+  Impurities","7 pages, RevTeX, 11 figures","Phys.Rev. B.60, 14779 (1999)","10.1103/PhysRevB.60.14779",,"cond-mat",,"  The self-consistent spin-wave theory is applied to investigate the
+magnetization distribution around the impurity in isotropic and easy-axis
+two-dimensional ferro- and antiferromagents. The temperature dependences of
+host magnetization disturbance and impurity magnetization are calculated. The
+short-range order in the isotropic case is investigated. Importance of dynamic
+and kinematic interactions of spin waves is demonstrated.
+","[{""version"":""v1"",""created"":""Sun, 2 Mar 1997 14:14:44 GMT""}]","2011-07-22"
+"dg-ga/9703001","Ping Xu","Ping Xu","Gerstenhaber algebras and BV-algebras in Poisson geometry","18 pages, LaTeX",,,,"dg-ga alg-geom math.AG math.DG math.QA q-alg",,"  The purpose of this paper is to establish an explicit correspondence between
+various geometric structures on a vector bundle with some well-known algebraic
+structures such as Gerstenhaber algebras and BV-algebras. Some applications are
+discussed. In particular, we found an explicit connection between the
+Koszul-Brylinski operator of a Poisson manifold and its modular class. As a
+consequence, we prove that Poisson homology is isomorphic to Poisson cohomology
+for unimodular Poisson structures.
+","[{""version"":""v1"",""created"":""Sat, 1 Mar 1997 22:49:48 GMT""}]","2008-02-03"
+"hep-ex/9703001","Juergen Riedler","B. Berg and J. Riedler (FSU, Tallahassee)","Signal Confidence Limits from a Neural Network Data Analysis","17 pages, 10 eps figures, LaTeX, major revisions due to referee
+  Report","Comput.Phys.Commun. 107 (1997) 39-48","10.1016/S0010-4655(97)00111-2",,"hep-ex hep-ph",,"  This paper deals with a situation of some importance for the analysis of
+experimental data via Neural Network (NN) or similar devices: Let $N$ data be
+given, such that $N=N_s+N_b$, where $N_s$ is the number of signals, $N_b$ the
+number of background events, both unknown. Assume that a NN has been trained,
+such that it will tag signals with efficiency $F_s$, $(0<F_s<1)$ and background
+data with $F_b$, $(0<F_b<1)$. Applying the NN yields $N^Y$ tagged events. We
+demonstrate that the knowledge of $N^Y$ is sufficient to calculate confidence
+bounds for the signal likelihood, which have the same statistical
+interpretation as the Clopper-Pearson bounds for the well-studied case of
+direct signal observation. Subsequently, we discuss rigorous bounds for the
+a-posteriori distribution function of the signal probability, as well as for
+the (closely related) likelihood that there are $N_s$ signals in the data. We
+compare them with results obtained by starting off with a maximum entropy type
+assumption for the a-priori likelihood that there are $N_s$ signals in the data
+and applying the Bayesian theorem. Difficulties are encountered with the latter
+method.
+","[{""version"":""v1"",""created"":""Sat, 1 Mar 1997 22:12:57 GMT""},{""version"":""v2"",""created"":""Tue, 13 May 1997 12:23:44 GMT""}]","2016-08-31"
+"hep-th/9703008","Dimitri Polyakov","Dimitri Polyakov","S-Duality as an Open String Gauge Symmetry","16 pages, TeX. The computational error of the previous version is
+  corrected; erratum added. The new derivation of the central terms in the
+  superalgebra is presented and new physical motivation is given",,,"IHES/97/P/23","hep-th",,"  The paper discusses the connection between S-duality and string-theoretic
+picture-changing formalism. The singular limit of the picture-changing
+transformation at zero momentum leads to the presence of the topological 5-form
+charge in the type IIB superalgebra which is attributed to the M5-brane. The
+topological charge defines the boundary D-brane state, which also is the
+analogue of the monopole part of the Olive-Witten's result in field theory.The
+correlation functions involving this non-perturbative state are computed.The
+non-perturbative D-brane states are associated with the ghost number
+cohomologies, introduced in the paper. Connections with M(atrix) theory are
+discussed.
+","[{""version"":""v1"",""created"":""Sun, 2 Mar 1997 15:31:54 GMT""},{""version"":""v2"",""created"":""Thu, 13 Mar 1997 15:04:10 GMT""},{""version"":""v3"",""created"":""Mon, 12 May 1997 23:59:19 GMT""}]","2008-02-03"
+"hep-th/9703011","Dr N. Mavromatos","N.E. Mavromatos","Non-trivial Infrared Structure in (2+1)-Dimensional Quantum
+  Electrodynamics and Non-Fermi Liquid Behaviour","7 pages LATEX, one figure included. Invited Talk at the `Strong
+  Coupling Gauge Theories 96' International Conference, Nagoya (Japan),
+  November 12-17 1996, to appear in the Proceedings (World Sci.)",,,,"hep-th",,"  I review recent work on the infrared structure of (2+1)-dimensional Abelian
+gauge theories and their application to condensed matter physics. In
+particular, within a large-N Schwinger-Dyson treatment, and including an
+`infrared momentum cut-off', I demonstrate the existence of a non-trivial
+infrared fixed point of the renormalization group. I connect this property to
+non-fermi liquid low-energy behaviour, and I attempt to draw some conclusions
+about the possible application of this approach to an understanding of the
+normal and superconducting phases of planar high-temperature superconducting
+cuprates.
+","[{""version"":""v1"",""created"":""Sat, 1 Mar 1997 18:07:48 GMT""}]","2007-05-23"
+"hep-th/9703013","Yu Shi","Yu Shi","Assumption of nonvanishingness of vacuum expectation of the scalar field
+  for spontaneous symmetry breaking is superfluous","Revtex, 6 pages, a revised version",,,,"hep-th",,"  For spontaneous breaking of global or gauge symmetry, it is superfluous to
+assume that the vacuum expectation value of the scalar field manifesting the
+symmetry is nonvanishing. The vacuum with spontaneous symmetry breaking simply
+corresponds to nonzero number of particles of one or more components of the
+real scalar field.
+","[{""version"":""v1"",""created"":""Sun, 2 Mar 1997 10:01:05 GMT""},{""version"":""v2"",""created"":""Sat, 22 Mar 1997 18:25:28 GMT""}]","2008-02-03"
+"hep-th/9703014","Paulo Teotonio-Sobrinho","Bruno G. Carneiro da Cunha, P. Teotonio-Sobrinho","Quasi-Topological Field Theories in Two Dimensions as Soluble Models","23 pages, 16 figures, uses psbox.tex","Int.J.Mod.Phys. A13 (1998) 3667-3690","10.1142/S0217751X98001724","IFUSP-P-1246","hep-th",,"  We study a class of lattice field theories in two dimensions that includes
+gauge theories. Given a two dimensional orientable surface of genus $g$, the
+partition function $Z$ is defined for a triangulation consisting of $n$
+triangles of area $\epsilon$. The reason these models are called
+quasi-topological is that $Z$ depends on $g$, $n$ and $\epsilon$ but not on the
+details of the triangulation. They are also soluble in the sense that the
+computation of their partition functions can be reduced to a soluble one
+dimensional problem. We show that the continuum limit is well defined if the
+model approaches a topological field theory in the zero area limit, i.e.,
+$\epsilon \to 0$ with finite $n$. We also show that the universality classes of
+such quasi-topological lattice field theories can be easily classified.
+Yang-Mills and generalized Yang-Mills theories appear as particular examples of
+such continuum limits.
+","[{""version"":""v1"",""created"":""Sun, 2 Mar 1997 12:54:33 GMT""}]","2016-09-06"
+"math/9703203","Jorg Brendle","J\""org Brendle and Benedikt Loewe","Solovay-type characterizations for forcing-algebras",,,,"Logic E-prints March 02, 1997","math.LO",,"  We give characterizations for the (in ZFC unprovable) sentences ``Every
+$\Sb{1}{2}$--set is measurable"" and ``Every $\Db{1}{2}$--set is measurable"" for
+various notions of measurability derived from well--known forcing partial
+orderings.
+","[{""version"":""v1"",""created"":""Sun, 2 Mar 1997 00:00:00 GMT""}]","2016-09-07"
+"solv-int/9703001","Leonid Dickey","L. A. Dickey","Poisson brackets with divergence terms in field theories: two examples","7 pages, LaTeX",,,,"solv-int nlin.SI",,"  In field theories one often works with the functionals which are integrals of
+some densities. These densities are defined up to divergence terms (boundary
+terms). A Poisson bracket of two functionals is also a functional, i.e., an
+integral of a density. Suppose the divergence term in the density of the
+Poisson bracket be fixed so that it becomes a bilinear form of densities of two
+functionals. Then the left-hand side of the Jacobi identity written in terms of
+densities is not necessarily zero but a divergence of a trilinear form. The
+question is: what can be said about this trilinear form, what kind of a higher
+Jacobi identity (involving four fields) it enjoys? Two examples whose origin is
+the theory of integrable systems are given.
+","[{""version"":""v1"",""created"":""Sat, 1 Mar 1997 21:23:04 GMT""}]","2008-02-03"

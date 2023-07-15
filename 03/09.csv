@@ -1,0 +1,155 @@
+"alg-geom/9703010","Ivan Mirkovic","Ivan Mirkovi\'c and Kari Vilonen","Perverse Sheaves on Loop Grassmannians and Langlands Duality","Amstex, 10 pages",,,,"alg-geom math.AG",,"  We outline a proof of a geometric version of the Satake isomorphism. Given a
+connected, complex algebraic reductive group G we show that the tensor category
+of representations of the dual group $\check G$ is naturally equivalent to a
+certain category of perverse sheaves on the loop Grassmannian of G. The above
+result has been announced by Ginsburg in \cite{G} and some of the arguments are
+borrowed from \cite{G}. However, we use a more ""natural"" commutativity
+constraint for the convolution product, due to Drinfeld. Secondly, we give a
+direct geometric proof that the global cohomology functor is exact and
+decompose this cohomology functor into a direct sum of weights. We avoid the
+use of the decomposition theorem of \cite{BBD} which makes our techniques
+applicable to perverse sheaves with coefficients over arbitrary commutative
+rings. This note includes sketches of (some of the) proofs. The details, as
+well as the generalization to representations over arbitrary fields and
+commutative rings will appear elsewhere.
+","[{""version"":""v1"",""created"":""Sun, 9 Mar 1997 04:10:34 GMT""}]","2008-02-03"
+"alg-geom/9703011","Philip A. Foth","Jean-Luc Brylinski and Philip Foth","Moduli of flat bundles on open Kaehler manifolds","LaTeX 21p, revised",,,,"alg-geom dg-ga math.AG math.DG",,"  We consider the moduli space MN of flat unitary connections on an open
+Kaehler manifold U (complement of a divisor with normal crossings) with
+restrictions on their monodromy transformations. Using intersection and L2
+cohomologies with degenerating coefficients we construct a natural symplectic
+form F on MN. When U is quasi-projective we prove that F is actually a Kaehler
+form.
+","[{""version"":""v1"",""created"":""Sun, 9 Mar 1997 07:25:11 GMT""},{""version"":""v2"",""created"":""Wed, 16 Apr 1997 03:26:48 GMT""}]","2008-02-03"
+"alg-geom/9703012","Nitin Nitsure","Nitin Nitsure","Moduli of regular holonomic D-modules with normal crossing singularities","LaTeX, 41 pages, 124 KB",,,,"alg-geom math.AG",,"  This paper solves the global moduli problem for regular holonomic D-modules
+with normal crossing singularities on a nonsingular complex projective variety.
+This is done by introducing a level structure (which gives rise to
+``pre-D-modules''), and then introducing a notion of (semi-)stability and
+applying Geometric Invariant Theory to construct a coarse moduli scheme for
+semistable pre-D-modules. A moduli is constructed also for the corresponding
+perverse sheaves, and the Riemann-Hilbert correspondence is represented by an
+analytic morphism between these moduli spaces.
+","[{""version"":""v1"",""created"":""Sun, 9 Mar 1997 12:15:00 GMT""}]","2008-02-03"
+"astro-ph/9703050","Andrew P. Gould","Andrew Gould","Microlensing: Current Results and Future Prospects","Talk given at 25th Anniversary of Wise Observatory. 11 pages",,"10.1007/978-94-015-8941-3_4","OSU-TA-5/97","astro-ph",,"  The initial results of microlensing surveys toward the Galactic bulge and the
+LMC are puzzling. Toward the LMC, the total mass in MACHOs is of order half
+that required to explain the dark matter, but the estimated MACHO mass (~0.4
+Msun) is most consistent with stars that should have been seen. Toward the
+bulge, the total mass is consistent with that given by dynamical estimates of
+the bulge mass, but the observed timescales seem to require that a large
+fraction of the bulge is made of brown dwarfs. I discuss possible experiments
+to resolve these puzzles. I also discuss several applications of microlensing
+to non-dark-matter problems including searching for planets and imaging the
+black hole at the center of a quasar with 10^{-10} arcsec resolution.
+","[{""version"":""v1"",""created"":""Sun, 9 Mar 1997 15:51:14 GMT""}]","2016-01-27"
+"cond-mat/9703079","Detlef Lehmann","Detlef Lehmann (UBC, Vancouver)","The Many-Electron System in the Forward, Exchange and BCS Approximation","47 pages, TeX","Commun.Math.Phys. 198 (1998) 427-468","10.1007/s002200050484",,"cond-mat.supr-con cond-mat.stat-mech hep-th nlin.SI solv-int",,"  The nonrelativistic many-electron system in the forward, exchange and BCS
+approximation is considered. In this approximation, which is still quartic in
+the annihilation and creation operators, the model is explicitly solvable for
+arbitrary space dimension d. The partition function and the correlation
+functions are given by finite-dimensional integral representations.
+Renormalization effects as well as symmetry breaking can be seen explicitly. It
+is shown that the usual mean field approach, based on approximating the
+Hamiltonian by a quadratic expression, may be misleading if the
+electron-electron interaction contains higher angular momentum terms and the
+space dimension is d=3. The perturbation theory of the solvable model is
+discussed. There are cases where the logarithm of the partition function has
+positive radius of convergence but the sum of all connected diagrams has radius
+of convergence zero implying that the linked cluster theorem is not applicable
+in these cases.
+","[{""version"":""v1"",""created"":""Sat, 8 Mar 1997 21:27:32 GMT""},{""version"":""v2"",""created"":""Wed, 6 Feb 2002 09:26:07 GMT""}]","2009-10-30"
+"cond-mat/9703081","David Vanderbilt","Nicola Marzari (Department of Physics and Astronomy, Rutgers
+  University, and Cavendish Laboratory, University of Cambridge, England),
+  David Vanderbilt (Department of Physics and Astronomy, Rutgers University),
+  and M.C. Payne (Cavendish Laboratory, University of Cambridge, England)","Ensemble density-functional theory for ab-initio molecular dynamics of
+  metals and finite-temperature insulators","5 pages, two-column style with 2 postscript figures embedded. Uses
+  REVTEX and epsf macros. Also available at
+  http://www.physics.rutgers.edu/~dhv/preprints/index.html#nm_metal",,"10.1103/PhysRevLett.79.1337",,"cond-mat.mtrl-sci",,"  A new method is presented for performing first-principles molecular-dynamics
+simulations of systems with variable occupancies. We adopt a matrix
+representation for the one-particle statistical operator Gamma, to introduce a
+``projected'' free energy functional G that depends on the Kohn-Sham orbitals
+only and that is invariant under their unitary transformations. The Liouville
+equation [ Gamma , H ] = 0 is always satisfied, guaranteeing a very efficient
+and stable variational minimization algorithm that can be extended to
+non-conventional entropic formulations or fictitious thermal distributions.
+","[{""version"":""v1"",""created"":""Sat, 8 Mar 1997 19:16:20 GMT""}]","2009-10-30"
+"cond-mat/9703082","Stephan Haas","Stephan Haas, A.V. Balatsky, Manfred Sigrist, and T.M. Rice","Extended Gapless Regions in Disordered d_{x^2-y^2}-Wave Superconductors","RevTex, 4 pages with 4 eps figures",,"10.1103/PhysRevB.56.5108",,"cond-mat.supr-con",,"  A generalization of the Abrikosov-Gorkov equations for non-magnetic
+impurities in unconventional superconductors is proposed, including higher
+harmonics in the expansion of the momentum dependent gap function and a
+momentum dependent impurity scattering potential. This model is treated within
+a self-consistent calculation to obtain the electronic density of states, the
+optical conductivity, and the gap function in a two-dimensional
+d_{x^2-y^2}-wave superconductor. It is argued that momentum dependent
+scattering from the impurities may lead to extended gapless regions in the gap
+function centered around the nodes of the pure d_{x^2-y^2}-wave superconductor.
+The associated enhancement of the residual density of states may be responsible
+for the rapid decrease of T_c and the increase of the London penetration depth
+with hole doping observed in overdoped cuprate superconductors.
+","[{""version"":""v1"",""created"":""Sat, 8 Mar 1997 21:32:41 GMT""}]","2009-10-30"
+"cond-mat/9703083","Bryan W. Statt","Ya-Wei Hsueh, B.W. Statt, M. Reedyk, J.S. Xue and J.E. Greedan","Weak pseudogap in crystals of Pb2Sr2(Y,Ca)Cu3O8+d","4 pages, 3 figures, submitted to PRB",,"10.1103/PhysRevB.56.R8511",,"cond-mat.supr-con",,"  We report on NMR measurements in underdoped Pb2Sr2(Y,Ca)Cu3O8+d crystals. A
+pseudogap is observed in the Knight shift and spin-lattice relaxation rate. In
+contrast to other underdoped compounds, the pseudogap observed in the Knight
+shift is weak and occurs at a significantly lower temperature. On the other
+hand, the effect the pseudogap has on spin-lattice relaxation is quite similar
+to that in other compounds. The contrast between weak and strong pseudogaps is
+discussed.
+","[{""version"":""v1"",""created"":""Sat, 8 Mar 1997 21:11:28 GMT""}]","2009-10-30"
+"cond-mat/9703084","Alexander Mazel","J. L. Lebowitz and A. E. Mazel (Rutgers University)","On the uniqueness of Gibbs states in the Pirogov-Sinai theory","12 pages, Plain TeX, to appear in Communications in Mathematical
+  Physics",,"10.1007/s002200050204",,"cond-mat.stat-mech",,"  We prove that, for low-temperature systems considered in the Pirogov-Sinai
+theory, uniqueness in the class of translation-periodic Gibbs states implies
+global uniqueness, i.e. the absence of any non-periodic Gibbs state. The
+approach to this infinite volume state is exponentially fast.
+","[{""version"":""v1"",""created"":""Sun, 9 Mar 1997 03:31:55 GMT""}]","2009-10-30"
+"cond-mat/9703127","Franco Nori","Franco Nori","Intermittently Flowing Rivers of Quantized Magnetic Flux","RevTeX, two small-font pages, 1 PS fig. included (color fig. only in
+  the printed version). Video in http://www-personal.engin.umich.edu/~nori/","Science 271 (1996) 1373-1374","10.1126/science.271.5254.1373",,"cond-mat.supr-con cond-mat.mtrl-sci",,"  Recent experiments and realistic flux-gradient-driven computer simulations
+provide evidence of plastic flow of flux lines in a superconductor. The
+striking videos of the onset of vortex motion vividly illustrate the existence
+of flowing ""rivers"" of quantized magnetic flux that intermittently form,
+freeze, and reappear at different locations in the sample. These rivers flow
+around ""islands"" (or domains) of flux lines which are temporarily trapped by
+the pinning sites. The shape and size of these temporarily frozen islands
+abruptly change over time with every loading-unloading cycle. Videos of the
+phenomena are available at: http://www-personal.engin.umich.edu/~nori/
+(theory).
+","[{""version"":""v1"",""created"":""Sun, 9 Mar 1997 03:15:41 GMT""}]","2009-10-30"
+"gr-qc/9703026","Lee Smolin","Stuart Kauffman and Lee Smolin","A possible solution to the problem of time in quantum cosmology","Latex, 15 pages, no figures",,,"CGPG-97/3-3","gr-qc",,"  We argue that in classical and quantum theories of gravity the configuration
+space and Hilbert space may not be constructible through any finite procedure.
+If this is the case then the ""problem of time"" in quantum cosmology may be a
+pseudo-problem, because the argument that time disappears from the theory
+depends on constructions that cannot be realized by any finite beings that live
+in the universe. We propose an alternative formulation of quantum cosmological
+theories in which it is only necessary to predict the amplitudes for any given
+state to evolve to a finite number of possible successor states. The space of
+accessible states of the system is then constructed as the universe evolves
+from any initial state. In this kind of formulation of quantum cosmology time
+and causality are built in at the fundamental level. An example of such a
+theory is the recent path integral formulation of quantum gravity of
+Markopoulou and Smolin, but there are a wide class of theories of this type.
+","[{""version"":""v1"",""created"":""Sun, 9 Mar 1997 13:44:12 GMT""}]","2007-05-23"
+"hep-th/9703066","Andrea Pasquinucci","A. Pasquinucci (Milano University)","On the Scattering of Gravitons on Two Parallel D-Branes","1+9 pages, TeX with macros included","Mod.Phys.Lett. A12 (1997) 1537-1546","10.1142/S0217732397001564","IFUM-554/FT","hep-th",,"  I discuss the scattering of a graviton (or a dilaton, or an anti-symmetric
+tensor) on two parallel static Dp-branes. The graviton belongs to a type II
+string in 10D.
+","[{""version"":""v1"",""created"":""Sun, 9 Mar 1997 15:24:46 GMT""}]","2015-06-26"
+"hep-th/9703067","Mr I. Zois student","I.P. Zois (Mathematical Institute, Oxford University)","On search for the M-Theory Lagrangian","Latex, 5 pages, no figures","Phys.Lett. B402 (1997) 33-35","10.1016/S0370-2693(97)00425-5",,"hep-th",,"  We present a starting point for the search for a Lagrangian density for
+M-Theory using characteristic classes for flat foliations of bundles.
+","[{""version"":""v1"",""created"":""Sun, 9 Mar 1997 15:41:40 GMT""}]","2009-10-30"
+"physics/9703014","Tri Sulistiono","Tri Sulistiono","Quantum-Classical System: Simple Harmonic Oscillator","9 pages, no figures, uses LaTeX, a review article",,,,"physics.pop-ph",,"  Problems concerning with application of quantum rules on classical phenomena
+have been widely studied, for which lifted up the idea about quantization and
+uncertainty principle. Energy quantization on classical example of simple
+harmonic oscillator has been reviewed in this paper.
+","[{""version"":""v1"",""created"":""Sat, 8 Mar 1997 16:53:24 GMT""}]","2008-02-03"
+"q-alg/9703017","Alex Chervov","Alexander Chervov","Traces of creation-annihilation operators and Fredholm's formulas","20 pages, LaTex. Minor corrections",,,"ITEP-TH-8/97","q-alg funct-an hep-th math.FA math.QA",,"  We prove the formula for the traces of certain class of operators in bosonic
+and fermionic Fock spaces. Vertex operators belong to this class. Traces of
+vertex operators can be used for calculation of correlation functions and
+formfactors of integrable models (XXZ, Sine-Gordon, etc.), that is why we are
+interested in this problem. Also we show that Fredholm's minor and determinant
+can be expressed by such traces. We obtain a short proof of the Fredholm's
+formula for the solution of an integral equation. Analogue of Fredholm's
+formula in terms of permanents is obtained.
+","[{""version"":""v1"",""created"":""Sun, 9 Mar 1997 09:41:29 GMT""},{""version"":""v2"",""created"":""Fri, 14 Mar 1997 20:25:17 GMT""},{""version"":""v3"",""created"":""Sun, 21 Dec 1997 20:07:50 GMT""}]","2008-02-03"
+"quant-ph/9703013","Alexander S. Holevo","M.V.Burnashev, A.S.Holevo","On Reliability Function of Quantum Communication Channel","12 pages, Latex209, correct proof of Proposition 1 is given, 2
+  figures added",,,,"quant-ph",,"  The reliability function gives the rate of exponential convergence to zero of
+the error probability in a communication channel. In this paper bounds for the
+reliability function of a quantum pure state channel are given, reminiscent of
+the corresponding classical bounds. This in particular suggests an alternative
+proof of the coding theorem for quantum noiseless channel, which would make no
+use of the notion of typical subspace. Example of binary quantum channel is
+considered in some detail.
+","[{""version"":""v1"",""created"":""Sat, 8 Mar 1997 17:18:43 GMT""},{""version"":""v2"",""created"":""Thu, 15 May 1997 20:10:23 GMT""},{""version"":""v3"",""created"":""Mon, 20 Jul 1998 13:16:22 GMT""},{""version"":""v4"",""created"":""Wed, 12 Aug 1998 14:30:46 GMT""}]","2008-02-03"

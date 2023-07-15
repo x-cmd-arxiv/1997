@@ -1,0 +1,218 @@
+"astro-ph/9702199","Andrew Becker","C.Alcock, W.H.Allen, R.A.Allsman, D.Alves, T.S.Axelrod, T.S.Banks,
+  S.F.Beaulieu, A.C.Becker, R.H.Becker, D.P.Bennett, I.A.Bond, B.S.Carter,
+  K.H.Cook, R.J.Dodd, K.C.Freeman, M.Gregg, K.Griest, J.B.Hearnshaw, A.Heller,
+  M.Honda, J.Jugaku, S.Kabe, S.Kaspi, P.M.Kilmartin, A.Kitamura, O.Kovo,
+  M.J.Lehner, T.E.Love, D.Maoz, S.L.Marshall, Y.Matsubara, D.Minniti,
+  M.Miyamoto, Y.Muraki, T.Nakamura, B.A.Peterson, M.R.Pratt, P.J.Quinn,
+  I.N.Reid, M.Reid, D.Reiss, A.Retter, A.W.Rodgers, W.L.W.Sargent, H.Sato,
+  M.Sekiguchi, P.B.Stetson, C.W.Stubbs, D.J.Sullivan, W.Sutherland, A.Tomaney,
+  T.Vandehei, Y.Watase, D.L.Welch, T.Yanagisawa, M.Yoshizawa, P.C.M.Yock","MACHO Alert 95-30 : First Real-Time Observation of Extended Source
+  Effects in Gravitational Microlensing","32 pages including 6 tables, and 15 figures; Uses AASTeX 4.0;
+  submitted to The Astrophysical Journal",,"10.1086/304974",,"astro-ph",,"  We present analysis of MACHO Alert 95-30, a dramatic gravitational
+microlensing event towards the Galactic bulge whose peak magnification departs
+significantly from the standard point-source microlensing model. Alert 95-30
+was observed in real-time by the Global Microlensing Alert Network (GMAN),
+which obtained densely sampled photometric and spectroscopic data throughout
+the event. We interpret the light-curve ``fine structure'' as indicating
+transit of the lens across the extended face of the source star. This signifies
+resolution of a star several kpc distant. We find a lens angular impact
+parameter theta_{min}/theta_{source} = 0.715 +/- 0.003. This information, along
+with the radius and distance of the source, provides an additional constraint
+on the lensing system. Spectroscopic and photometric data indicate the source
+is an M4 III star of radius 61 +/- 12 Rsun, located on the far side of the
+bulge at 9 kpc. We derive a lens angular velocity, relative to the source, of
+21.5 +/- 4.9 km/s/kpc, where the error is dominated by uncertainty in the
+source radius. Likelihood analysis yields a median lens mass of
+0.67{+2.53}{-0.46} Msun, located with 80% probability in the Galactic bulge at
+a distance of 6.93{+1.56}{-2.25} kpc. If the lens is a main-sequence star, we
+can include constraints on the lens luminosity. This modifies our estimates to
+M_lens = 0.53{+0.52}{-0.35} Msun and D_lens = 6.57{+0.99}{-2.25} kpc. Spectra
+taken during the event show that the absorption line equivalent widths of H
+alpha and the TiO bands near 6700 A vary, as predicted for microlensing of an
+extended source. This is most likely due to center-to-limb variation in the
+stellar spectral lines. These data demonstrate the feasibility of using
+microlensing limb crossings as a tool to probe stellar atmospheres directly.
+","[{""version"":""v1"",""created"":""Sat, 22 Feb 1997 21:56:50 GMT""}]","2009-10-30"
+"astro-ph/9702200","Shaul Hanany","S. Hanany, MAXIMA Collaboration, BOOMERANG Collaboration","The Maxima and Boomerang Experiments","3 pages, Latex, sprocl.sty file attached, to appear in the
+  Proceedings of the 18th Texas Symposium on Relativistic Astrophysics",,,,"astro-ph",,"  MAXIMA and BOOMERanG are balloon borne experiments designed to map the cosmic
+microwave background anisotropy power spectrum from l=10 to l=900 with high
+resolution. Here we describe the program of observations, the experiments,
+their capabilities, and their expected performance.
+","[{""version"":""v1"",""created"":""Sat, 22 Feb 1997 20:11:25 GMT""}]","2007-05-23"
+"chao-dyn/9702015","Nandini Chatterjee","Nandini Chatterjee (Department of Physics, University of Pune, Pune),
+  Neelima Gupte (Dept. of Physics, IIT Madras, Madras)","Spatially Periodic Orbits in Coupled Sine Circle Maps","17 pages, REVTEX, and 9 ps figures. Submitted to Physical Review E",,,,"chao-dyn nlin.CD nlin.PS patt-sol",,"  We study spatially periodic orbits for a coupled map lattice of sine circle
+maps with nearest neighbour coupling and periodic boundary conditions. The
+stability analysis for an arbitrary spatial period k is carried out in terms of
+the independent variables of the problem and the stability matrix is reduced to
+a neat block diagonal form. For a lattice of size kN, we show that the largest
+eigenvalue for the stability matrix of size $kN \times kN$ is the same as that
+for the basic spatial period k matrix of size $k \times k$. Thus the analysis
+for a kN lattice case can be reduced to that for a k lattice case. We
+illustrate this explicitly for a spatial period two case. Our formalism is
+general and can be extended to any coupled map lattice. We also obtain the
+stability regions of solutions which have the same spatial and temporal period
+numerically. Our analysis shows that such regions form a set of Arnold tongues
+in the $\Omega-\epsilon-K$ space. The tongues corresponding to higher spatial
+periods are contained within the tongues seen in the temporally periodic
+spatial period one or synchronised case. We find an interesting new bifurcation
+wherein the the spatially synchronised and temporal period one solution
+undergoes a bifurcation to a spatio-temporal period two travelling wave
+solution. The edges of the stability interval of this solution are analytically
+obtained.
+","[{""version"":""v1"",""created"":""Sun, 23 Feb 1997 10:14:38 GMT""}]","2008-02-03"
+"cond-mat/9702205","Jose Manuel Gomez Vilar","J. M. G. Vilar and J. M. Rub\'i","Spatiotemporal Stochastic Resonance in the Swift-Hohenberg Equation","4 pages, RevTex, 4 PostScript figures",,"10.1103/PhysRevLett.78.2886",,"cond-mat adap-org nlin.AO nlin.PS patt-sol",,"  We show the appearance of spatiotemporal stochastic resonance in the
+Swift-Hohenberg equation. This phenomenon emerges when a control parameter
+varies periodically in time around the bifurcation point. By using general
+scaling arguments and by taking into account the common features occurring in a
+bifurcation, we outline possible manifestations of the phenomenon in other
+pattern-forming systems.
+","[{""version"":""v1"",""created"":""Sat, 22 Feb 1997 19:24:45 GMT""}]","2016-08-15"
+"cond-mat/9702206","Oleg Tchernyshyov","O. Tchernyshyov and Y. J. Uemura","Cooper pairs as low-energy excitations in the normal state","2 pages, LaTeX, espcrc2.sty file included. An outline of a
+  presentation at the Beijing conference M2S-HTSC-V. To be published in Physica
+  C","Physica C 282-287, 1809 (1997)","10.1016/S0921-4534(97)01024-1",,"cond-mat",,"  We discuss the normal state of a fermionic system in an idealized PSEUDOGAP
+REGIME, $k_B T_c < k_B T << |\Delta| << E_F$. Stable Cooper pairs induce a
+pseudogap of width $|\Delta|$ in the fermion energy spectrum. Near two
+dimensions, we find a Bose-like condensation temperature in this predominantly
+fermionic system.
+","[{""version"":""v1"",""created"":""Sat, 22 Feb 1997 21:25:54 GMT""}]","2015-06-25"
+"cond-mat/9702207","Rene Cote","R. Cote, A.H. MacDonald, Luis Brey, H.A. Fertig, S.M. Girvin and
+  H.T.C. Stoof","Collective Excitations, NMR, and Phase Transitions in Skyrme Crystals","4 pages REVTEX file and 3 postscript figures","Phys.Rev.Lett.78:4825-4828,1997","10.1103/PhysRevLett.78.4825","CRPS-97-11; IUCM97-008","cond-mat.mes-hall cond-mat.str-el",,"  At Landau level filling factors near nu =1, quantum Hall ferromagnets form a
+Skyrme crystal state with quasi-long-range translational and non-collinear
+magnetic order. We develop an effective low energy theory which explains the
+presence in these systems of magnetic excitations at low energies below the
+Larmor gap (Delta) and which predicts a dramatic enhancement of the nuclear
+spin relaxation rate by a factor of 1000. The effective theory predicts a rich
+set of quantum and classical phase transitions. Based in part on accurate
+time-dependent Hartree-Fock calculations of the ordered state collective
+excitation spectrum, we discuss aspects of the T-nu-Delta crystal phase
+diagram.
+","[{""version"":""v1"",""created"":""Sat, 22 Feb 1997 23:54:20 GMT""}]","2014-10-13"
+"cond-mat/9702208","Alex Kamenev","Alex Kamenev and Yuval Gefen","Statistical Ensembles and Spectral Correlations in Mesoscopic Systems","18 pages, Latex, 7 figures available by request, submitted to special
+  issue of ""Chaos, Solitons & Fractals"" on ""Chaos and Quantum Transport in
+  Mesoscopic Cosmos""",,"10.1016/S0960-0779(97)00017-9",,"cond-mat.mes-hall",,"  Employing different statistical ensembles may lead to qualitatively different
+results concerning averages of physical observables on the mesoscopic scale.
+Here we discuss differences between the canonical and the grandcanonical
+ensembles due to both quenched disorder and thermodynamical effects. We show
+how these differences are related to spectral correlations of the system at
+hand, and evaluate the conditions (temperature, system's size) when the
+thermodynamic limit is achieved. We demonstrate our approach by evaluating the
+heat capacity, persistent currents and the occupation probability of single
+electron states, employing a systematic diagrammatic approach.
+","[{""version"":""v1"",""created"":""Sun, 23 Feb 1997 00:46:33 GMT""}]","2015-06-25"
+"gr-qc/9702045","Andrzej Maciejewski","Andrzej J.Maciejewski and Marek Szydlowski","On the Integrability of Bianchi Cosmological Models","19 pages, Latex 2.09","J.Phys.A31:2031-2043,1998","10.1088/0305-4470/31/8/014",,"gr-qc",,"  In this work, we are investigating the problem of integrability of Bianchi
+class A cosmological models. This class of systems is reduced to the form of
+Hamiltonian systems with exponential potential forms.
+  The dynamics of Bianchi class A models is investigated through the
+Euler-Lagrange equations and geodesic equations in the Jacobi metric. On this
+basis, we have come to some general conclusions concerning the evolution of the
+volume function of 3-space of constant time. The formal and general form of
+this function has been found. It can serve as a controller during numerical
+calculations of the dynamics of cosmological models.
+  The integrability of cosmological models is also discussed from the points of
+view of different integrability criterions. We show that dimension of phase
+space of Bianchi class A Hamiltonian systems can be reduced by two. We prove
+vector field of the reduced system is polynomial and it does not admit any
+analytic, or even formal first integral.
+","[{""version"":""v1"",""created"":""Sat, 22 Feb 1997 17:33:11 GMT""}]","2016-08-31"
+"hep-ph/9702386","Jan Kalinowski","J. Kalinowski (1, 2) and P.M. Zerwas (1) ((1) DESY, (2) Warsaw
+  University)","Decays of W Bosons to Charginos and Neutralinos","11 pages, 3 figures, uses epsfig.sty","Phys.Lett.B400:112-116,1997","10.1016/S0370-2693(97)00351-1","DESY 96-255","hep-ph",,"  The region of the supersymmetry parameter space, in which charginos decay
+predominantly into sneutrinos and leptons: chi+ -> \tilde{\nu} + l+, is not
+excluded experimentally for small mass differences between charginos and
+sneutrinos. The decay sneutrinos are invisible in R-parity conserving theories
+since they are either the lightest supersymmetric particles or they decay
+primarily into the channel: neutrino + lightest neutralino. If the energy of
+the decay leptons is so small that they escape detection, chargino events e+e-
+-> chi+chi- in e+e- collisions remain invisible, eroding the excluded chargino
+mass range at LEP. This region of the supersymmetry parameter space can partly
+be covered by searching for single W events in e+e- -> W+W-$, with one W boson
+decaying to leptons or quark jets, but the second W boson decaying to
+(undetected) charginos and neutralinos.
+","[{""version"":""v1"",""created"":""Sat, 22 Feb 1997 19:56:41 GMT""}]","2008-11-26"
+"hep-ph/9702399","Frank Ferrari","Frank Ferrari","Non-perturbative aspects of (supersymmetric) gauge theories","2 pages, in french, to appear in the proceedings of the ``5eme
+  journees des jeunes chercheurs,'' Autrans, 1996",,,"LPTENS-97/01","hep-ph hep-th",,"  At an elementary level, we present some non-perturbative aspects of
+non-abelian gauge theories in four dimensional space-time. Some rigorous
+results have been obtained in the framework of supersymmetric theories, and a
+very rich physics related to the strong-coupling dynamics of gauge fields has
+been discovered. Some of the new phenomena which appeared may play a
+significant role in future phenomenological models. However, quantitative
+computations in non-supersymmetric theories, like quantum chromodynamics, is
+out of reach for the moment.
+","[{""version"":""v1"",""created"":""Sat, 22 Feb 1997 16:48:26 GMT""}]","2007-05-23"
+"hep-ph/9702400","Liu Qiu Yu","Q.Y. Liu and S.T. Petcov (SISSA,Trieste; INFN,Trieate; INRNE,Sofia)","Three-Neutrino Mixing and Combined Vacuum Oscillations and MSW
+  Transitions of Solar Neutrinos","37 pages Latex, 16 Postscript Figures","Phys.Rev.D56:7392-7411,1997","10.1103/PhysRevD.56.7392","SISSA 174/96/EP","hep-ph astro-ph",,"  Assuming three flavour neutrino mixing takes place in vacuum, we investigate
+the possibility that the solar nu_e take part in MSW transitions in the Sun due
+to Delta m^2_{31} from 10^{-7} eV^2 to 10^{-4} eV^2, followed by long wave
+length vacuum oscillations on the way to the Earth, triggered by Delta m^2_{21}
+(or Delta m^2_{32}) from 10^{-12} eV^2 to 10^{-10} eV^2, Delta m^2_{31} and
+Delta m^2_{21} (Delta m^2_{32}) being the corresponding neutrino mass squared
+differences. The solar nu_e survival probability is shown to be described in
+this case by a simple analytic expression. Depending on whether the vacuum
+oscillations are due to Delta m^2_{21} or Delta m^2_{32} there are two very
+different types of interplay between the MSW transitions and the vacuum
+oscillations of the solar nu_e. Performing an analysis of the most recently
+published solar neutrino data we have found several qualitatively new solutions
+of the solar neutrino problem of the hybrid MSW transitions + vacuum
+oscillations type. The solutions differ in the way the pp, 7Be and 8B neutrino
+fluxes are affected by the transitions in the Sun and the oscillations in
+vacuum. The specific features of the new solutions are discussed.
+","[{""version"":""v1"",""created"":""Sat, 22 Feb 1997 17:26:32 GMT""}]","2009-03-20"
+"hep-ph/9702402","Per Osland","V. G. Kovalevich (Minsk), P. Osland (Bergen), Ya. M. Shnir (Berlin),
+  E. A. Tolkachev (Minsk)","The Effective Lagrangian of QED with a Magnetic Charge and Dyon Mass
+  Bounds","Accepted in Phys. Rev. D, 15 pages, 1 figure","Phys.Rev. D55 (1997) 5807-5812","10.1103/PhysRevD.55.5807",,"hep-ph",,"  The effective Lagrangian of QED coupled to dyons is calculated. The resulting
+generalization of the Euler-Heisenberg Lagrangian contains non-linear P and T
+noninvariant terms corresponding to the virtual pair creation of dyons. The
+corresponding P and T violating part of the matrix element for light-by-light
+scattering is considered. This effect induces an electric dipole moment for the
+electron, of order M^{-2}, where M is the dyon mass. The current limit on the
+electric dipole moment of the electron yields the lower dyon mass bound M > 1
+TeV.
+","[{""version"":""v1"",""created"":""Sun, 23 Feb 1997 11:56:56 GMT""}]","2009-10-30"
+"hep-th/9702155","Brian Greene","Brian Greene","String Theory on Calabi-Yau Manifolds","LaTeX file; 150 pages; please latex 3 times; contains 44 figures in
+  postscript format. Lectures given at TASI96",,,"CU-TP-812","hep-th",,"  These lectures are devoted to introducing some of the basic features of
+quantum geometry that have been emerging from compactified string theory over
+the last couple of years. The developments discussed include new geometric
+features of string theory which occur even at the classical level as well as
+those which require non-perturbative effects. These lecture notes are based on
+an evolving set of lectures presented at a number of schools but most closely
+follow a series of seven lectures given at the TASI-96 summer school on
+Strings, Fields and Duality.
+","[{""version"":""v1"",""created"":""Sun, 23 Feb 1997 10:27:48 GMT""}]","2007-05-23"
+"hep-th/9702162","Gerhard Kulzinger","E.L.Gubankova, F.Wegner","Exact renormalization group analysis in Hamiltonian theory: I. QED
+  Hamiltonian on the light front","44 pages, Latex, 14 eps-figures loaded in last two pages, minor
+  writing errors corrected",,,,"hep-th",,"  The infinitesimal unitary transformation, introduced recently by F.Wegner, to
+bring the Hamiltonian to diagonal (or band diagonal) form, is applied to the
+Hamiltonian theory as an exact renormalization scheme. We consider QED on the
+light front to illustrate the method. The low-energy generated interaction,
+induced in the renormalized Hamiltonian to the order \alpha, is shown to be
+negative to insure together with instantaneous term and perturbative photon
+exchange the bound states for positronium. It is possible to perform the
+complete complete elimination of the ee\gamma-vertex in the instant form frame;
+this gives rise to the cutoff independent e\bar{e}-interaction governed by
+generated and instantaneous terms. The well known result for the
+singlet-triplet splitting $7/6 \alpha^2 Ryd$ is recovered in the
+nonrelativistic limit as long as $\la << m$.
+  We examine the mass and wave function renormalization. The ultraviolet
+divergencies, associated with a large transverse momentum, are regularized by
+the regulator arising from the unitary transformation. The severe infrared
+divergencies are removed if all diagrams to the second order, arising from flow
+equations method and normal-ordering Hamiltonian, are taken into account. The
+electron (photon) mass in the renormalized Hamiltonian vary with UV cutoff in
+accordance with 1-loop renormalization group equations.This indicates to an
+intimete connection between Wilson's renormalization and the flow equation
+method.
+  The advantages of the method in comparison with the naive renormalisation
+group approach are discussed.
+","[{""version"":""v1"",""created"":""Sun, 23 Feb 1997 02:53:32 GMT""},{""version"":""v2"",""created"":""Wed, 2 Apr 1997 16:37:30 GMT""}]","2008-02-03"
+"quant-ph/9702046","Haiqing Wei","Haiqing Wei, Xin Xue","Static Quantum Computation","8 pages, 3 ps figures",,,,"quant-ph",,"  Tailoring many-body interactions among a proper quantum system endows it with
+computing ability by means of static quantum computation in the sense that some
+of the physical degrees of freedom can be used to store binary information and
+the corresponding binary variables satisfy some given logic relations if and
+only if the system is in the ground state. Two theorems are proved showing that
+the universal static quantum computer can encode the solutions for any P and NP
+problem into its ground state using only polynomial number (in the problem
+input size) of logic gates. The second step is to read out the solutions by
+relaxing the system. The time complexity is relevant when one tries to read out
+the solution by relaxing the system, therefore our model of static quantum
+computation provides a new connection between the computational complexity and
+the dynamics of a complex system.
+","[{""version"":""v1"",""created"":""Sat, 22 Feb 1997 23:29:16 GMT""},{""version"":""v2"",""created"":""Sun, 1 Mar 1998 02:52:57 GMT""}]","2008-02-03"

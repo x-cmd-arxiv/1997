@@ -1,0 +1,219 @@
+"astro-ph/9704053","John Girash","J. Girash (CfA)","A Fokker-Planck Model of Rotating Stellar Clusters","6 pages, Latex (paspconf.sty required), 4 postscript figures. To
+  appear in Proceedings of the 12th Kingston meeting on Theoretical
+  Astrophysics: Computational Astrophysics, eds. D.A. Clarke & M.J. West, ASP
+  Conference Series, (San Francisco: ASP)",,,,"astro-ph",,"  We have developed a two-dimensional orbit averaged Fokker-Planck model of
+stellar clusters which expands on spherically symmetric one-dimensional models
+to include rotation and ellipticity. Physical effects such as collisions,
+finite stellar lifetimes and bar formation (i.e., a non-axisymmetric component
+of the potential) can also be included. The first use of the model is to study
+the evolution of dense clusters (rho(r=0)=~10^7 M_sun/pc^3) that may be
+expected to have existed at the centres of newly-forming galaxies, with the
+goal of verifying that angular momentum can be removed from the core of the
+cluster quickly enough so that rotation no longer prevents the formation of a
+massive (~10^2 M_sun) object. This could act as the seed black hole for the
+formation of an AGN.
+","[{""version"":""v1"",""created"":""Sat, 5 Apr 1997 23:30:01 GMT""}]","2007-05-23"
+"chao-dyn/9704009","Nianzheng Cao","Shiyi Chen, Katepalli R. Sreenivasan, Mark Nelkin and Nianzheng Cao","A Refined Similarity Hypothesis for Transverse Structure Functions","4 pages, 5 figures",,"10.1103/PhysRevLett.79.2253",,"chao-dyn nlin.CD",,"  We argue on the basis of empirical data that Kolmogorov's refined similarity
+hypothesis (RSH) needs to be modified for transverse velocity increments, and
+propose an alternative. In this new form, transverse velocity increments bear
+the same relation to locally averaged enstrophy (squared vorticity) as
+longitudinal velocity increments bear in RSH to locally averaged dissipation.
+We support this hypothesis by analyzing high-resolution numerical simulation
+data for isotropic turbulence. RSH and its proposed modification for transverse
+velocity increments (RSHT) appear to represent two independent scaling groups.
+","[{""version"":""v1"",""created"":""Sun, 6 Apr 1997 01:39:09 GMT""}]","2009-10-30"
+"cond-mat/9704046","Giorgio Parisi","Giorgio Parisi","Non-equilibrium fluctuation dissipation relations in binary glasses","Proceedings of the Andalo Conference, March 1997",,"10.1080/13642819808204951",,"cond-mat.dis-nn cond-mat.soft",,"  We show that at short time aging is realized in a simple model of binary
+glasses. We find that below the transition point the off-equilibrium
+correlation functions and response functions are compatible with the relations
+that were originally derived Cugliandolo Kurchan for generalized spin glasses.
+","[{""version"":""v1"",""created"":""Sat, 5 Apr 1997 17:40:10 GMT""}]","2017-02-08"
+"cond-mat/9704047","Bernd Rosenow","R. Oppermann and B. Rosenow (Univ. Wuerzburg)","Magnetic Gaps related to Spin Glass Order in Fermionic Systems","4 pages, 1 Postscript figure, revised version accepted for
+  publication in Physical Review Letters",,"10.1103/PhysRevLett.80.4767",,"cond-mat.dis-nn cond-mat.str-el",,"  We provide evidence for spin glass related magnetic gaps in the fermionic
+density of states below the freezing temperature. Model calculations are
+presented and proposed to be relevant for explaining resistivity measurements
+which observe a crossover from variable-range- to activated behavior. The
+magnetic field dependence of a hardgap and the low temperature decay of the
+density of states are given. In models with fermion transport a new
+metal-insulator transition is predicted to occur due to the spin-glass gap,
+anteceding the spin glass to quantum paramagnet transition at smaller spin
+density. Important fluctuation effects due to finite range frustrated
+interactions are estimated and discussed.
+","[{""version"":""v1"",""created"":""Sun, 6 Apr 1997 15:35:26 GMT""},{""version"":""v2"",""created"":""Tue, 17 Mar 1998 18:03:23 GMT""}]","2009-10-30"
+"gr-qc/9704012","Kirill A. Bronnikov","Kirill A. Bronnikov (VNIIMS, Moscow)","Multidimensional Cosmology with a Generalized Maxwell Field: Integrable
+  Cases","6 pages, Latex. To appear in Grav. and Cosmol. v.3, No.1 (1997)","Grav.Cosmol. 3 (1997) 65-70",,"RGS-VNIIMS-97/03","gr-qc",,"  We consider multidimensional cosmologies in even-dimensional space-times
+(D=2n) containg perfect fluid and a multidimensional generalization of the
+Maxwell field, preserving its conformal invariance (the F field, an n-form).
+Among models with an isotropic physical 3-space some integrable cases are
+found: vacuum models (which are integrable in the general case) and some
+perfect fluid models with barotropic equations of state. All of them contain a
+component of the F field appearing as an additional scalar in 4 dimensions. A
+two-parameter family of spatially flat models and four one-parameter families,
+including non-spatially flat models, have been obtained (where the parameters
+are constants from the fluid equation of state). All these integrable models
+admit the inclusion of a massless scalar field or an additional fluid with
+ultrastiff equation of state. Basic properties of vacuum models in the physical
+conformal frame are outlined.
+","[{""version"":""v1"",""created"":""Sun, 6 Apr 1997 05:55:44 GMT""}]","2007-05-23"
+"gr-qc/9704013","Fotini Markopoulou","Fotini Markopoulou","Dual formulation of spin network evolution","Latex, 20 pages, 16 figures",,,,"gr-qc",,"  We illustrate the relationship between spin networks and their dual
+representation by labelled triangulations of space in 2+1 and 3+1 dimensions.
+We apply this to the recent proposal for causal evolution of spin networks. The
+result is labelled spatial triangulations evolving with transition amplitudes
+given by labelled spacetime simplices. The formalism is very similar to
+simplicial gravity, however, the triangulations represent combinatorics and not
+an approximation to the spatial manifold. The distinction between future and
+past nodes which can be ordered in causal sets also exists here. Spacelike and
+timelike slices can be defined and the foliation is allowed to vary. We clarify
+the choice of the two rules in the causal spin network evolution, and the
+assumption of trivalent spin networks for 2+1 spacetime dimensions and
+four-valent for 3+1. As a direct application, the problem of the exponential
+growth of the causal model is remedied. The result is a clear and more rigid
+graphical understanding of evolution of combinatorial spin networks, on which
+further work can be based.
+","[{""version"":""v1"",""created"":""Sun, 6 Apr 1997 13:48:04 GMT""}]","2007-05-23"
+"hep-lat/9704002",,"L. Giusti (SNS - Pisa)","Quenched Hadron Spectrum and Decay Constants on the lattice","8 pages, latex, Talk given at XXV ITEP Winter School of Physics,
+  Moscow - Russia, 18-27 Feb 1997","Surveys High Energ.Phys. 13 (1998) 211-221","10.1080/01422419808240879",,"hep-lat hep-ph",,"  In this talk we present the results obtained from a study of ${\cal O}(2000)$
+(quenched) lattice configurations from the APE collaboration, at
+$6.0\le\beta\le 6.4$, using both the Wilson and the SW-Clover fermion action.
+We determine the light hadronic spectrum and the meson decay constants. For the
+light-light systems we find an agreement with the experimental data of $\sim
+5%$ for mesonic masses and $\sim 10%-15%$ for baryonic masses and pseudoscalar
+decay constants; a larger deviation is present for the vector decay constants.
+For the heavy-light decay constants we find $f_{D_s}=237 \pm 16 MeV, f_{D} =
+221 \pm 17 MeV (f_{D_s}/f_D=1.07(4)), f_{B_s} = 205 \pm 35 MeV, f_{B} = 180 \pm
+32 MeV (f_{B_s}/f_B=1.14(8))$, in good agreement with previous estimates.
+","[{""version"":""v1"",""created"":""Sun, 6 Apr 1997 03:15:26 GMT""}]","2015-06-25"
+"hep-lat/9704003","Hans-Reinhard Mueller","Hans-Reinhard Mueller (Dartmouth College)","Toward numerical and analytical studies of first order phase transitions","4 pages, 4 eps figures, latex, uses sprocl.sty; to be published in
+  Proceedings of the 1996 Texas Symposium on Relativistic Astrophysics, A.
+  Olinto, J. Frieman and D. Schramm (eds.), World Scientific, Singapore",,,"DART-HEP-97/03","hep-lat cond-mat.stat-mech hep-ph",,"  Discrete lattice simulations of an one-dimensional phi^4 theory coupled to an
+external heat bath are being carried out. Great care is taken to remove the
+effects of lattice discreteness and finite size and to establish the correct
+correspondence between simulations and the desired, finite-temperature
+continuum limit.
+","[{""version"":""v1"",""created"":""Sat, 5 Apr 1997 23:30:53 GMT""}]","2008-02-03"
+"hep-ph/9704245","Nikolai Uraltsev","I. Bigi, M. Shifman, N. Uraltsev and A. Vainshtein","High Power n of m_b in Beauty Widths and n=5 -> oo Limit","26 pages, 1 figure; plain LaTeX","Phys.Rev.D56:4017-4030,1997","10.1103/PhysRevD.56.4017","CERN-TH/96-191, TPI-MINN-96/13-T, UMN-TH-1506-96, UND-HEP-97-BIG02","hep-ph",,"  The leading term in the semileptonic width of heavy flavor hadrons depends on
+the fifth power of the heavy quark mass. We present an analysis where this
+power can be self-consistently treated as a free parameter n and the width can
+be studied in the limit n -> oo. The resulting expansion elucidates why the
+small velocity (SV) treatment is relevant for the inclusive semileptonic b->c
+transition. The extended SV limit (ESV limit) is introduced. The leading terms
+in the perturbative alpha_s expansion enhanced by powers of n are automatically
+resummed by using the low-scale Euclidean mass. The large-n treatment explains
+why the scales of order m_b/n are appropriate. On the other hand, the scale
+cannot be too small since the factorially divergent perturbative corrections
+associated with running of alpha_s show up. Both requirements are met if we use
+the short-distance mass normalized at a scale around m_b/n \sim 1 GeV. A
+convenient definition of such low-scale OPE-compatible masses is briefly
+discussed.
+","[{""version"":""v1"",""created"":""Sat, 5 Apr 1997 21:57:26 GMT""}]","2010-04-06"
+"hep-ph/9704246","Rob Leigh","Robert G. Leigh, Lisa Randall and Riccardo Rattazzi","Unity of Supersymmetry Breaking Models","harvmac, 40 pages","Nucl.Phys.B501:375-408,1997","10.1016/S0550-3213(97)00386-6","ILL-(TH)-97-1, MIT-CTP-2613, CERN-TH/97-07","hep-ph hep-th",,"  We examine the models with gauge group U(1)^{k-1}\times\prod_{i=1}^k SU(n_i),
+which are obtained from decomposing the supersymmetry breaking model of
+Affleck, Dine and Seiberg containing an antisymmetric tensor field. We note
+that all of these models are distinct vacua of a single SU(N) gauge theory with
+an adjoint superfield. The dynamics of this model may be analyzed using the
+duality of Kutasov and Schwimmer and the deconfinement trick of Berkooz. This
+analysis leads to a simple picture for supersymmetry breaking for k=2,
+complementing that of previous work. We examine the flat directions of these
+models, and give straightforward criteria for lifting them, explaining the
+requisite peculiar form of the superpotential. For all cases with k>2, the
+duality argument fails to give supersymmetry breaking dynamics, and we identify
+a class of problematic flat directions, which we term 2m-baryons. We study in
+some detail the requirements for lifting these directions, and uncover some
+surprising facts regarding the relationship between R-symmetry and
+supersymmetry breaking in models with several gauge groups.
+","[{""version"":""v1"",""created"":""Sun, 6 Apr 1997 02:00:23 GMT""}]","2009-09-15"
+"hep-ph/9704247",,"T. Li, J. Lopez, D. Nanopoulos","Compactifications of M-theory and their Phenomenological Consequences","10 pages, LaTex","Phys. Rev. D 56, 2602 (1997)","10.1103/PhysRevD.56.2602","CTP-TAMU-17/97, DOE/ER/40717-42","hep-ph hep-th",,"  We compactify the M-theory proposed by Horava and Witten on a Calabi-Yau
+manifold with boundary $S_1/Z_2$. A no-scale-like K\""ahler potential, the
+superpotential, and the gauge kinetic function are obtained in this
+4-dimensional $E_6\times E_8$ model. We also study the general phenomenological
+consequences of the resulting M-theory-inspired model, which may include very
+light gravitinos, axions and axinos.
+","[{""version"":""v1"",""created"":""Sun, 6 Apr 1997 03:49:13 GMT""}]","2016-08-24"
+"hep-th/9704031","Carlos Castro","Carlos Castro","SU(infinity) q-Moyal-Nahm Equations and Quantum Deformations of the Self
+  Dual Membrane","25 pages. Revised tex file. More references have been included and
+  minor corrections",,,"University of Texas at Austin, CPT-97-4-1 preprint","hep-th",,"  Since the lightcone self dual spherical membrane, moving in flat target
+backgrounds, has a direct correspondence with the SU(\infty) Nahm equations and
+the continuous Toda theory, we construct the quantum/Moyal deformations of the
+self dual membrane in terms of the q-Moyal star product . The q deformations of
+the SU(\infty) Nahm equations are studied and explicit solutions are given. The
+continuum limit of the q Toda chain equations are obtained furnishing q
+deformations of the self dual membrane. Finally, the continuum Moyal-Toda chain
+equation is embedded into the SU(\infty) Moyal-Nahm equations, rendering the
+relation with the Moyal deformations of the self dual membrane. W_{\infty} and
+q-W_{\infty} algebras arise as the symmetry algebras and the role of ( the
+recently developed ) quantum Lie algebras associated with quantized universal
+enveloping algebras is pointed out pertaining the formulation of a q Toda
+theory. We review as well the Weyl-Wigner-Moyal quantization of the 3D
+continuous Toda field equation, and its associated 2D continuous Toda molecule,
+based on Moyal deformations of rotational Killing symmetry reductions of
+Plebanski first heavenly equation.
+","[{""version"":""v1"",""created"":""Sun, 6 Apr 1997 00:15:22 GMT""},{""version"":""v2"",""created"":""Tue, 8 Apr 1997 14:57:40 GMT""}]","2008-02-03"
+"hep-th/9704042","Douglas A. Singleton","Douglas Singleton","Can Magnetic Charge and Quantum Mechanics Co-exist ?","This paper is temporarily withdrawn. A revised version of work in
+  progress may be available in August",,,,"hep-th",,"  It is proven that if more than a single magnetic charge exists it is
+impossible to define a proper quantum mechanical angular momentum operator for
+an electrically charged particle in the field of the magnetic charges. Assuming
+that quantum mechanics is correct we conclude that free magnetic charges (i.e.
+magnetic charges with a Coulomb-like magnetic field) can not exist. The only
+apparent way to avoid this conclusion is if magnetic charges do exist, they
+must be permanently confined in monopole anti-monopole pairs, much in the same
+way quarks are thought to be confined.
+","[{""version"":""v1"",""created"":""Sat, 5 Apr 1997 22:17:12 GMT""},{""version"":""v2"",""created"":""Sun, 1 Jun 1997 21:45:49 GMT""}]","2008-02-03"
+"hep-th/9704044","Jacob Sonnenschein","A. Brandhuber, J. Sonnenschein, S. Theisen and S. Yankielowicz","Brane Configurations and 4D Field Theory Dualities","28 pages, 12 Postscript figures Includes corrections to section 6 and
+  additional references","Nucl.Phys. B502 (1997) 125-148","10.1016/S0550-3213(97)00414-8",,"hep-th",,"  We study brane configurations which correspond to field theories in four
+dimension with N=2 and N=1 supersymmetry. In particular we discuss brane
+motions that translate to Seiberg's duality in N=1 models recently studied by
+Elitzur, Giveon and Kutasov. We investigate, using the brane picture, the
+moduli spaces of the dual theories. Deformations of these models like mass
+terms and vacuum expectation values of scalar fields can be identified with
+positions of branes. The map of these deformations between the electric and
+dual magnetic theories is clarified. The models we study reproduce known field
+theory results and we provide an example of new dual pairs with N=1
+supersymmetry. Possible relations between brane configurations and
+non-supersymmetric field theories are discussed.
+","[{""version"":""v1"",""created"":""Sun, 6 Apr 1997 15:48:41 GMT""},{""version"":""v2"",""created"":""Sun, 13 Apr 1997 12:22:45 GMT""}]","2009-10-30"
+"nucl-th/9704009","Pawel Danielewicz","P. Danielewicz (NSCL, Michigan State U.)","Compression and Expansion in Central Collisions","23 pages, Latex, 16 Postscript figures included, Proc. Int. Research
+  Workshop ""Heavy Ion Physics at Low, Intermediate, and Relativistic Energies
+  with 4Pi Detectors"", Poiana Brasov, Romania, 7-14 October, 1996",,,,"nucl-th nucl-ex",,"  Dynamics of central collisions of heavy nuclei in the energy range from few
+tens of MeV/nucleon to a couple of GeV/nucleon is discussed. As the beam energy
+increases and/or the impact parameter decreases, the maximum compression
+increases. It is argued that the hydrodynamic behavior of matter sets in the
+vicinity of balance energy. At higher energies shock fronts are observed to
+form within head-on reaction simulations, perpendicular to beam axis and
+separating hot compressed matter from cold. In the semicentral reactions a weak
+tangential discontinuity develops in-between these fronts. The hot compressed
+matter exposed to the vacuum in directions parallel to the shock fronts begins
+to expand collectively into these directions. The expansion affects particle
+angular distributions and mean energy components and further shapes of spectra
+and mean energies of particles emitted into any one direction. The variation of
+slopes and the relative yields measured within the FOPI collaboration are in a
+general agreement with the results of simulations. As to the FOPI data on
+stopping, they are consistent with the preference for transverse over the
+longitudinal motion in the head-on Au + Au collisions. Unfortunately, though,
+the data cannot be used to decide directly on that preference due to acceptance
+cuts. Tied to the spatial and temporal changes in the reactions are changes in
+the entropy per nucleon.
+","[{""version"":""v1"",""created"":""Sat, 5 Apr 1997 19:06:19 GMT""}]","2009-09-25"
+"solv-int/9704005","Guest","R. Myrzakulov (High Energy Physics Institute, National Academy of
+  Sciences, Alma-Ata, Kazakstan), S. Vijayalakshmi, G. N. Nugmanova, and M.
+  Lakshmanan (Centre for Nonlinear Dynamics, Department of Physics,
+  Bharathidasan University, Tiruchirapalli, India)","A (2+1) dimensional integrable spin model: Geometrical and gauge
+  equivalent counterpart, solitons and localized coherent structures","14 pages, LaTex, no figures; email of first author:
+  rat@nlpub.ksisti.alma-ata.su and myrzakulov@hepi.academ.alma-ata.su","Physics Letters A, v.233, N4-6, 391-396 (1997)","10.1016/S0375-9601(97)00457-X",,"solv-int nlin.SI",,"  A non-isospectral (2+1) dimensional integrable spin equation is investigated.
+It is shown that its geometrical and gauge equivalent counterparts is the (2+1)
+dimensional nonlinear Schr\""odinger equation introduced by Zakharov and studied
+recently by Strachan. Using a Hirota bilinearised form, line and curved soliton
+solutions are obtained. Using certain freedom (arbitrariness) in the solutions
+of the bilinearised equation, exponentially localized dromion-like solutions
+for the potential is found. Also, breaking soliton solutions (for the spin
+variables) of the shock wave type and algebraically localized nature are
+constructed.
+","[{""version"":""v1"",""created"":""Sun, 6 Apr 1997 06:45:34 GMT""}]","2013-10-15"
+"solv-int/9704007","Hisao Konuma","Satoru Saito","The Correspondence between Discrete Surface and Difference Geometry of
+  the KP-hierarchy",,,,,"solv-int hep-th nlin.SI",,"  The correspondence between two geometrical descriptions of the KP-hierarchy,
+one by discrete surface and another by difference analogue of differential
+geometry, is given.
+","[{""version"":""v1"",""created"":""Sun, 6 Apr 1997 06:08:17 GMT""}]","2008-02-03"
+"solv-int/9704008","Hisao Konuma","Satoru Saito","Dual Resonance Model Solves the Yang-Baxter Equation","10 pages, LaTeX",,"10.1088/0305-4470/30/23/025",,"solv-int hep-th nlin.SI",,"  The duality of dual resonance models is shown to imply that the four point
+string correlation function solves the Yang-Baxter equation. A reduction of
+transfer matrices to $A_l$ symmetry is described by a restriction of the KP
+$\tau$ function to Toda molecules.
+","[{""version"":""v1"",""created"":""Sun, 6 Apr 1997 06:18:36 GMT""}]","2009-10-30"

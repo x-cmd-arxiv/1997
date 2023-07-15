@@ -1,0 +1,177 @@
+"cond-mat/9705024","Dr. Rashba","Emmanuel I. Rashba (University of Utah)","Free induction signal from biexcitons and bound excitons","RevTeX, 20 p. + 2 ps fig. To appear in Phys. Rev. B15",,"10.1103/PhysRevB.55.16198",,"cond-mat",,"  A theory of the free induction signal from biexcitons and bound excitons is
+presented. The simultaneous existence of the exciton continuum and a bound
+state is shown to result in a new type of time dependence of the free
+induction. The optically detected signal increases in time and oscillates with
+increasing amplitude until damped by radiative or dephasing processes.
+Radiative decay is anomalously fast and can result in strong picosecond pulses.
+The expanding area of a coherent exciton polarization (inflating antenna),
+produced by the exciting pulse, is the underlying physical mechanism. The
+developed formalism can be applied to different biexciton transients.
+","[{""version"":""v1"",""created"":""Sat, 3 May 1997 21:52:21 GMT""}]","2009-10-30"
+"cond-mat/9705026","Thomas Husslein","Thomas Husslein, Werner Fettes and Ingo Morgenstern","Comparison of Calculations for the Hubbard model obtained with
+  Quantum-Monte-Carlo, exact and stochastic Diagonalization","24 pages, 9 figures","Int. J. Mod. Phys. C Vol.8 No.2 (1997) 397","10.1142/S0129183197000333",,"cond-mat",,"  In this paper we compare numerical results for the ground state of the
+Hubbard model obtained by Quantum-Monte-Carlo simulations with results from
+exact and stochastic diagonalizations. We find good agreement for the ground
+state energy and superconducting correlations for both, the repulsive and
+attractive Hubbard model. Special emphasis lies on the superconducting
+correlations in the repulsive Hubbard model, where the small magnitude of the
+values obtained by Monte-Carlo simulations gives rise to the question, whether
+these results might be caused by fluctuations or systematic errors of the
+method. Although we notice that the Quantum-Monte-Carlo method has convergence
+problems for large interactions, coinciding with a minus sign problem, we
+confirm the results of the diagonalization techniques for small and moderate
+interaction strengths. Additionally we investigate the numerical stability and
+the convergence of the Quantum-Monte-Carlo method in the attractive case, to
+study the influence of the minus sign problem on convergence. Also here in the
+absence of a minus sign problem we encounter convergence problems for strong
+interactions.
+","[{""version"":""v1"",""created"":""Sat, 3 May 1997 21:56:58 GMT""}]","2015-06-25"
+"cond-mat/9705027","Craig M. Savage","C.M. Savage, Janne Ruostekoski, and Dan F. Walls","Pumping two dilute gas Bose-Einstein condensates with Raman light
+  scattering","4 pages, no figures","Phys. Rev. A 57 (1998) 3805","10.1103/PhysRevA.57.3805",,"cond-mat.stat-mech",,"  We propose an optical method for increasing the number of atoms in a pair of
+dilute gas Bose-Einstein condensates. The method uses laser-driven Raman
+transitions which scatter atoms between the condensate and non-condensate atom
+fractions. For a range of condensate phase differences there is destructive
+quantum interference of the amplitudes for scattering atoms out of the
+condensates. Because the total atom scattering rate into the condensates is
+unaffected the condensates grow. This mechanism is analogous to that
+responsible for optical lasing without inversion. Growth using macroscopic
+quantum interference may find application as a pump for an atom laser.
+","[{""version"":""v1"",""created"":""Sun, 4 May 1997 01:51:28 GMT""}]","2011-07-04"
+"dg-ga/9705003","Leonid Polterovich","Leonid Polterovich","Symplectic aspects of the first eigenvalue","LATEX, 18 pages",,,,"dg-ga math.DG",,"  There are two themes in the present paper. The first one is spelled out in
+the title, and is inspired by an attempt to find an analogue of Hersch-Yang-Yau
+estimate for $lambda_1$ of surfaces in symplectic category. In particular we
+prove that every split symplectic manifold $T^4 times M$ admits a compatible
+Riemannian metric whose first eigenvalue is arbitrary large. On the other hand
+for Kahler metrics compatible with a given integral symplectic form an upper
+bound for $lambda_1$ does exist. The second theme is the study of Hamiltonian
+symplectic fibrations over the 2-sphere. We construct a numerical invariant
+called the size of a fibration which arises as the solution of certain
+variational problems closely related to Hofer's geometry, K-area and coupling.
+In some examples it can be computed with the use of Gromov-Witten invariants.
+The link between these two themes is given by an observation that the first
+eigenvalue of a Riemannian metric compatible with a symplectic fibration admits
+a universal upper bound in terms of the size.
+","[{""version"":""v1"",""created"":""Sun, 4 May 1997 14:28:46 GMT""}]","2008-02-03"
+"hep-ex/9705002","Daniel Kaplan","Daniel M. Kaplan (Illinois Institute of Technology)","A Future Charm Facility","8 pages, LaTeX, 1 PostScript figure",,,"IIT-HEP-97/1","hep-ex hep-ph",,"  The ""BTeV/C0"" experiment at Fermilab could reconstruct >10^9 charm decays,
+four orders of magnitude beyond the largest extant sample. The experiment is
+likely to run during Tevatron Run II (ca. 2000--2005). In addition to
+""programmatic"" charm physics such as spectroscopy, lifetimes, and QCD tests, it
+will have significant new-physics reach in the areas of CP violation,
+flavor-changing neutral-current and lepton-number-violating decays, and
+$D^0\bar{D^0}$ mixing, and could observe direct CP violation in
+Cabibbo-suppressed D decays if it occurs at the level predicted by the Standard
+Model.
+","[{""version"":""v1"",""created"":""Sun, 4 May 1997 09:49:38 GMT""}]","2016-08-31"
+"hep-lat/9705007","Benjamin Svetitsky","Benjamin Svetitsky, Nathan Weiss (Tel Aviv University)","Ising description of the transition region in SU(3) gauge theory at
+  finite temperature","12 pages, revtex, including 2 Postscript figures; conclusions have
+  changed slightly to conform to the theorem of Van Enter, Fernandez, and Sokal
+  on the continuity of RG maps","Phys.Rev. D56 (1997) 5395-5399","10.1103/PhysRevD.56.5395","TAUP-2421-97","hep-lat",,"  We attempt the numerical construction of an effective action in three
+dimensions for Ising spins which represent the Wilson lines in the
+four-dimensional SU(3) gauge theory at finite temperature. For each
+configuration of the gauge theory, each spin is determined by averaging the
+Wilson lines over a small neighborhood and then projecting the average to +/-1
+according to whether the neighborhood is ordered or disordered. The effective
+Ising action, determined via the lattice Schwinger-Dyson equations, contains
+even (two-spin) and odd (one- and three-spin) terms with short range. We find
+that the truncation to Ising degrees of freedom produces an effective action
+which is discontinuous across the gauge theory's phase transition. This
+discontinuity may disappear if the effective action is made more elaborate.
+","[{""version"":""v1"",""created"":""Sun, 4 May 1997 11:29:15 GMT""},{""version"":""v2"",""created"":""Mon, 7 Jul 1997 20:57:27 GMT""}]","2009-10-30"
+"hep-ph/9705223","Huang Ming-qiu","Yuan-ben Dai, Chao-shang Huang, Ming-qiu Huang, Hong-Ying Jin and Chun
+  Liu","Decay Widths of Excited Heavy Mesons From QCD Sum Rules at the Leading
+  Order of HQET","RevTeX, 16 pages including 1 figure; minor changes, final version to
+  appear in Physical Review D","Phys.Rev.D58:094032,1998; Erratum-ibid.D59:059901,1999","10.1103/PhysRevD.58.094032 10.1103/PhysRevD.59.059901","BIHEP-TH-97-005, AS-ITP-97-12, SNUTP 97-049","hep-ph",,"  The widths for pionic decays of lowest two excited doublets (0^+,1^+) and
+(1^+,2^+) of heavy mesons are studied with QCD sum rules in the leading order
+of heavy quark effective theory. The ambiguity due to presence of two distinct
+1^+ states are solved. The soft pion approximation is not used.
+","[{""version"":""v1"",""created"":""Sun, 4 May 1997 07:59:57 GMT""},{""version"":""v2"",""created"":""Thu, 30 Apr 1998 03:01:40 GMT""},{""version"":""v3"",""created"":""Tue, 18 Aug 1998 07:53:59 GMT""}]","2014-11-17"
+"hep-ph/9705224","Matthias Burkardt","Matthias Burkardt","Mesons a in Collinear QCD Model","final version, to appear in PRD","Phys.Rev. D56 (1997) 7105-7118","10.1103/PhysRevD.56.7105",,"hep-ph hep-th",,"  A phenomenological model for the quark structure of mesons is considered. The
+model is based on the tube model for QCD, where all quanta with nonzero
+transverse momenta are neglected. In the limit that the mass term of the gluons
+goes to infinity, the model is equivalent to a combination of the 't Hooft and
+Gross-Neveu models and can be solved semi-analytically. The model has the
+properties of confinement, chiral symmetry breaking and asymptotic freedom and
+thus resembles QCD in three key respects. Spectra, distribution amplitudes and
+form factors of mesons are analyzed.
+","[{""version"":""v1"",""created"":""Sun, 4 May 1997 14:22:21 GMT""},{""version"":""v2"",""created"":""Thu, 18 Sep 1997 15:36:16 GMT""}]","2009-10-30"
+"hep-ph/9705225","Zhang Wei-Ming","Wei-Min Zhang (Institute of Physics, Academia Sinica, Taipei)","Light-Front QCD and Heavy Quark Systems","lecture notes, 45 pages. Based on lectures delivered at the First
+  International School on Light-Front Quantization and Non-Perturbative QCD,
+  May 6 - June 2, 1996, International Institute of Theoretical and Applied
+  Physics, Iowa State University, Ames, IA, U.S.A",,,,"hep-ph",,"  In this series of lectures, I shall begin with the current investigations on
+phenomenology of hadron dynamics to demonstrate the importance of solving
+hadronic bound states within the framework of light-front (LF) QCD. Then, I
+will describe the basic procedure how to formulate the canonical theory of
+LFQCD, including light-front quantization of QCD, light-front gauge
+singularity, and light-front two-component formalism. I will also present a
+complete one-loop QCD calculation in terms of the light-front time-ordering
+perturbation theory, in comparison with the usual covariant perturbative QCD
+calculation. Following thereby I will discuss the development of heavy-quark
+effective theory and the manifestation of heavy quark symmetry on the
+light-front. Finally, by applying recently developed similarity renormalization
+group approach to light-front heavy quark effective theory, I will show a
+rigorous derivation of quark confinement interaction from LFQCD and its
+application to solve heavy hadron bound states.
+","[{""version"":""v1"",""created"":""Sun, 4 May 1997 15:46:13 GMT""}]","2007-05-23"
+"hep-th/9705011","J. P. Gauntlett","Jerome P. Gauntlett","Intersecting Branes","Latex, 48 pages. Typos corrected. Various minor improvements",,"10.1142/9789814447287_0004","QMW-PH-97-13, NI-97023","hep-th",,"  BPS configurations of intersecting branes have many applications in string
+theory. We attempt to provide an introductory and pedagogical review of
+supergravity solutions corresponding to orthogonal BPS intersections of branes
+with an emphasis on eleven and ten space-time dimensions. Recent work on BPS
+solutions corresponding to non-orthogonally intersecting branes is also
+discussed. These notes are based on lectures given at the APCTP Winter School
+""Dualities of Gauge and String Theories"", Korea, February 1997.
+","[{""version"":""v1"",""created"":""Sun, 4 May 1997 15:12:33 GMT""},{""version"":""v2"",""created"":""Sun, 18 May 1997 14:57:24 GMT""}]","2016-11-03"
+"hep-th/9705012","Hitoshi Sato","Hitoshi Sato","Non-Perturbative Superpotentials in Landau-Ginzburg Compactification","9 pages, Latex 2.09, no figure",,,"OU-HET 263","hep-th alg-geom math.AG",,"  We study the Landau-Ginzburg models which correspond to Calabi-Yau
+four-folds. We construct the index of the typical states which correspond to
+toric divisors. This index shows that whether a corresponding divisor can
+generate a non-perturbative superpotential. For an application, we consider the
+phase transition in terms of the orbifold construction. We obtain the simple
+method by which the divisor, which can not generate a superpotential in the
+original theory, can generate a superpotential after orbifoldization.
+","[{""version"":""v1"",""created"":""Sun, 4 May 1997 11:24:30 GMT""}]","2008-02-03"
+"hep-th/9705013","Igor V. Volovich","I.V.Volovich","Planckian Energy Scattering of D-branes and M(atrix) Theory in Curved
+  Space","5 pages, Latex",,"10.1007/BFb0105235","SMI-12-97/5","hep-th gr-qc",,"  We argue that black p-branes will occur in the collision of D0-branes at
+Planckian energies. This extents the Amati, Ciafaloni and Veneziano and 't
+Hooft conjecture that black holes occur in the collision of two light particles
+at Planckian energies. We discuss a possible scenario for such a process by
+using colliding plane gravitational waves. D-branes in the presence of black
+holes are discussed. M(atrix) theory and matrix string in curved space are
+considered. A violation of quantum coherence in M(atrix) theory is noticed.
+","[{""version"":""v1"",""created"":""Sun, 4 May 1997 13:55:40 GMT""}]","2009-10-30"
+"hep-th/9705014","Leonid Chekhov","L. Chekhov and K. Zarembo","Effective Action and Measure in Matrix Model of IIB Superstrings","9pp., Latex; v2: the discussion of the large N limit of the induced
+  measure is substantially expanded","Mod.Phys.Lett. A12 (1997) 2331-2340","10.1142/S0217732397002417","ITEP-TH-18/97","hep-th",,"  We calculate an effective action and measure induced by the integration over
+the auxiliary field in the matrix model recently proposed to describe IIB
+superstrings. It is shown that the measure of integration over the auxiliary
+matrix is uniquely determined by locality and reparametrization invariance of
+the resulting effective action. The large--$N$ limit of the induced measure for
+string coordinates is discussed in detail. It is found to be ultralocal and,
+thus, possibly is irrelevant in the continuum limit. The model of the GKM type
+is considered in relation to the effective action problem.
+","[{""version"":""v1"",""created"":""Sun, 4 May 1997 14:25:46 GMT""},{""version"":""v2"",""created"":""Tue, 15 Jul 1997 12:15:02 GMT""}]","2009-10-30"
+"physics/9705002","Don Frantz","Don D. Frantz (Department of Chemistry, University of Waterloo,
+  Waterloo, Canada)","A computational study of 13-atom Ne-Ar cluster heat capacities","45 pages, 11 Figures, figures in .gif format files. Journal of
+  Chemical Physics, AIP ID number 513730JCP",,"10.1063/1.474551",,"physics.chem-ph",,"  Heat capacity curves as functions of temperature were calculated using Monte
+Carlo methods for the series of Ne_(13-n)Ar_n clusters (0 <= n <= 13). The
+clusters were modeled classically using pairwise additive Lennard-Jones
+potentials. The J-walking (or jump-walking) method was used to overcome
+systematic errors due to quasiergodicity. Substantial discrepancies between the
+J-walking results and those obtained using standard Metropolis methods were
+found. Results obtained using the atom-exchange method, another Monte Carlo
+variant for multi-component systems, also did not compare well with the
+J-walker results. Quench studies were done to investigate the clusters'
+potential energy surfaces. Only those Ne-Ar clusters consisting predominately
+of either one or the other component had lowest energy isomers having the
+icosahedral-like symmetry typical of homogeneous 13-atom rare gas clusters;
+non-icosahedral structures dominated the lowest-energy isomers for the other
+clusters. This resulted in heat capacity curves that were very much different
+than that of their homogeneous counterpart. Evidence for coexistence behavior
+different than that seen in homogenous clusters is also presented.
+","[{""version"":""v1"",""created"":""Sat, 3 May 1997 17:56:33 GMT""}]","2009-10-30"
+"physics/9705003","Antonio Brotas","A. Brotas","A Elasticidade Relativista","Latex file in portuguese language (23 pages). Key words: relativity,
+  rigid body, paradoxes,rotating disk",,,"DF/IST - 4.97","physics.ed-ph",,"  The purpose of this paper is to make clear the difference between rigid and
+undeformable bodies in Relativity. The error of confusing these two concepts
+has survived up to the present day treatises. We hope it will not persist in
+the XXI century treatises. The large majority of relativists do not know the
+formulae for the relativistic elasticity of rigid bodies (Mc Crea 1952,Brotas
+1968). The paradoxes of the rotating disk and of the 3-degrees of freedom of
+rigidies bodies in Relativity are in the domain of relativistic elasticity.
+","[{""version"":""v1"",""created"":""Sun, 4 May 1997 04:57:09 GMT""}]","2008-02-03"

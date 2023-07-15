@@ -1,0 +1,256 @@
+"alg-geom/9704022","Caryn Werner","I. Dolgachev, C. Werner","A simply connected numerical Godeaux surface with ample canonical class","plain Tex 22 pages; 1 figure added, revised proofs of several
+  results, corrected typos",,,,"alg-geom math.AG",,"  We prove that a recent construction of a numerical Godeaux surface due to P.
+Craighero and R. Gattazzo is simply connected, and show how to realize their
+construction as a double plane. By proving that the surface contains no
+(-2)-curves, we obtain that this is the first example of a simply connected
+surface with vanishing geometric genus and ample canonical class.
+","[{""version"":""v1"",""created"":""Fri, 25 Apr 1997 16:57:59 GMT""},{""version"":""v2"",""created"":""Tue, 3 Feb 1998 20:27:57 GMT""}]","2008-02-03"
+"astro-ph/9704252","Carlo Graziani","Carlo Graziani, Donald Q. Lamb, and Raphael Slawinski","Determination of X-Ray Transient Source Positions By Bayesian Analysis
+  of Coded Aperture Data","6 pages, LATEX. Four postscript figures. To appear in the Proceedings
+  of the RIKEN Workshop on All-sky X-ray Observations in the Next Decade. Uses
+  RIKEN custom LATEX macros, included Updated to correct an error in an
+  equation and attendant figures",,,,"astro-ph",,"  We present a new method of transient point source deconvolution for
+coded-aperture X-Ray detectors. Our method is based upon the calculation of the
+likelihood function and its interpretation as a probability density for the
+transient source position by an application of Bayes' Theorem. The method
+obtains point estimates of source positions by finding the maximum of this
+probability density, and interval estimates of prescribed probability by
+choosing suitable contours of constant probability density. We give the results
+of simulations that we performed to test the method. We also derive approximate
+analytic expressions for the predicted performance of the method. These
+estimates underline the intuitively plausible properties of the method and
+provide a sound quantitative basis for the design of coded-aperture systems.
+","[{""version"":""v1"",""created"":""Fri, 25 Apr 1997 20:48:21 GMT""},{""version"":""v2"",""created"":""Wed, 8 Oct 1997 19:35:27 GMT""}]","2008-02-03"
+"astro-ph/9704253","Evalyn Gates","Evalyn Gates, Geza Gyuk and Michael S. Turner","Microlensing and the Composition of the Galactic Halo","4 pages, to appear in the Proceedings of the 18th Texas Symposium on
+  Relativistic Astrophysics, ed. A. Olinto, J. Frieman and D. Schramm (World
+  Scientific, Singapore, 1997)",,,,"astro-ph",,"  By means of extensive galactic modeling we study the implications of the more
+than 100 microlensing events that have now been observed for the composition of
+the dark halo of the Galaxy. Based on the currently published data, including
+the 2nd year MACHO results, the halo MACHO fraction is less than 60% in most
+models and the likelihood function for the halo MACHO fraction peaks around 20%
+- 40%, consistent with expectations for cold dark matter models.
+","[{""version"":""v1"",""created"":""Fri, 25 Apr 1997 19:23:19 GMT""}]","2007-05-23"
+"astro-ph/9704254","Jean Michel Alimi","Jean-Michel Alimi & Arturo Serna (LAEC, Observatoire de Meudon,
+  France)","Upper limit to $\Omega_B$ in scalar-tensor gravity theories","uuencoded tar-file containing 16 pages, latex with 5 figures,
+  accepted for publication in Astrophysical Journal (Part 1)",,"10.1086/304613",,"astro-ph gr-qc",,"  In a previous paper (Serna & Alimi 1996), we have pointed out the existence
+of some particular scalar-tensor gravity theories able to relax the
+nucleosynthesis constraint on the cosmic baryonic density. In this paper, we
+present an exhaustive study of primordial nucleosynthesis in the framework of
+such theories taking into account the currently adopted observational
+constraints. We show that a wide class of them allows for a baryonic density
+very close to that needed for the universe closure. This class of theories
+converges soon enough towards General Relativity and, hence, is compatible with
+all solar-system and binary pulsar gravitational tests. In other words, we show
+that primordial nucleosynthesis does not always impose a very stringent bound
+on the baryon contribution to the density parameter.
+","[{""version"":""v1"",""created"":""Fri, 25 Apr 1997 17:18:30 GMT""}]","2009-10-30"
+"astro-ph/9704255","John N. Bahcall","John N. Bahcall","Prioritizing Science: A Story of the Decade Survey for the 1990s","17 pages, LaTeX file",,,,"astro-ph",,"  This article summarizes the process by which astronomers and astrophysicists
+reached a consensus view as to what are the highest priority scientific
+projects for the decade of the 1990s. I also review the remarkable success of
+these recommendations.
+","[{""version"":""v1"",""created"":""Fri, 25 Apr 1997 18:57:48 GMT""}]","2007-05-23"
+"astro-ph/9704256","William Henney","W. J. Henney and S. J. Arthur (Instituto de Astronomia, UNAM, Unidad
+  Morelia, Mexico)","Two-wind interaction models of the proplyds in the Orion nebula","10 pages, 3 included figures, LaTeX, uses crckapb.sty. To appear in:
+  IAU Symposium 182 - Herbig-Haro flows and the birth of low mass stars (B.
+  Reipurth & C. Bertout, eds.). Kluwer, Dordrecht. Also available at
+  http://genesis.astrosmo.unam.mx/~will/papers/chamonix.html",,,,"astro-ph",,"  Many low-mass stars in the Orion nebula are associated with very compact (~=
+1 arcsec) emission knots, known variously as proplyds, PIGs or LV knots. Some
+of these knots are teardrop-shaped, with ``tails'' pointing away from the
+massive star Theta 1 Ori C, which is the principal exciting star of the nebula.
+We discuss models of such knots, which invoke the interaction of the fast
+stellar wind from Theta 1 Ori C with a transonic photoevaporated flow from the
+surface of an accretion disk around a young low-mass star. We review previous
+analytic work and compare the results of the model with the observed
+brightnesses, morphologies and emission line profiles of the knots, as well as
+presenting new results from numerical hydrodynamical simulations.
+","[{""version"":""v1"",""created"":""Fri, 25 Apr 1997 19:20:06 GMT""}]","2007-05-23"
+"astro-ph/9704258","Ue-Li Pen","Ue-Li Pen","A High-resolution Adaptive Moving Mesh Hydrodynamic Algorithm","53 pages including 14 figures, submitted to ApJS","Astrophys.J.Suppl. 115 (1998) 19-34","10.1086/313074",,"astro-ph",,"  An algorithm for simulating self-gravitating cosmological astrophysical
+fluids is presented. The advantages include a large dynamic range,
+parallelizability, high resolution per grid element and fast execution speed.
+The code is based on a finite volume flux conservative
+Total-Variation-Diminishing (TVD) scheme for the shock capturing hydro, and an
+iterative multigrid solver for the gravity. The grid is a time dependent field,
+whose motion is described by a generalized potential flow. Approximately
+constant mass per cell can be obtained, providing all the advantages of a
+Lagrangian scheme. The grid deformation combined with appropriate limiting and
+smoothing schemes guarantees a regular and well behaved grid geometry, where
+nearest neighbor relationships remain constant. The full hydrodynamic fluid
+equations are implemented in the curvilinear moving grid, allowing for
+arbitrary fluid flow relative to the grid geometry. This combination retains
+all the advantages of the grid based schemes including high speed per fluid
+element and a rapid gravity solver.
+  The current implementation is described, and empirical simulation results are
+presented. Accurate execution speed calculations are given in terms of floating
+point operations per time step per grid cell. This code is freely available to
+the community.
+","[{""version"":""v1"",""created"":""Sat, 26 Apr 1997 01:59:32 GMT""}]","2009-10-30"
+"astro-ph/9704259","Helio Vasconcelos Fagundes","Helio V. Fagundes and Evelise Gausmann (Instituto de Fisica Teorica,
+  Universidade Estadual Paulista, Sao Paulo, SP, Brazil)","On Closed Einstein-de Sitter Universes","8 pages, 1 figure. Revision includes comment on ""top-down"" and
+  ""bottom-up"" pictures of structure formation. Figure is unmodified","Phys.Lett. A238 (1998) 235-238","10.1016/S0375-9601(97)00917-1","IFT-P-035/97","astro-ph gr-qc",,"  We briefly summarize the idea of cosmological models with compact, flat
+spatial sections. It has been suggested that, because of the COBE satellite's
+maps of the microwave background, such models cannot be small in the sense of
+Ellis, and hence are no longer interesting. Here we use Lehoucq et al.'s method
+of cosmic crystallography to show that these models are physically meaningful
+even if the size of the spatial sections is of the same order of magnitude as
+the radius of the observational horizon.
+","[{""version"":""v1"",""created"":""Sat, 26 Apr 1997 14:09:41 GMT""},{""version"":""v2"",""created"":""Mon, 18 Aug 1997 15:16:10 GMT""},{""version"":""v3"",""created"":""Tue, 19 Aug 1997 16:56:39 GMT""}]","2009-10-30"
+"cond-mat/9704211","Eduardo Fraga","R.M. Cavalcanti, E.S. Fraga and C.A.A. de Carvalho","Electron localization by a magnetic vortex","8 pages, latex, 4 figures","Phys.Rev.B56:9243,1997","10.1103/PhysRevB.56.9243",,"cond-mat",,"  We study the problem of an electron in two dimensions in the presence of a
+magnetic vortex with a step-like profile. Dependending on the values of the
+effective mass and gyromagnetic factor of the electron, it may be trapped by
+the vortex. The bound state spectrum is obtained numerically, and some limiting
+cases are treated analytically.
+","[{""version"":""v1"",""created"":""Fri, 25 Apr 1997 17:05:33 GMT""}]","2008-11-26"
+"cond-mat/9704213","Giorgio Parisi","Giorgio Parisi","On the approach to equilibrium of an Hamiltonian chain of anharmonic
+  oscillators","8 pages, 5 figures",,"10.1209/epl/i1997-00471-9",,"cond-mat.stat-mech",,"  In this note we study the approach to equilibrium of a chain of anharmonic
+oscillators. We find indications that a sufficiently large system always
+relaxes to the usual equilibrium distribution. There is no sign of an
+ergodicity threshold. The time however to arrive to equilibrium diverges when
+$g \to 0$, $g$ being the anharmonicity.
+","[{""version"":""v1"",""created"":""Fri, 25 Apr 1997 17:30:31 GMT""}]","2009-10-30"
+"cond-mat/9704214","Martin Zapotocky","Andrew D. Rutenberg (Oxford), Wojtek J. Zakrzewski (Durham), and
+  Martin Zapotocky (U. Penn.)","Dynamical Multiscaling in Quenched Skyrme Systems","8 pages, includes 4 figures. Submitted to Europhysics Letters","Europhys.Lett. 39 (1997) 49","10.1209/epl/i1997-00312-y","OUTP-97-15S","cond-mat.stat-mech",,"  Strong dynamical scaling violations exist in quenched two-dimensional systems
+with vector O(3) order parameters. These systems support non-singular
+topologically stable configurations (skyrmions). By tuning the stability of
+isolated skyrmions to expand or shrink, we find dramatic differences in the
+dynamical multiscaling spectrum of decaying moments $< |\rho|^n >$ of the
+topological charge density distribution and in particular in the decay of the
+energy-density $\epsilon \sim < |\rho| >$. We present a simple two-length-scale
+model for the observed exponents in the case when isolated skyrmions expand. No
+such simple model is found when isolated skyrmions shrink.
+","[{""version"":""v1"",""created"":""Fri, 25 Apr 1997 18:00:30 GMT""}]","2016-08-31"
+"dg-ga/9704015","Steven Rosenberg","K. D. Elworthy, Xue-Mei Li, Steven Rosenberg","Bounded and $L^2$ Harmonic Forms on Universal Covers","Latex, with stylefile sr-stylefile.sty included","Geom. And Funct. Anal. Vol. 8 , 283-303 (1998)",,,"dg-ga math.DG",,"  We relate the positivity of the curvature term in the Weitzenbock formula for
+the Laplacian on p-forms on a complete manifold to the existence of bounded and
+$L^2$ harmonic forms. In the case where the manifold is the universal cover of
+a compact manifold, we obtain topological and geometric information about the
+compact manifold. For example, we show that a compact manifold cannot admit one
+metric with pinched negative curvature and another metric with positive
+Weitzenbock term on two-forms. Many of these results can be thought of as
+differential form analogues of Myers' theorem. We also give pinching conditions
+on certain sums of sectional curvatures which imply the positivity of the
+curvature term, and hence yield vanishing theorems. In particular, we construct
+a compact manifold with planes of negative sectional curvature at each point
+and which satisfies the hypothesis of our vanishing theorems.
+","[{""version"":""v1"",""created"":""Fri, 25 Apr 1997 17:48:09 GMT""}]","2016-05-09"
+"gr-qc/9704072","Gary Horowitz","Gary T. Horowitz","Quantum States of Black Holes","33 pages, Latex, a few clarifying comments added",,,,"gr-qc astro-ph hep-th",,"  I review the recent progress in providing a statistical foundation for black
+hole thermodynamics. In the context of string theory, one can now identify and
+count quantum states associated with black holes. One can also compute the
+analog of Hawking radiation (in a certain low energy regime) in a manifestly
+unitary way. Both extremal and nonextremal black holes are considered,
+including the Schwarzschild solution. Some implications of conjectured
+non-perturbative string ``duality transformations'' for the description of
+black hole states are also discussed.
+","[{""version"":""v1"",""created"":""Fri, 25 Apr 1997 20:37:45 GMT""},{""version"":""v2"",""created"":""Tue, 13 May 1997 21:10:10 GMT""},{""version"":""v3"",""created"":""Wed, 30 Jul 1997 17:20:28 GMT""}]","2008-02-03"
+"hep-ex/9704014","Preprints Libr/pam","CLEO Collaboration, D. M. Asner et al","Search for the Decays B^0 -> D^{(*)+} D^{(*)-}","12 page postscript file also available through
+  http://w4.lns.cornell.edu/public/CLNS, submitted to Physical Review Letters","Phys.Rev.Lett.79:799-803,1997","10.1103/PhysRevLett.79.799","CLNS 97/1474 CLEO 97-6","hep-ex",,"  Using the CLEO-II data set we have searched for the Cabibbo-suppressed decays
+B^0 -> D^{(*)+} D^{(*)-}. For the decay B^0 -> D^{*+} D^{*-}, we observe one
+candidate signal event, with an expected background of 0.022 +/- 0.011 events.
+This yield corresponds to a branching fraction of Br(B^0 -> D^{*+} D^{*-}) =
+(5.3^{+7.1}_{-3.7}(stat) +/- 1.0(syst)) x 10^{-4} and an upper limit of Br(B^0
+-> D^{*+} D^{*-}) < 2.2 x 10^{-3} at the 90% CL. For B^0 -> D^{*\pm} D^\mp and
+B^0 -> D^+ D^-, no significant excess of signal above the expected background
+level is seen, and we calculate the 90% CL upper limits on the branching
+fractions to be Br(B^0 -> D^{*\pm} D^\mp) < 1.8 x 10^{-3} and Br(B^0 -> D^+
+D^-) < 1.2 x 10^{-3}.
+","[{""version"":""v1"",""created"":""Fri, 25 Apr 1997 17:13:09 GMT""}]","2010-04-08"
+"hep-ex/9704015","Meenakshi Narain","D0 Collaboration: S. Abachi, et al","Measurement of the Top Quark Pair Production Cross Section in pbarp
+  Collisions","11 pages with 3 encapsulated PostScript figures and 2 PostScript
+  table included in the body of the article","Phys.Rev.Lett.79:1203-1208,1997","10.1103/PhysRevLett.79.1203","FERMILAB-Pub-97/109-E","hep-ex",,"  We present a measurement of the ttbar production cross section in ppbar
+collisions at root(s) = 1.8TeV by the D0 experiment at the Fermilab Tevatron.
+The measurement is based on data from an integrated luminosity of approximately
+125 pb^-1 accumulated during the 1992-1996 collider run. We observe 39 ttbar
+candidate events in the dilepton and lepton+jets decay channels with an
+expected background of 13.7+-2.2 events. For a top quark mass of 173.3GeV/c^2,
+we measure the ttbar production cross section to be 5.5+-1.8 pb.
+","[{""version"":""v1"",""created"":""Fri, 25 Apr 1997 20:53:50 GMT""}]","2008-11-26"
+"hep-ph/9704406","D. Mueller","D. M\""uller","Restricted conformal invariance in QCD and its predictive power for
+  virtual two-photon processes","RevTex, 29 pages, minor corrections","Phys.Rev.D58:054005,1998","10.1103/PhysRevD.58.054005","CERN-TH/97-80, NTZ 97/12","hep-ph hep-th",,"  The conformal algebra provides powerful constraints, which guarantee that
+renormalized conformally covariant operators exist in the hypothetical
+conformal limit of the theory, where the $\beta$-function vanishes. Thus, in
+this limit also the conformally covariant operator product expansion on the
+light cone holds true. This operator product expansion has predictive power for
+two-photon processes in the generalized Bjorken region. Only the Wilson
+coefficients and the anomalous dimensions that are known from deep inelastic
+scattering are required for the prediction of all other two-photon processes in
+terms of the process-dependent off-diagonal expectation values of conformal
+operators. It is checked that the next-to-leading order calculations for the
+flavour non-singlet meson transition form factors are consistent with the
+corrections to the corresponding Wilson coefficients in deep inelasitic
+scattering.
+","[{""version"":""v1"",""created"":""Sat, 26 Apr 1997 11:26:32 GMT""},{""version"":""v2"",""created"":""Wed, 23 Dec 1998 20:37:29 GMT""}]","2016-08-15"
+"hep-ph/9704407",,"Euy Soo Na and Barry R. Holstein","Isospin Mixing and Model Dependence","8 page standard Latex file","Phys.Rev. D56 (1997) 4404-4407","10.1103/PhysRevD.56.4404",,"hep-ph",,"  We show that recent calculations of \Delta I=3/2 effects in nonleptonic
+hyperon decay induced by m_d-m_u\neq 0 are subject to significant model
+dependence.
+","[{""version"":""v1"",""created"":""Fri, 25 Apr 1997 16:43:35 GMT""}]","2009-10-30"
+"hep-th/9704185","Eva Silverstein","Shamit Kachru and Eva Silverstein","Chirality Changing Phase Transitions in 4d String Vacua","16 pages, harvmac big, minor error in section 3.3 corrected","Nucl.Phys.B504:272-284,1997","10.1016/S0550-3213(97)00519-1","RU-97-27","hep-th",,"  We provide evidence that some four-dimensional N=1 string vacua with
+different numbers of generations are connected through phase transitions. The
+transitions involve going through a point in moduli space where there is a
+nontrivial fixed point governing the low energy field theory. In an M-theory
+description, the examples involve wrapped 5-branes leaving one of the ends of
+the world.
+","[{""version"":""v1"",""created"":""Fri, 25 Apr 1997 16:06:00 GMT""},{""version"":""v2"",""created"":""Mon, 12 May 1997 14:19:44 GMT""}]","2009-10-07"
+"hep-th/9704186","Chris Pope","M.J. Duff, H. Lu and C.N. Pope","Supersymmetry without Supersymmetry","Latex, 16 pages. Minor revisions and reference added","Phys.Lett.B409:136-144,1997","10.1016/S0370-2693(97)00687-4","CTP TAMU-18/97, LPTENS-97/17","hep-th",,"  We present four-dimensional M-theory vacua with N>0 supersymmetry which, from
+the perspective of perturbative Type IIA string theory, have N=0. Such vacua
+can appear when the compactifying 7-manifold is a U(1) fibration. The missing
+superpartners are Dirichlet 0-branes. Someone unable to detect Ramond-Ramond
+charge would thus conclude that these worlds have no unbroken supersymmetry. In
+particular, the gravitinos (and also some of the gauge bosons) are 0-branes not
+seen in perturbation theory but which curiously remain massless however weak
+the string coupling.
+","[{""version"":""v1"",""created"":""Fri, 25 Apr 1997 18:12:03 GMT""},{""version"":""v2"",""created"":""Fri, 25 Jul 1997 08:51:00 GMT""}]","2009-10-07"
+"hep-th/9704187",,"Freydoon Mansouri","Exact Local Supersymmetry, Absence of Superpartners, and Noncommutative
+  Geometries","16 pages, LaTex",,,"uctp103.97","hep-th",,"  It is pointed out that if we allow for the possibility of a multilayered
+universe, it is possible to maintain exact supersymmetry and arrange, in
+principle, for the vanishing of the cosmological constant. Superpartner(s) of a
+known particle will then be associated with the other layers of such a
+universe. A concrete model realizing this scenario is exhibited in \2
+dimensions, and it is suggested that it may be realizable in 3+1 dimensions.
+The connection between this nonclassical geometry and noncommutative geometries
+is discussed.
+","[{""version"":""v1"",""created"":""Fri, 25 Apr 1997 21:41:56 GMT""}]","2007-05-23"
+"hep-th/9704188","Paulo Laerte Natti","P.L. Natti and A.F.R. de Toledo Piza","Small oscillations of a chiral Gross-Neveu system","21pages, Latex, 1postscript figure","Phys.Rev. D55 (1997) 3403-3410","10.1103/PhysRevD.55.3403","Phys.Rev D55, 3403 (1997)","hep-th math-ph math.MP",,"  We study the small oscillations regime (RPA approximation) of the
+time-dependent mean-field equations, obtained in a previous work, which
+describe the time evolution of one-body dynamical variables of a uniform Chiral
+Gross-Neveu system. In this approximation we obtain an analytical solution for
+the time evolution of the one-body dynamical variables. The two-fermion physics
+can be explored through this solution. The condition for the existence of bound
+states is examined.
+","[{""version"":""v1"",""created"":""Fri, 25 Apr 1997 21:29:01 GMT""}]","2016-09-06"
+"hep-th/9704189","Jason Kumar","R. Kallosh and J. Kumar","Supersymmetry Enhancement of D-p-branes and M-branes","18 pages, latex","Phys. Rev. D 56, 4934 (1997)","10.1103/PhysRevD.56.4934",,"hep-th",,"  We examine the supersymmetry of classical D-brane and M-brane configurations
+and explain the dependence of Killing spinors on coordinates. We find that one
+half supersymmetry is broken in the bulk and that supersymmetry near the
+D-brane horizon is restored for $p\leq 3$, for solutions in the stringy frame,
+but only for $p=3$ in the10d canonical frame. We study the enhancement for the
+case of four intersecting D-3-branes in 10 dimensions and the implication of
+this for the size of the infinite throat of the near horizon geometry in
+non-compactified theory. We found some indications of universality of near
+horizon geometries of various intersecting brane configurations.
+","[{""version"":""v1"",""created"":""Fri, 25 Apr 1997 22:10:01 GMT""}]","2016-08-25"
+"hep-th/9704190","Argurio Riccardo","R. Argurio, F. Englert, L. Houart, P. Windey","On the Opening of Branes","13 pages, LaTeX, no figures","Phys.Lett. B408 (1997) 151-156","10.1016/S0370-2693(97)00834-4","PAR-LPTHE 97-12, ULB-TH 97/08","hep-th",,"  We relate, in 10 and 11 dimensional supergravities, configurations of
+intersecting closed branes with vanishing binding energy to configurations
+where one of the branes opens and has its boundaries attached to the other.
+These boundaries are charged with respect to fields living on the closed brane.
+The latter hosts electric and magnetic charges stemming from dual pairs of open
+branes terminating on it. We show that charge conservation, gauge invariance
+and supersymmetry entirely determine these charges and these fields, which can
+be seen as Goldstone fields of broken supersymmetry. Open brane boundary
+charges can annihilate, restoring the zero binding energy configuration. This
+suggests emission of closed branes by branes, a generalization of closed string
+emission by D-branes. We comment on the relation of the Goldstone fields to
+matrix models approaches to M-theory.
+","[{""version"":""v1"",""created"":""Sat, 26 Apr 1997 15:07:10 GMT""}]","2009-10-30"
+"nucl-ex/9704010","Pawel Danielewicz","M. B. Tsang and P. Danielewicz (NSCL, Michigan State U.)","Correlations in Nuclear Arrhenius-Type Plots","12 pages, Latex, 3 Postscript figures included","Phys.Rev.Lett.80:1178-1181,1998","10.1103/PhysRevLett.80.1178",,"nucl-ex nucl-th",,"  Arrhenius-type plots for multifragmentation process, defined as the
+transverse energy dependence of the single-fragment emission-probability,
+-ln(p_{b}) vs 1/sqrt(E_{t}), have been studied by examining the relationship of
+the parameters p_{b} and E_{t} to the intermediate-mass fragment multiplicity
+<n>. The linearity of these plots reflects the correlation of the fragment
+multiplicity with the transverse energy. These plots may not provide thermal
+scaling information about fragment production as previously suggested.
+","[{""version"":""v1"",""created"":""Sat, 26 Apr 1997 13:39:57 GMT""}]","2009-01-23"
+"q-alg/9704017",,"Thang T. Q. Le","On Denominators of the Kontsevich Integral and the Universal
+  Perturbative Invariant of 3-Manifolds","27 pages, LaTeX with graphics package",,,"MSRI 1997-039","q-alg math.GT math.QA",,"  The integrality of the Kontsevich integral and perturbative invariants is
+discussed. We show that the denominator of the degree $n$ part of the
+Kontsevich integral of any knot or link is a divisor of $(2!3!... n!)^4(n+1)!$.
+We also show that the denominator of of the degree $n$ part of the universal
+perturbative invariant of homology 3-spheres is not divisible by any prime
+greater than $2n+1$.
+","[{""version"":""v1"",""created"":""Fri, 25 Apr 1997 19:42:33 GMT""}]","2008-02-03"

@@ -1,0 +1,94 @@
+"alg-geom/9701012","Elham Izadi","E. Izadi","A Prym construction for the cohomology of a cubic hypersurface","AMS-Latex, 39 pages",,,,"alg-geom math.AG",,"  Mumford defined a natural isomorphism between the intermediate jacobian of a
+conic-bundle over $P^2$ and the Prym variety of a naturally defined \'etale
+double cover of the discrminant curve of the conic-bundle. Clemens and
+Griffiths used this isomorphism to give a proof of the irrationality of a
+smooth cubic threefold and Beauville later generalized the isomorphism to
+intermediate jacobians of odd-dimensional quadric-bundles over $P^2$. We
+further generalize the isomorphism to the primitive cohomology of a smooth
+cubic hypersurface in $P^n$.
+","[{""version"":""v1"",""created"":""Sat, 25 Jan 1997 20:25:46 GMT""}]","2008-02-03"
+"alg-geom/9701013","Richard Borcherds","Richard E. Borcherds, Ludmil Katzarkov, Tony Pantev, and N. I.
+  Shepherd-Barron","Families of K3 surfaces","10 pages AMSLaTeX v 1.2b","J. Algebraic Geometry 7 (1998) 183-193",,,"alg-geom math.AG",,"  We use automorphic forms to prove that a compact family of Kaehler K3
+surfaces with constant Picard number is isotrivial.
+","[{""version"":""v1"",""created"":""Sun, 26 Jan 1997 11:25:00 GMT""}]","2008-02-03"
+"alg-geom/9701014","Donu Arapura","Donu Arapura","Geometry of cohomology support loci II: integrability of Hitchin's map","17 pages, AMS LaTeX",,,,"alg-geom math.AG",,"  In very rough terms, the main theorem is that the set, which consists of
+semistable vector bundles with trivial rational Chern classes and nontrivial
+kth cohomology on a smooth complex projective variety, is a degeneration of a
+union of abelian varieties. More precisely, we consider the subset of the
+moduli space of Higgs bundles satisfying the analogous cohomological condition.
+We show that this set is Zariski closed and that if Sigma is the normalization
+of an irreducible component containing a stable point, then a connected
+component of a general fiber of the restriction of the Hitchin map to Sigma is
+an abelian variety. This should be interpreted as a nonabelian version of a
+theorem of Green and Lazarsfeld. The Hitchin map in this setting is in fact
+Simpson's generalization of it. The key point is to show that the general
+fibers of this map are lagrangian (where the target of the map is taken to be
+the image). This hinges on the fact that this property is essentially
+hereditary for hyperkaehler submanifolds. We establish various other properties
+of these sets including a codimension estimate which may be viewed as a generic
+vanishing theorem.
+","[{""version"":""v1"",""created"":""Sun, 26 Jan 1997 14:21:42 GMT""}]","2008-02-03"
+"astro-ph/9701194",,"Alexei M. Khokhlov (Naval Research Laboratory)","Fully Threaded Tree for Adaptive Refinement Fluid Dynamics Simulations","submitted to the Journal of Comp. Physics, TeX, 22 pages, PS figures
+  are also available at ftp://charon.nmsu.edu/pub/kravtsov/PAPERS/KHOKHLOV/",,"10.1006/jcph.1998.9998",,"astro-ph physics.comp-ph",,"  A fully threaded tree (FTT) for adaptive refinement of regular meshes is
+described. By using a tree threaded at all levels, tree traversals for finding
+nearest neighbors are avoided. All operations on a tree including tree
+modifications are O(N), where N is a number of cells, and are performed in
+parallel. An efficient implementation of the tree is described that requires 2N
+words of memory. A filtering algorithm for removing high-frequency noise during
+mesh refinement is described.
+  A FTT can be used in various numerical applications. In this paper, it is
+applied to the integration of the Euler equations of fluid dynamics. An
+adaptive-mesh time stepping algorithm is described in which different time
+steps are used at different levels of the tree. Time stepping and mesh
+refinement are interleaved to avoid extensive buffer layers of fine mesh which
+were otherwise required ahead of moving shocks. Test examples are presented,
+and the FTT performance is evaluated. The three-dimensional simulation of the
+interaction of a shock wave and a spherical bubble is carried out that shows
+the development of azimuthal perturbations on the bubble surface.
+","[{""version"":""v1"",""created"":""Sat, 25 Jan 1997 19:39:25 GMT""}]","2009-10-30"
+"cond-mat/9701191","Alexei Tsvelik","A. A. Nersesyan and A. M. Tsvelik","Comment on ""Nonzero Fermi Level Density of States for a Disordered
+  d-wave superconductor in 2D"" by Ziegler et al. PRL 77, 3013 (1996)",,,"10.1103/PhysRevLett.78.3981",,"cond-mat",,"  In their paper Ziegler et al. claim that the model of 2D Dirac fermions in a
+random gauge potential has a finite density of states at zero energy. We point
+out that the approach used in this paper fails to reproduce the perturbation
+theory results for this problem.
+","[{""version"":""v1"",""created"":""Sat, 25 Jan 1997 20:56:15 GMT""}]","2009-10-30"
+"gr-qc/9701056","Rafael D. Sorkin","Rafael D. Sorkin (Universidad Nacional Autonoma de Mexico and Syracuse
+  University)","How Wrinkled is the Surface of a Black Hole?","16 pages, plainTeX, no figures","Proceedings of the First Australasian Conference on General
+  Relativity and Gravitation, held February 1996, Adelaide, Australia, edited
+  by David Wiltshire, pp. 163-174 (University of Adelaide, 1996)",,,"gr-qc hep-th",,"  We present evidence that, below a certain threshold scale, the horizon of a
+black hole is strongly wrinkled, with its shape manifesting a self-similar
+(``fractal'') spectrum of fluctuations on all scales below the threshold. This
+threshold scale is small compared to the radius of the black hole, but still
+much larger than the Planck scale. If present, such fluctuations might account
+for a large part of the horizon entropy.
+","[{""version"":""v1"",""created"":""Sun, 26 Jan 1997 03:29:33 GMT""}]","2007-05-23"
+"hep-ph/9701380","Edward Gedalin","E.V. Gedalin","Inclusive spectra of hadrons created by color tube fission 2. Inclusive
+  spectra of primary hadrons","31 pages, LaTeX",,,"Preprint BGU PH-97/03","hep-ph",,"  The primary inclusive spectra and correlation functions of particles created
+by color tube fission are considered. Using the previously obtained expression
+for probability of the tube breaking in n points we have calculated the one and
+two particle inclusive spectra of tube pieces as well as pseudoscalar and
+vector mesons in plateau area. It is shown that the plateau height of the one
+particle inclusive spectrum is determined by the flavor quark composition and
+spin of hadron. Small oscillations of the tube surface give only small
+correction to the main term. The correlation functions of fixed particles have
+the form of a product of the universal function that depends only on the
+particle rapidity difference and thescale factor dependent on the spin and
+flavor quark composition of hadron.
+","[{""version"":""v1"",""created"":""Sun, 26 Jan 1997 10:56:15 GMT""}]","2007-05-23"
+"math/9701212",,"Boris Apanasov","Geometry and topology of complex hyperbolic and CR-manifolds",,,"10.1070/RM1997v052n05ABEH002084","MSRI 1997-007","math.DG math.GT",,"  We study geometry, topology and deformation spaces of noncompact complex
+hyperbolic manifolds (geometrically finite, with variable negative curvature),
+whose properties make them surprisingly different from real hyperbolic
+manifolds with constant negative curvature. This study uses an interaction
+between K\""ahler geometry of the complex hyperbolic space and the contact
+structure at its infinity (the one-point compactification of the Heisenberg
+group), in particular an established structural theorem for discrete group
+actions on nilpotent Lie groups.
+","[{""version"":""v1"",""created"":""Sun, 26 Jan 1997 00:00:00 GMT""}]","2015-06-26"
+"math/9701221","Adam Parusinski","Adam Parusinski (Universit\'e D'Angers)","Blow-analytic retraction onto the central fibre",,,,"FI-ST1997-001","math.CV",,"  Let X be a complex analytic space and let f:X -> C be a proper complex
+analytic function with nonsingular generic fibres. By adapting the blowanalytic
+methods of Kuo we construct a retraction of a neighbourhood of the central
+fibre f^{-1}(0) onto f^{-1}(0). Our retraction is defined by the flow of a real
+analytic vector field on an oriented real analytic blow-up of X. Then we
+describe in terms of this blow-up the associated specialization map and local
+Milnor fibrations. The method also works in real analytic category.
+","[{""version"":""v1"",""created"":""Sun, 26 Jan 1997 00:00:00 GMT""}]","2016-09-07"

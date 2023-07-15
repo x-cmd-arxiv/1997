@@ -1,0 +1,411 @@
+"astro-ph/9701003","Raul de la Fuente Marcos","R. de la Fuente Marcos (Universidad Complutense de Madrid, Spain)","The Initial Mass Function and the Dynamical Evolution of Open Clusters.
+  IV. Realistic Systems","15 pages, 15 postscript figures. To appear in A&A (1997)",,,,"astro-ph",,"  This paper is the fourth one of a series whose chief objective is studying
+the influence of different mass spectra on the dynamical evolution of open star
+clusters. Results from several N-body calculations with primordial binaries and
+mass loss due to stellar evolution are presented. The models show significant
+differences with those for primordial binaries but no stellar mass loss
+presented in de la Fuente Marcos (1996b). A differential dynamical behaviour
+depending on cluster richness is found compared to de la Fuente Marcos (1996a).
+The evolution of these realistic models is very dependent on the initial mass
+function. Even for rich clusters, there is a dependence on the binary mass
+spectrum. The velocity distribution of the escapers is examined and compared
+with results from previous calculations. The evolution of the primordial binary
+population is analyzed in detail. The cluster remnant and the final binary
+population are also studied. Finally, some conclusions about observational
+properties of Open Cluster Remnants are presented.
+","[{""version"":""v1"",""created"":""Fri, 3 Jan 1997 13:39:07 GMT""}]","2016-08-30"
+"cmp-lg/9701001","Chengxiang Zhai","Chengxiang Zhai (Carnegie Mellon University)","Exploiting Context to Identify Lexical Atoms -- A Statistical View of
+  Linguistic Context","10 pages, postscript file, to appear in Proceedings of International
+  and Interdisciplinary Conference on Modelling and Using Context (CONTEXT-97)","Proceedings of the International and Interdisciplinary Conference
+  on Modelling and Using Context (CONTEXT-97), Rio de Janeiro, Brzil, Feb. 4-6,
+  1997. 119-129.",,,"cmp-lg cs.CL",,"  Interpretation of natural language is inherently context-sensitive. Most
+words in natural language are ambiguous and their meanings are heavily
+dependent on the linguistic context in which they are used. The study of
+lexical semantics can not be separated from the notion of context. This paper
+takes a contextual approach to lexical semantics and studies the linguistic
+context of lexical atoms, or ""sticky"" phrases such as ""hot dog"". Since such
+lexical atoms may occur frequently in unrestricted natural language text,
+recognizing them is crucial for understanding naturally-occurring text. The
+paper proposes several heuristic approaches to exploiting the linguistic
+context to identify lexical atoms from arbitrary natural language text.
+","[{""version"":""v1"",""created"":""Thu, 2 Jan 1997 16:35:24 GMT""}]","2008-02-03"
+"cmp-lg/9701002","David Carter","Manny Rayner and David Carter (SRI International, Cambridge)","Hybrid language processing in the Spoken Language Translator","4 pages, uses icassp97.sty; to appear in ICASSP-97; see
+  http://www.cam.sri.com for related material",,,"CRC-064","cmp-lg cs.CL",,"  The paper presents an overview of the Spoken Language Translator (SLT)
+system's hybrid language-processing architecture, focussing on the way in which
+rule-based and statistical methods are combined to achieve robust and efficient
+performance within a linguistically motivated framework. In general, we argue
+that rules are desirable in order to encode domain-independent linguistic
+constraints and achieve high-quality grammatical output, while corpus-derived
+statistics are needed if systems are to be efficient and robust; further, that
+hybrid architectures are superior from the point of view of portability to
+architectures which only make use of one type of information. We address the
+topics of ``multi-engine'' strategies for robust translation; robust bottom-up
+parsing using pruning and grammar specialization; rational development of
+linguistic rule-sets using balanced domain corpora; and efficient supervised
+training by interactive disambiguation. All work described is fully implemented
+in the current version of the SLT-2 system.
+","[{""version"":""v1"",""created"":""Thu, 2 Jan 1997 17:25:54 GMT""}]","2008-02-03"
+"cond-mat/9701005","John DiTusa","J. F. DiTusa (Department of Physics and Astronomy, Louisiana State
+  University), K. Friemelt, E. Bucher (University of Konstanz, Fakultat fur
+  Physik), G. Aeppli (NEC), and A.P. Ramirez (Bell Laboratories, Lucent
+  Technologies)","Is a doped 'Kondo' insulator different from doped Silicon?","12 Pages Latex with 3 ps figures",,,,"cond-mat.str-el",,"  We have observed the metal-insulator transition in the strongly correlated
+insulator FeSi with the chemical substitution of Al at the Si site. The
+magnetic susceptibility, heat capacity, and field dependent conductivity are
+measured for Al concentrations ranging from 0 to 0.08. For concentrations
+greater than 0.01 we find metallic properties quantitatively similar to those
+measured in Si:P with the exception of a greatly enhanced quasiparticle mass.
+Below 2 K the temperature and field dependent conductivity can be completely
+described by the theory of disordered Fermi Liquids.
+","[{""version"":""v1"",""created"":""Thu, 2 Jan 1997 16:32:42 GMT""},{""version"":""v2"",""created"":""Sun, 12 Jan 1997 19:59:11 GMT""}]","2008-02-03"
+"cond-mat/9701006","Cristian F. Moukarzel","Cristian F. Moukarzel","Geometrical consequences of foam equilibrium","RevTeX + epsfig, 19 pages + 19 eps figures",,"10.1103/PhysRevE.55.6866",,"cond-mat.soft cond-mat.mtrl-sci",,"  The equilibrium conditions impose nontrivial geometrical constraints on the
+configurations that a two-dimensional foam can attain. In the first place, the
+three centers of the films that converge to a vertex have to be on a line, i.e.
+all vertices are aligned. Moreover an equilibrated foam must admit a reciprocal
+figure. This means that it must be possible to find a set of points P_i on the
+plane, one per bubble, such that the segments (P_i P_j) are normal to the
+corresponding foam films. It is furthermore shown that these constraints are
+equivalent to the requirement that the foam be a Sectional Multiplicative
+Voronoi Partition (SMVP). A SMVP is a cut with a two-dimensional plane, of a
+three-dimensional Multiplicative Voronoi Partition. Thus given an arbitrary
+equilibrated foam, we can always find point-like sources (one per bubble) in
+three dimensions that reproduce this foam as a generalized Voronoi partition.
+These sources are the only degrees of freedom that we need in oder to fully
+describe the foam.
+","[{""version"":""v1"",""created"":""Thu, 2 Jan 1997 16:50:20 GMT""}]","2009-10-30"
+"cond-mat/9701007","Paul Benioff","Paul Benioff (Physics Division, Argonne National Laboratory)","Transmission and Spectral Aspects of Tight Binding Hamiltonians for the
+  Counting Quantum Turing Machine","22 pages Latex, 13 postscript figures, Submitted to Phys. Rev. B","Phys. Rev. B 55 (1997-I) 9482","10.1103/PhysRevB.55.9482",,"cond-mat quant-ph",,"  It was recently shown that a generalization of quantum Turing machines
+(QTMs), in which potentials are associated with elementary steps or transitions
+of the computation, generates potential distributions along computation paths
+of states in some basis B. The distributions are computable and are thus
+periodic or have deterministic disorder. These generalized machines (GQTMs) can
+be used to investigate the effect of potentials in causing reflections and
+reducing the completion probability of computations. This work is extended here
+by determination of the spectral and transmission properties of an example GQTM
+which enumerates the integers as binary strings. A potential is associated with
+just one type of step. For many computation paths the potential distributions
+are initial segments of a quasiperiodic distribution that corresponds to a
+substitution sequence. The energy band spectra and Landauer Resistance (LR) are
+calculated for energies below the barrier height by use of transfer matrices.
+The LR fluctuates rapidly with momentum with minima close to or at band-gap
+edges. For several values of the parameters, there is good transmission over
+some momentum regions.
+","[{""version"":""v1"",""created"":""Thu, 2 Jan 1997 17:39:43 GMT""}]","2009-10-30"
+"cond-mat/9701008","Leo Radzihovsky","Leo Radzihovsky (Univ. of Colorado at Boulder) and John Toner (Univ.
+  of Oregon, Eugene)","Dirt Softens Soap: Anomalous Elasticity of Disordered Smectics","4 RevTeX pgs, 1 ps figure; Slightly revised, published version","Phys. Rev. Lett. 78, 4414 (1997)","10.1103/PhysRevLett.78.4414",,"cond-mat.soft cond-mat.dis-nn",,"  We show that a smectic in a disordered medium (e.g., aerogel) exhibits
+anomalous elasticity, with the compression modulus B(k) vanishing and the bend
+modulus K(k) diverging as k --> 0. In addition, the effective disorder develops
+long ranged correlations. These divergences are much stronger than those driven
+by thermal fluctuations in pure smectics, and are controlled by a zero
+temperature glassy fixed point, which we study in an $\epsilon=5-d$ expansion.
+We discuss the experimental implications of these theoretical predictions.
+","[{""version"":""v1"",""created"":""Thu, 2 Jan 1997 19:03:08 GMT""},{""version"":""v2"",""created"":""Fri, 1 Aug 1997 14:35:05 GMT""}]","2009-10-30"
+"cond-mat/9701009","Sergio Coutinho","E. Nogueira Jr., S. Coutinho, F. D. Nobre, E. M. F. Curado, and J. R.
+  L. de Almeida","Short-Range Ising Spin Glass: Multifractal Properties","8 pages, LaTex, PostScript-figures included but also available upon
+  request. To be published in Physical Review E (01/March 97)","Physical Review E 55, 3934 (1997)","10.1103/PhysRevE.55.3934",,"cond-mat.dis-nn cond-mat.stat-mech",,"  The multifractal properties of the Edwards-Anderson order parameter of the
+short-range Ising spin glass model on d=3 diamond hierarchical lattices is
+studied via an exact recursion procedure. The profiles of the local order
+parameter are calculated and analysed within a range of temperatures close to
+the critical point with four symmetric distributions of the coupling constants
+(Gaussian, Bimodal, Uniform and Exponential). Unlike the pure case, the
+multifractal analysis of these profiles reveals that a large spectrum of the
+$\alpha $-H\""older exponent is required to describe the singularities of the
+measure defined by the normalized local order parameter, at and below the
+critical point. Minor changes in these spectra are observed for distinct
+initial distributions of coupling constants, suggesting an universal spectra
+behavior. For temperatures slightly above T_{c}, a dramatic change in the
+$F(\alpha)$ function is found, signalizing the transition.
+","[{""version"":""v1"",""created"":""Thu, 2 Jan 1997 21:41:58 GMT""}]","2009-10-30"
+"cond-mat/9701010","Mikhail Raikh","A. G. Galstyan and M. E. Raikh (University of Utah)","Localization and conductance fluctuations in the integer quantum Hall
+  effect: Real--space renormalization group approach","17 pages, RevTex, 7 figures",,"10.1103/PhysRevB.56.1422",,"cond-mat.mes-hall",,"  We consider the network model of the integer quantum Hall effect transition.
+By generalizing the real--space renormalization group procedure for the
+classical percolation to the case of quantum percolation, we derive a closed
+renormalization group (RG) equation for the universal distribution of
+conductance of the quantum Hall sample at the transition. We find an
+approximate solution of the RG equation and use it to calculate the critical
+exponent of the localization length and the central moments of the conductance
+distribution. The results obtained are compared with the results of recent
+numerical simulations.
+","[{""version"":""v1"",""created"":""Thu, 2 Jan 1997 23:44:09 GMT""}]","2009-10-30"
+"cond-mat/9701012","Dr. W. Metzner","W. Metzner, C. Castellani, and C. Di Castro","Fermi Systems with Strong Forward Scattering","142 pages, LATEX, 28 postscript figures, to appear in Adv. Phys",,,,"cond-mat",,"  We review the theory of interacting Fermi systems whose low-energy physics is
+governed by forward scattering, i.e. scattering processes generated by
+effective interactions with small momentum transfers. These systems include
+Fermi liquids as well as several important non-Fermi liquid phases:
+one-dimensional Luttinger liquids, systems with long-range interactions, and
+fermions coupled to a gauge field. We report results for the critical
+dimensions separating different ""universality classes"", and discuss the
+behavior of physical quantities as the momentum distribution function, the
+single-particle propagator and low-energy response functions in each class. The
+renormalization group for Fermi systems will be reviewed and applied as a link
+between microscopic models and effective low-energy theories. Particular
+attention is payed to conservation laws, which constrain any effective
+low-energy theory of interacting Fermi systems. In scattering processes with
+small momentum transfers the velocity of each scattering particle is (almost)
+conserved. This asymptotic conservation law leads to non-trivial cancellations
+of Feynman diagrams and other simplifications, making thus possible a
+non-perturbative treatment of forward scattering via Ward identities or
+bosonization techniques.
+","[{""version"":""v1"",""created"":""Fri, 3 Jan 1997 15:28:42 GMT""}]","2007-05-23"
+"dg-ga/9701001","Liviu Nicolaescu","Liviu I. Nicolaescu","Seiberg-Witten equations on tubes","several typos corrected and new references where added",,,,"dg-ga math.DG",,"  We establish the adiabatic dissapearance of Seiberg-Witten tunnelings on
+tubes R x N, where N is an S^1 fibration over a Riemann surface.
+","[{""version"":""v1"",""created"":""Fri, 3 Jan 1997 14:03:55 GMT""},{""version"":""v2"",""created"":""Fri, 10 Jan 1997 17:59:57 GMT""}]","2008-02-03"
+"gr-qc/9701004","Bill Hiscock","William A. Hiscock, Shane L. Larson (Montana State University), and
+  Paul R. Anderson (Wake Forest University)","Semiclassical effects in black hole interiors","29 pages, ReVTeX; 4 ps figures","Phys.Rev.D56:3571-3581,1997","10.1103/PhysRevD.56.3571","MSUPHY97.01","gr-qc",,"  First-order semiclassical perturbations to the Schwarzschild black hole
+geometry are studied within the black hole interior. The source of the
+perturbations is taken to be the vacuum stress-energy of quantized scalar,
+spinor, and vector fields, evaluated using analytic approximations developed by
+Page and others (for massless fields) and the DeWitt-Schwinger approximation
+(for massive fields). Viewing the interior as an anisotropic collapsing
+cosmology, we find that minimally or conformally coupled scalar fields, and
+spinor fields, decrease the anisotropy as the singularity is approached, while
+vector fields increase the anisotropy. In addition, we find that massless
+fields of all spins, and massive vector fields, strengthen the singularity,
+while massive scalar and spinor fields tend to slow the growth of curvature.
+","[{""version"":""v1"",""created"":""Fri, 3 Jan 1997 00:34:12 GMT""}]","2014-11-17"
+"hep-ph/9701203","Salman Habib","Fred Cooper","From Landau's Hydrodynamical Model to Field Theory Models of
+  Multiparticle Production: A Tribute to Peter Carruthers on his 61st Birthday","13 pages (14 figures), RevTeX (plus macro), uses epsf. CARRUTHERS61",,,"LA-UR-96-4514","hep-ph",,"  We review the assumptions and domain of applicability of Landau's
+Hydrodynamical Model. By considering two models of particle production, pair
+production from strong electric fields and particle production in the linear
+sigma model, we demonstrate that many of Landau's ideas are verified in
+explicit field theory calculations.
+","[{""version"":""v1"",""created"":""Thu, 2 Jan 1997 18:20:39 GMT""}]","2007-05-23"
+"hep-ph/9701204","T. S. Kosmas","J.D. Vergados and T.S. Kosmas","Cold Dark Matter Detection via the LSP-Nucleus Elastic Scattering","6 LATEX pages, 4 Tables, 1 PostScript figure, Proc. Dark Matter 96
+  conference, Sheffield UK, World Scientific, to appear",,,,"hep-ph",,"  The momentum transfer dependence of the LSP-nucleus elastic scattering cross
+sections is studied. New imput SUSY parameters obtained in a phenomenologically
+allowed parameter space are used to calculate the coherent rate for various
+nuclear systems and the spin matrix elements for the proposed $^{207}Pb$
+target. The results are compared to those obtained from other cold dark matter
+detection targets.
+","[{""version"":""v1"",""created"":""Thu, 2 Jan 1997 16:51:08 GMT""}]","2007-05-23"
+"hep-ph/9701205","T. S. Kosmas","T.S. Kosmas and J.D. Vergados","Cold Dark Matter in SUSY Theories. The Role of Nuclear Form Factors and
+  the Folding with the LSP Velocity","23 LATEX pages, 4 Tables, 3 PostScript Figures included. Phys. Rev.
+  D, to be published","Phys.Rev. D55 (1997) 1752-1764","10.1103/PhysRevD.55.1752",,"hep-ph",,"  The momentum transfer dependence of the total cross section for elastic
+scattering of cold dark matter candidates, i.e. lightest supersymmetric
+particle (LSP), with nuclei is examined. The presented calculations of the
+event rates refer to a number of representative nuclear targets throughout the
+periodic table and have been obtained in a relatively wide phenomenologically
+allowed SUSY parameter space. For the coherent cross sections it is shown that,
+since the momentum transfer can be quite big for large mass of the LSP and
+heavy nuclei even though the energy transfer is small ($\le 100 KeV$), the
+total cross section can in such instances be reduced by a factor of about five.
+For the spin induced cross section of odd-A nuclear targets, as is the case of
+$^{207}Pb$ studied in this work, we found that the reduction is less
+pronounced, since the high multipoles tend to enhance the cross section as the
+momentum transfer increases (for LSP $mass < 200 GeV$) and partially cancell
+the momentum retardation. The effect of the Earth's revolution around the sun
+on these event rates is also studied by folding with a Maxwellian LSP-velocity
+distribution which is consistent with its density in the halos. We thus found
+that the convoluted event rates do not appreciably change compared to those
+obtained with an average velocity. The event rates increase with A and, in the
+SUSY parameter space considered, they can reach values up to 140
+$y^{-1}Kg^{-1}$ for Pb. The modulation effect, however, was found to be small
+(less than $\pm 5%$).
+","[{""version"":""v1"",""created"":""Thu, 2 Jan 1997 17:02:14 GMT""}]","2009-10-30"
+"hep-ph/9701206","T. S. Kosmas","J.D. Vergados and T.S. Kosmas","LSP-Nucleus Elastic Scattering Cross Sections","6 LATEX pages, 5 Tables, Proc. Dark Matter 96 Conference, Heidelberg,
+  Germany, World Scientific, to appear",,,,"hep-ph",,"  We calculate LSP-nucleus elastic scattering cross sections using some
+representative input in the restricted SUSY parameter space. The coherent
+matrix elements are computed throughout the periodic table while the spin
+matrix elements for the proposed $^{207}Pb$ target which has a rather simple
+nuclear structure. The results are compared to those given from other cold dark
+matter detection targets.
+","[{""version"":""v1"",""created"":""Thu, 2 Jan 1997 18:17:10 GMT""}]","2007-05-23"
+"hep-ph/9701207","Yao Xiaoxia","Tai An, Chao Wei Qin and Yao Xiao Xia","A New Approach of J/psi suppression in pA and AA Collisions","8 pages, latex, 2 figures",,,"BTHEP-TH-96-42","hep-ph",,"  When the cross section of J/psi production is considered varying with the
+energy of the nucleon-nucleon interaction the production of J/psi in pA and AA
+collisions has been studied using FRITIOF Model. The calculation shows that the
+cross section of J/psi production ""per nucleon-nucleon collision"" decreases
+with increasing mass number and centrality as a consequence of continuous
+energy loss of the projectile nucleons to the target nucleons in their
+successive binary nucleon-nucleon collisions . We have compared our model
+predictions with the experimental data of J/psi production.
+","[{""version"":""v1"",""created"":""Fri, 3 Jan 1997 03:52:51 GMT""}]","2016-09-06"
+"hep-ph/9701208","Lee Jungil","Seungwon Baek (Seoul National Univ.), P. Ko (Hong-Ik Univ.), Jungil
+  Lee and H.S. Song (Seoul National Univ.)","Color-octet mechanism and J/psi polarization at LEP","15 pages, minor changes, version to be published in Phys. Rev. D","Phys.Rev. D55 (1997) 6839-6843","10.1103/PhysRevD.55.6839","SNUTP-97-001","hep-ph",,"  Polarized heavy quarkonium productions in $Z^0$ decays are considered. We
+find that polarizations of the produced quarkonia are independent of that of
+the parent Z^0 provided that one considers the energy distribution or the total
+production rate. Produced J/psi's via the color-octet and the color- singlet
+mechanisms are expected to be 19% and 29% longitudinally polarized,
+respectively. The energy dependence of eta_{1,8}(x)=\frac{dGamma_{1,8}^L}{dx}
+/\frac{dGamma_{1,8}}{d x} is very sensitive to the production mechanism, and
+therefore the measurement of \eta(x)_exp will be an independent probe of the
+color-octet mechanism.
+","[{""version"":""v1"",""created"":""Fri, 3 Jan 1997 11:35:26 GMT""},{""version"":""v2"",""created"":""Thu, 13 Mar 1997 13:23:31 GMT""}]","2009-10-30"
+"hep-ph/9701209","Wojciech Florkowski","Andrzej Bialas, Wieslaw Czyz and Wojciech Florkowski","Deep inelastic scattering of leptons from nuclear targets and the BFKL
+  pomeron","13 pages (3 figures), RevTex, uses epsf","Phys.Rev. D55 (1997) 6830-6838","10.1103/PhysRevD.55.6830","TPJU - 25/96","hep-ph",,"  We calculate shadowing in the process of deep inelastic interactions of
+leptons with nuclei in the perturbative regime of QCD. We find appreciable
+shadowing for heavy nuclei (e.g. Pb) in the region of small Bjorken scaling
+variable $10^{-5}\leq x \leq 10^{-3}$. This shadowing depends weakly on $Q^2$,
+but it may be strongly influenced, especially at $x \geq 10^{-3}$, by the
+existence of real parts of the forward scattering amplitudes.
+","[{""version"":""v1"",""created"":""Fri, 3 Jan 1997 09:12:26 GMT""}]","2009-10-30"
+"hep-ph/9701210",,"Miguel A. Sanchis-Lozano, Beatriz Cano-Coloma","J/psi Production at the LHC","7 pages, LaTex, 4 Figures included in the text","Phys.Lett. B406 (1997) 232-236","10.1016/S0370-2693(97)00668-0","IFIC/97-1; FTUV/97-1","hep-ph",,"  We firstly re-examine hadroproduction of prompt J/psi's at the Fermilab
+Tevatron finding that those colour-octet matrix elements presented in
+literature are systematically overestimated due to the overlooking of the
+effective primordial transverse momentum of partons (i.e. dynamically generated
+via initial-state radiation). We estimate the size of these effects using
+different parton distribution functions in a Monte Carlo framework. Finally, we
+extrapolate up to LHC energies making a prediction on the expected pt
+differential cross-section for charmonium.
+","[{""version"":""v1"",""created"":""Fri, 3 Jan 1997 08:59:07 GMT""}]","2009-10-30"
+"hep-ph/9701211","Janusz Gluza","J. Gluza (University of Silesia)","Heavy neutrinos detection in the Next Linear Collider","Ph.D. thesis, 80 pages",,,,"hep-ph",,"  The possibility of detecting heavy neutrinos (M_N>M_Z) in the NLC is
+examined.
+","[{""version"":""v1"",""created"":""Fri, 3 Jan 1997 15:40:19 GMT""}]","2007-05-23"
+"hep-ph/9701212",,"B. K\""onig, J.G. K\""orner, M. Kr\""amer, P. Kroll","Infinite Momentum Frame Calculation of Semileptonic Heavy
+  \Lambda_b\to\Lambda_c Transitions Including HQET Improvements","24 pages, LaTeX, 6 figures are included in PostScript format. Final
+  version of paper to appear in Phys.Rev.D","Phys.Rev. D56 (1997) 4282-4294","10.1103/PhysRevD.56.4282","DESY 93-011","hep-ph",,"  We calculate the transition form factors that occur in heavy $\Lambda$-type
+baryon semileptonic decays as e.g. in $\Lambda_{b} \to \Lambda_{c}^{+} + l^{-}
++ \bar{\nu}_{l} $. We use Bauer-Stech-Wirbel type infinite momentum frame wave
+functions for the heavy $\Lambda$-type baryons which we assume to consist of a
+heavy quark and a light spin-isospin zero diquark system. The form factors at $
+q^{2} = 0 $ are calculated from the overlap integrals of the initial and final
+$\Lambda$-type baryon states. To leading order in the heavy mass scale the
+structure of the form factors agrees with the HQET predictions including the
+normalization at zero recoil. The leading order $\omega$-dependence of the form
+factors is extracted by scaling arguments. By comparing the model form factors
+with the HQET predictions at ${\cal O}(1/m_{Q})$ we obtain a consistent set of
+model form factors up to ${\cal O}(1/m_{Q})$. With our preferred choice of
+parameter values we find that the contribution of the non-leading form factor
+is practically negligible. We use our form factor predictions to compute rates,
+spectra and various asymmetry parameters for the semi-leptonic decay
+$\Lambda_{b} \to \Lambda_{c}^{+} + l^{-} + \bar{\nu}_{l} $.
+","[{""version"":""v1"",""created"":""Fri, 3 Jan 1997 11:03:12 GMT""},{""version"":""v2"",""created"":""Thu, 21 Aug 1997 07:47:24 GMT""}]","2009-10-30"
+"hep-ph/9701213","Rod Crewther","S. D. Bass (1), R. J. Crewther (2 and 3), F. M. Steffens (3 and 4), A.
+  W. Thomas (3) ((1) ITKP Bonn, (2) ITP Berne, (3) Adelaide, (4) Sao Paulo)","Measuring anomalous ``spin'' in elastic e-p or \nu-p and deep inelastic
+  e-p scattering","11 pages, LaTeX 2.09, no figures; at the end of the text,
+  ``anti-parallel'' replaced by ``aligned'' and a new paragraph referring to
+  the work of Altarelli and Lampe added",,,"TK-96-27, BUTP-96/30, ADP-96-46/T240","hep-ph hep-ex nucl-th",,"  We obtain a general rule that the O(1/log m_h) term due to the current
+\bar{h}\gamma_\mu\gamma_5h of a mass-m_h quark h in f-flavour theory is
+-3\bar{g}^2_f(m_h)/{2\pi^2(33-2f)} times the flavour singlet current of the
+residual (f-1)-flavour theory, where \bar{g}_f is the f-flavour running
+coupling constant in a mass-independent renormalization scheme. The rule is
+applied to the Ellis-Jaffe moment below and well above charm threshold, and to
+low-energy Z^0-exchange amplitudes. The singlet axial charge of the proton
+common to these experiments is both scale and gauge invariant, but is related
+to the axial anomaly and the ``gluon spin'' by a non-perturbative
+renormalization factor.
+","[{""version"":""v1"",""created"":""Fri, 3 Jan 1997 14:43:56 GMT""},{""version"":""v2"",""created"":""Thu, 6 Mar 1997 06:35:54 GMT""}]","2008-02-03"
+"hep-th/9701004","Cornwall John","John M. Cornwall (UCLA)","Large-Order Perturbation Theory in Infrared-Unstable Superrenormalizable
+  Field Theories","28 pages, Latex, three .eps figures","Phys.Rev. D55 (1997) 6209-6217","10.1103/PhysRevD.55.6209","UCLA/96/TEP/36","hep-th",,"  We study the factorial divergences of Euclidean $\phi^3_5$, a problem with
+connections both to high-energy multiparticle scattering in d=4 and to d=3 (or
+high-temperature) gauge theory, which like $\phi^3_5$ is infrared-unstable and
+superrenormalizable. At large external momentum p (or small mass M) and large
+order N one might expect perturbative bare skeleton graphs to behave roughly
+like $N!(ag^2/p)^N$ with a>0, so that no matter how large p is there is an
+$N\sim g^2/p$ giving rise to strong perturbative amplitudes. The semi-
+classical Lipatov technique (which works only in the presence of a mass) is
+blind to this momentum dependence, so we proceed by direct summation of bare
+skeleton graphs. We find that the various limits of large N, large p, and small
+M do not commute, and that when $N\gg p^2/M^2$ there is a Borel singularity
+associated with $g^2/M$, not $g^2/p$. This is described by the zero-momentum
+Lipatov technique, and we find the necessary soliton for $\phi^3_5$; the
+corresponding sphaleron-like solution for unbroken Yang-Mills theory has long
+been known. We also show that the massless theories have no classical solitons.
+We discuss non-perturbative effects based partly on known physical arguments
+concerning the cancellation by solitons of imaginary parts due to the pert-
+urbative Borel singularity, and partly on the dressing of bare skeleton graphs
+by dressed propagators showing non-perturbative mass generation, as happens in
+d=3 gauge theory.
+","[{""version"":""v1"",""created"":""Thu, 2 Jan 1997 18:43:54 GMT""}]","2009-10-30"
+"hep-th/9701005","Detlev Buchholz","Detlev Buchholz and Izumi Ojima","Spontaneous Collapse of Supersymmetry","22 pages, amslatex, minor changes in text, two references added","Nucl.Phys. B498 (1997) 228-242","10.1016/S0550-3213(97)00274-5",,"hep-th hep-ph",,"  It is shown that, if generators of supersymmetry transformations
+(supercharges) can be defined in a spatially homogeneous physical state, then
+this state describes the vacuum. Thus, supersymmetry is broken in any thermal
+state and it is impossible to proceed from it by ``symmetrization'' to states
+on which an action of supercharges can be defined. So, unlike the familiar
+spontaneous breakdown of bosonic symmetries, there is a complete collapse of
+supersymmetry in thermal states. It is also shown that spatially homogeneous
+superthermal ensembles are never supersymmetric.
+","[{""version"":""v1"",""created"":""Fri, 3 Jan 1997 02:08:51 GMT""},{""version"":""v2"",""created"":""Wed, 15 Jan 1997 22:46:50 GMT""},{""version"":""v3"",""created"":""Thu, 16 Jan 1997 01:26:08 GMT""}]","2009-10-30"
+"hep-th/9701006","Alfonso Jaramillo","A. Ferrando (1 and 2), A. Jaramillo (1) and S. Shabanov (1). ((1)
+  Valencia U., (2) MIT)","Confinement in 3D Gluodynamics as a 2D Critical Phenomenon","4 pages, LaTeX. Talk presented at the 2nd Int. Conf. on Quark
+  Confinement and the Hadron Spectrum in Como (Italy)",,,"FTUV/96-77. IFIC/96-86","hep-th",,"  Gluodynamics in 3D spacetime with one spatial direction compactified into a
+circle of length $L$ is studied. The confinement order parameters, such as the
+Polyakov loops, are analyzed in both the limits $L \to 0$ and $L \to \infty$.
+In the latter limit the behavior of the confinement order parameters is shown
+to be described by a 2D non-linear sigma-model on the compact coset space $G/ad
+G$, where $G$ is the gauge group and $ad G$ its adjoint action on $G$.
+Topological vortex-like excitations of the compact field variable cause a
+Kosterlitz-Thouless phase transition which is argued to be associated with the
+confinement phase transition in the 3D gluodynamics.
+","[{""version"":""v1"",""created"":""Fri, 3 Jan 1997 11:24:59 GMT""}]","2016-09-06"
+"hep-th/9701007","Herbert Neuberger","Y. Kikukawa (1), R. Narayanan (2), H. Neuberger (1) ((1) Rutgers, (2)
+  U. of Washington)","Finite size corrections in two dimensional gauge theories and a
+  quantitative chiral test of the overlap","11 pages, 1 figure, TeX, epsf","Phys.Lett. B399 (1997) 105-112","10.1016/S0370-2693(97)00276-1","RU-97-01","hep-th hep-lat",,"  An argument is presented for a certain universality of finite size
+corrections in two dimensional gauge theories. In the abelian case a direct
+calculation is carried out for a particular chiral model. The analytical result
+confirms the above universality and that the 't Hooft vertex previously
+measured using the overlap smoothly approaches the correct continuum limit
+within statistical errors.
+","[{""version"":""v1"",""created"":""Fri, 3 Jan 1997 14:54:27 GMT""}]","2009-10-30"
+"nucl-th/9701005","Ami Leviatan","A. Leviatan and R. Bijker","Recent Calculations of Electromagnetic and Strong Decays of N*","10 pages. Invited talk at `CEBAF/INT workshop on N* Physics',
+  Seattle, September 8-13, 1996",,,,"nucl-th",,"  We report on recent calculations of electromagnetic elastic form factors,
+helicity amplitudes and strong decay widths of N* resonances. The calculations
+are done in a collective constituent model for the nucleon, in which the
+resonances are interpreted as rotations and vibrations of an oblate top with a
+prescribed distribution of charges and magnetization.
+","[{""version"":""v1"",""created"":""Thu, 2 Jan 1997 16:09:00 GMT""},{""version"":""v2"",""created"":""Fri, 3 Jan 1997 11:09:00 GMT""}]","2008-02-03"
+"nucl-th/9701006","Attila Csoto","Attila Csoto and G. M. Hale (Los Alamos National Laboratory)","Nature of the first excited state of He-4","13 pages, 2 figures","Phys.Rev.C55:2366-2372,1997","10.1103/PhysRevC.55.2366","LA-UR-96-4914","nucl-th",,"  We study the first excited state of He4 in a microscopic {H3+p,He3+n} cluster
+model, including H3 and He3 distortions. The phenomenological 1S0 H3+p
+scattering phase shift is well reproduced. We localize a complex pole of the
+S-matrix between the H3+p and He3+n thresholds. The corresponding resonance
+parameters are E_r=93 keV position relative to H3+p, and Gamma=390 keV width. A
+pole search is also performed in an extended R-matrix method, and a resonance
+is found with parameters E_r=114 keV and Gamma=392 keV. The R-matrix approach
+gives several additional poles, some of which may be connected with an enhanced
+threshold effect.
+","[{""version"":""v1"",""created"":""Thu, 2 Jan 1997 20:21:37 GMT""}]","2008-11-26"
+"nucl-th/9701013","Marek Gadzicki","Marek Gazdzicki, Mark I. Gorenstein, Stanislaw Mrowczynski","Pion Suppression in Nuclear Collisions","a revised version, to be published in Eur. Phys. J. C (1998)","Eur.Phys.J.C5:129-133,1998","10.1007/s100520050254",,"nucl-th",,"  The pion multiplicity per participating nucleon in central nucleus-nucleus
+collisions at the energies 2-15 A GeV is significantly smaller than in
+nucleon-nucleon interactions at the same collision energy. This effect of pion
+suppression is argued to appear due to the evolution of the system produced at
+the early stage of heavy-ion collisions towards a local thermodynamic
+equilibrium and further isentropic expansion.
+","[{""version"":""v1"",""created"":""Fri, 3 Jan 1997 13:06:40 GMT""},{""version"":""v2"",""created"":""Mon, 12 Jan 1998 15:29:26 GMT""}]","2011-09-13"
+"patt-sol/9701001","Yuhai Tu","Yuhai Tu (IBM T. J. Watson Research Center)","Worm Structure in Modified Swift-Hohenberg Equation for
+  Electroconvection",,,"10.1103/PhysRevE.56.R3765",,"patt-sol nlin.PS",,"  A theoretical model for studying pattern formation in electroconvection is
+proposed in the form of a modified Swift-Hohenberg equation. A localized state
+is found in two dimension, in agreement with the experimentally observed
+``worm"" state. The corresponding one dimensional model is also studied, and a
+novel stationary localized state due to nonadiabatic effect is found. The
+existence of the 1D localized state is shown to be responsible for the
+formation of the two dimensional ``worm"" state in our model.
+","[{""version"":""v1"",""created"":""Thu, 2 Jan 1997 16:36:50 GMT""}]","2016-09-08"
+"q-alg/9701003","Hamid Bougourzi","A.H. Bougourzi","Exact n-spinon dynamic structure factor of the Heisenberg model","9 pages, Latex. To appear in Mod. Phys. Lett. B, 1997",,,"ITP-SB-96-41, August 96","q-alg math.QA",,"  Using the spinon picture we derive an integral representation for the exact
+n-spinon dynamic structure factor of the spin-1/2 Heisenberg model.
+","[{""version"":""v1"",""created"":""Thu, 2 Jan 1997 23:42:11 GMT""}]","2008-02-03"
+"q-alg/9701004","Hamid Bougourzi","A.H. Bougourzi and A. Sebbar","A Hopf algebra isomorphism between two realizations of the quantum
+  affine algebra $U_q(\widehat{gl(2)})$","8 pages, Latex",,,"ITP-SB-97-01, January 97","q-alg math.QA",,"  We consider the algebra isomorphism found by Frenkel and Ding between the RLL
+and the Drinfeld realizations of $U_q(\widehat{gl(2)})$. After we note that
+this is not a Hopf algebra isomorphism, we prove that there is a unique Hopf
+algebra structure for the Drinfeld realization so that this isomorphism becomes
+a Hopf algebra isomorphism. Though more complicated, this Hopf algebra
+structure is also closed, just as the one found previously by Drinfeld.
+","[{""version"":""v1"",""created"":""Thu, 2 Jan 1997 23:42:35 GMT""}]","2016-09-08"
+"quant-ph/9701003","Brif Constantin","C. Brif (Technion, Haifa)","SU(2) and SU(1,1) algebra eigenstates: A unified analytic approach to
+  coherent and intelligent states","LaTeX, 24 pages, 1 figure (compressed PostScript, available at
+  http://www.technion.ac.il/~brif/abstracts/AES.html ). More information on
+  http://www.technion.ac.il/~brif/science.html","Int.J.Theor.Phys.36:1651-1682,1997","10.1007/BF02435763",,"quant-ph",,"  We introduce the concept of algebra eigenstates which are defined for an
+arbitrary Lie group as eigenstates of elements of the corresponding complex Lie
+algebra. We show that this concept unifies different definitions of coherent
+states associated with a dynamical symmetry group. On the one hand, algebra
+eigenstates include different sets of Perelomov's generalized coherent states.
+On the other hand, intelligent states (which are squeezed states for a system
+of general symmetry) also form a subset of algebra eigenstates. We develop the
+general formalism and apply it to the SU(2) and SU(1,1) simple Lie groups.
+Complete solutions to the general eigenvalue problem are found in the both
+cases, by a method that employs analytic representations of the algebra
+eigenstates. This analytic method also enables us to obtain exact closed
+expressions for quantum statistical properties of an arbitrary algebra
+eigenstate. Important special cases such as standard coherent states and
+intelligent states are examined and relations between them are studied by using
+their analytic representations.
+","[{""version"":""v1"",""created"":""Fri, 3 Jan 1997 11:52:41 GMT""}]","2014-11-18"
+"quant-ph/9701004","Carlos Cabrillo","C. Cabrillo, J. L. Roldan, and P. Garcia-Fernandez (Instituto de
+  Estructura de la Materia, Spain)","Almost perfect squeezing at high intensities by stabilization from
+  competing non-linearities","4 pages, RevTex, 3 EPS figures, uses psfig.sty, psfig.tex and
+  epsf.sty. Avoid line breaks in the psfig commands",,,,"quant-ph",,"  The squeezing properties of a cavity Second Harmonic Generation (SHG) system
+with an added Kerr effect-like nonlinearity are studied as a function of the
+intra-cavity photon number. The competition between the second and the third
+order non-linearities shifts the Hopf bifurcation of the standard SHG towards
+higher intra-cavity energies eventually completely stabilizing the system.
+Remarkably, the noise suppression is at the same time strongly enhanced, so
+that almost perfect squeezing is obtained for arbitrarily large intra-cavity
+photon numbers. Possible experimental implementations are finally discussed.
+","[{""version"":""v1"",""created"":""Fri, 3 Jan 1997 13:00:42 GMT""}]","2009-09-25"

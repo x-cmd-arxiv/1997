@@ -1,0 +1,170 @@
+"adap-org/9710002","Franz Josef Elmer","Franz-Josef Elmer","Self-Organized Criticality with Complex Scaling Exponents in the Train
+  Model","Written in RevTeX, 4 pages, 5 PostScript figure, appears in PRE",,"10.1103/PhysRevE.56.R6225",,"adap-org nlin.AO",,"  The train model which is a variant of the Burridge-Knopoff earthquake model
+is investigated for a velocity-strengthening friction law. It shows
+self-organized criticality with complex scaling exponents. That is, the
+probability density function of the avalanche strength is a power law times a
+log-periodic function. Exact results (scaling exponent: $3/2+2\pi i/\ln 4$) are
+found for a nonlocal cellular automaton which approximates the overdamped train
+model. Further the influence of random static friction is discussed.
+","[{""version"":""v1"",""created"":""Sun, 12 Oct 1997 08:15:38 GMT""}]","2009-10-30"
+"alg-geom/9710015",,"Zvezdelina E. Stankova-Frenkel","Moduli of Trigonal Curves","69 pages, 34 figures, Latex2e",,,,"alg-geom math.AG",,"  We study the moduli of trigonal curves. We establish the exact upper bound of
+${36(g+1)}/(5g+1)$ for the slope of trigonal fibrations. Here, the slope of any
+fibration $X\to B$ of stable curves with smooth general member is the ratio
+$\delta_B/\lambda_B$ of the restrictions of the boundary class $\delta$ and the
+Hodge class $\lambda$ on the moduli space $\bar{\mathfrak{M}}_g$ to the base
+$B$. We associate to a trigonal family $X$ a canonical rank two vector bundle
+$V$, and show that for Bogomolov-semistable $V$ the slope satisfies the
+stronger inequality ${\delta_B}/{\lambda_B}\leq 7+{6}/{g}$. We further describe
+the rational Picard group of the {trigonal} locus $\bar{\mathfrak T}_g$ in the
+moduli space $\bar{\mathfrak{M}}_g$ of genus $g$ curves. In the even genus
+case, we interpret the above Bogomolov semistability condition in terms of the
+so-called Maroni divisor in $\bar{\mathfrak T}_g$.
+","[{""version"":""v1"",""created"":""Sun, 12 Oct 1997 05:02:10 GMT""}]","2007-05-23"
+"astro-ph/9710118","Ray Protheroe","R.J. Protheroe, C.L. Bhat, P. Fleury, E. Lorenz, M. Teshima, and T.C.
+  Weekes","Very high energy gamma rays from Markarian 501","15 pages, 8 figures, LaTeX. Paper is based on several talks given in
+  a Highlight Session on Markarian 501 at the 25th International Cosmic Ray
+  Conference, Durban, 1997 (in press)",,,"ADP-AT-97-9","astro-ph",,"  During remarkable flaring activity in 1997 Markarian 501 was the brightest
+source in the sky at TeV energies, outshining the Crab Nebula by a factor of up
+to 10. Periods of flaring activity each lasting a few days were observed
+simultaneously by several gamma ray telescopes. Contemporaneous multiwavelength
+observations in April 1997 show that a substantial fraction of the total AGN
+power is at TeV energies indicating that high energy processes dominate the
+energetics of this object. Rapid variability, on time scales of less than a
+day, and a flat spectrum extending up to at least 10 TeV characterize this
+object. Results of 1997 observations by 6 telescopes are summarized and some of
+the implications of these results are discussed.
+","[{""version"":""v1"",""created"":""Sun, 12 Oct 1997 09:37:54 GMT""}]","2007-05-23"
+"astro-ph/9710119","Hugo Martel","Hugo Martel and Paul R. Shapiro (University of Texas)","A Convenient Set of Comoving Cosmological Variables and Their
+  Application","38 pages (AAS latex) + 2 figures (postscript) combined in one gzip-ed
+  tar file. Identical to original posted version, except for addition of 2
+  references. Monthly Notices of the R.A.S., in press","Mon.Not.Roy.Astron.Soc. 297 (1998) 467","10.1046/j.1365-8711.1998.01497.x",,"astro-ph",,"  We present a set of cosmological variables, called ""supercomoving variables,""
+which are particularly useful for describing the gas dynamics of cosmic
+structure formation. For ideal gas with gamma=5/3, the supercomoving position,
+velocity, density, temperature, and pressure are constant in time in a uniform,
+isotropic, adiabatically expanding universe. Expressed in terms of these
+supercomoving variables, the cosmological fluid conservation equations and the
+Poisson equation closely resemble their noncosmological counterparts. This
+makes it possible to generalize noncosmological results and techniques to
+cosmological problems, for a wide range of cosmological models. These variables
+were initially introduced by Shandarin for matter-dominated models only. We
+generalize supercomoving variables to models with a uniform component
+corresponding to a nonzero cosmological constant, domain walls, cosmic strings,
+a nonclumping form of nonrelativistic matter (e.g. massive nettrinos), or
+radiation. Each model is characterized by the value of the density parameter
+Omega0 of the nonrelativistic matter component in which density fluctuation is
+possible, and the density parameter OmegaX of the additional, nonclumping
+component. For each type of nonclumping background, we identify FAMILIES within
+which different values of Omega0 and OmegaX lead to fluid equations and
+solutions in supercomoving variables which are independent of Omega0 and
+OmegaX. We also include the effects of heating, radiative cooling, thermal
+conduction, viscosity, and magnetic fields. As an illustration, we describe 3
+familiar cosmological problems in supercomoving variables: the growth of linear
+density fluctuations, the nonlinear collapse of a 1D plane-wave density
+fluctuation leading to pancake formation, and the Zel'dovich approximation.
+","[{""version"":""v1"",""created"":""Sun, 12 Oct 1997 15:39:32 GMT""},{""version"":""v2"",""created"":""Wed, 17 Dec 1997 00:29:57 GMT""}]","2009-10-30"
+"cond-mat/9710107","Takeshi Nakanishi","Takeshi Nakanishi and Tomi Ohtsuki","Numerical Study of Inelastic Scatterings by Time-Dependent Random
+  Potentials in Two-Dimensional Systems","4 pages, 2 figures, Physica B in press, Proceedings for EP2DS-12",,"10.1016/S0921-4526(98)00317-2",,"cond-mat.mes-hall cond-mat.dis-nn",,"  Diffusion of electrons in a two-dimensional system with time-dependent random
+potentials is investigated numerically. In the absence of spin-orbit
+scattering, the conductivity shows universal weak localization correction. In
+the presence of it, however, the correction to the conductivity weakly depends
+on the strength of disorder, and becomes vanishingly small close to the
+metal-insulator transition point.
+","[{""version"":""v1"",""created"":""Sat, 11 Oct 1997 21:43:45 GMT""}]","2009-10-30"
+"cond-mat/9710108","Dongning Sheng","D.N. Sheng and Z. Y. Weng","New universality of metal-insulator transition in integer quantum Hall
+  effect system","4 pages, Revtex; 4 Postscript figures",,"10.1103/PhysRevLett.80.580",,"cond-mat.mes-hall",,"  A new universality of metal-insulator transition in integer quantum Hall
+effect (IQHE) system is studied based on a lattice model, where the IQHE states
+only exist within a finite range of Fermi energy in the presence of disorders.
+A two-parameter scaling law is found at the high-energy boundary where direct
+transitions from high IQHE states to insulator occur. We find $\rho_{xx}=
+\rho_{xy}$ at the critical point whose value can continuously vary as a single
+function of the Landau-level filling number $n_{\nu}$. Such a new universality
+well explains recent experiment by Song et al. (Phys. Rev. Lett. 78, 2200
+(1997)).
+","[{""version"":""v1"",""created"":""Sat, 11 Oct 1997 22:22:18 GMT""}]","2009-10-30"
+"cond-mat/9710109","Oleg Starykh","R. R. P. Singh, O. A. Starykh, and P. J. Freitas","A new paradigm for two-dimensional spin-liquids","4 pages, RevTex, 1 postscript figure included. Submitted to the 7th
+  Joint MMM-Intermag Conference, San Francisco, CA",,"10.1063/1.367682",,"cond-mat.str-el",,"  Motivated by the geometry of the materials Na_2 Ti_2 As_2 O and Na_2 Ti_2
+Sb_2 O, we study a square-lattice Heisenberg antiferromagnet with spins located
+at the bond-centers. The largest exchange constant J couples neighboring spins
+in a given row or column. This leads to a mesh of isolated spin-chains running
+along the X and Y axes. A weaker exchange constant J' couples the
+nearest-neighbor spins on the lattice. Classically, J' fails to fix the
+relative spin orientation for different chains and hence the ground state is
+highly degenerate. Quantum order by disorder effect is studied by spin-wave
+theory and numerical methods. It is shown that a 4-sublattice order is favored
+by quantum fluctuations. However, several arguments are presented that suggest
+that the ground state of the system remains disordered, thus providing us with
+a paradigm for a two-dimensional spin-liquid.
+","[{""version"":""v1"",""created"":""Sat, 11 Oct 1997 23:10:01 GMT""}]","2009-10-30"
+"cond-mat/9710110","David H. Cobden","David H. Cobden, Marc Bockrath, Nasreen Chopra, Alex Zettl, Paul L.
+  McEuen, Andrew Rinzler, Andreas Thess, and Richard E. Smalley","Transport Spectroscopy of Single-Walled Carbon Nanotubes","3 pages of Latex, plus one postscript file containing 4 figures, to
+  appear in Proceedings of EP2DS 12 (Tokyo 1997)",,"10.1016/S0921-4526(98)00083-0",,"cond-mat.mes-hall",,"  We have performed transport spectroscopy on individual ropes of single-walled
+carbon nanotubes. We find that the levels are Zeeman split in a magnetic field,
+with a g-factor of 2.04 +- 0.05. The observed pattern of peak splittings
+indicates the parity of the number of electrons on the dot. In one device there
+are also signs of the presence of a second dot. We observe features which
+resemble anticrossings between quantum levels in the two dots, which may be
+formed from separate conducting nanotubes within the rope.
+","[{""version"":""v1"",""created"":""Sun, 12 Oct 1997 00:02:34 GMT""}]","2009-10-30"
+"cond-mat/9710112","Konstantin Kladko","Jiri Malek, Konstantin Kladko and Sergej Flach","Incremental expansions for Hubbard-Peierls systems","4 Pages, 3 Figures, REVTEX","JETP Letters, 67(12),1052-1058, June 25 1998","10.1134/1.567791",,"cond-mat",,"  The ground state energies of infinite half-filled Hubbard-Peierls chains are
+investigated combining incremental expansion with exact diagonalization of
+finite chain segments. The ground state energy of equidistant infinite Hubbard
+(Heisenberg) chains is calculated with a relative error of less than $3 \cdot
+10^{-3}$ for all values of $U$ using diagonalizations of 12-site (20-site)
+chain segm ents. For dimerized chains the dimerization order parameter $d$ as a
+function of the onsite repulsion interaction $U$ has a maximum at nonzero
+values of $U$, if the electron-phonon coupling $g$ is lower than a critical
+value $g_c$. The critical value $g_c$ is found with high accuracy to be
+$g_c=0.69$. For smaller values of $g$ the position of the maximum of $d(U)$ is
+approximately $3t$, and rapidly tends to zero as $g$ approaches $g_c$ from
+below. We show how our method can be applied to calculate breathers for the
+problem of phonon dynamics in Hubbard-Peierls systems.
+","[{""version"":""v1"",""created"":""Sun, 12 Oct 1997 14:26:10 GMT""}]","2009-10-30"
+"gr-qc/9710065","I. H. Dwivedi","I. H. Dwivedi","Field of a Radiation Distributuion","Latex file, 13 pages, no figures. Accepted for publication in Phys.
+  Rev. D","Phys.Rev. D58 (1998) 084029","10.1103/PhysRevD.58.084029",,"gr-qc",,"  General relativistic spherically symmetric matter field with a vanishing
+stress energy scalar is analyzed. Procedure for generating exact solutions of
+the field equations for such matter distributions is given. It is further
+pointed out that all such type I spherically symmetric fields with distinct
+eignvalues in the radial two space can be treated as a mixture of isotropic and
+directed radiations. Various classes of exact solutions are given. Junction
+conditions for such a matter field to the possible exterior solutions are also
+discussed.
+","[{""version"":""v1"",""created"":""Sun, 12 Oct 1997 11:00:24 GMT""},{""version"":""v2"",""created"":""Sat, 20 Jun 1998 09:08:33 GMT""}]","2009-10-30"
+"hep-ex/9710010","Rick Van Kooten","The OPAL Collaboration, K. Ackerstaff et al","Search for Anomalous Production of Di-lepton Events with Missing
+  Transverse Momentum in e^+e^- Collisions at sqrt{s} = 161 and 172 GeV","61 pages, LaTeX, uses a4p.sty, 23 eps figures included, submitted to
+  Zeit. f. Physik C","Eur.Phys.J.C4:47-74,1998","10.1007/s100520050185","CERN-PPE/97-124","hep-ex",,"  Events containing a pair of charged leptons and significant missing
+transverse momentum are selected from a data sample corresponding to a total
+integrated luminosity of 20.6 pb^-1 at centre-of-mass energies of 161 GeV and
+172 GeV. The observed number of events, four at 161 GeV and nine at 172 GeV, is
+consistent with the number expected from Standard Model processes,
+predominantly arising from W+W- production with each W decaying leptonically.
+This topology is also an experimental signature for the pair production of new
+particles that decay to a charged lepton accompanied by one or more invisible
+particles. Further event selection criteria are described that optimise the
+sensitivity to particular new physics channels. No evidence for new phenomena
+is observed and limits on the production of scalar charged lepton pairs and
+other new particles are presented.
+","[{""version"":""v1"",""created"":""Sat, 11 Oct 1997 19:59:11 GMT""}]","2008-11-26"
+"nucl-th/9710026","Wade Smith","Wade Smith and Kevin L. Haglin","Collision Broadening of the Phi Meson in Baryon Rich Hadronic Matter","13 pages, RevTeX format, 4 postscript figures. Submitted to Phys Rev
+  C","Phys.Rev.C57:1449-1453,1998","10.1103/PhysRevC.57.1449",,"nucl-th",,"  Phi meson-baryon cross sections, estimated within a one-boson-exchange model,
+serve as input for a calculation of the collision rates in hot hadronic matter.
+We find that the width of the \phi meson is modified through collisions with
+baryons by 1-10 MeV at 160 MeV temperature depending on the baryon fugacity.
+Thermalization of the \phi in high energy heavy ion collisions is discussed.
+","[{""version"":""v1"",""created"":""Sat, 11 Oct 1997 17:34:30 GMT""}]","2016-09-08"
+"nucl-th/9710027","Georgios Lalazissis","G. Bonsignori, D. Vretenar, S. Cacciamani and L. Corradini (INFN and
+  Physics Department, University of Bologna, Italy)","Broken Pairs and High-Spin States in Transitional Nuclei","7 Pages LaTeX, 4 ps figures, Invited talk at the International
+  Conference on Nuclear Physics and Related Areas, Thessaloniki 1997, to appear
+  in the conference proceedings",,,,"nucl-th",,"  The Interacting Boson plus broken-pairs Model has been used to describe
+high-spin bands in spherical and transitional nuclei. In the spherical nucleus
+$^{104}$Cd the model reproduces the structure of high-spin bands built on a
+vibrational structure. Model calculations performed with a single set of
+parameters reproduce ten bands in $^{136}$Nd, including the two dipole
+high-spin bands based on the $(\pi h_{11/2})^2$ $(\nu h_{11/2})^2$
+configuration.
+","[{""version"":""v1"",""created"":""Sun, 12 Oct 1997 14:32:37 GMT""}]","2007-05-23"
+"physics/9710013","Phil Fraundorf","P. Fraundorf","Teaching Newton with anticipation(...)","2 pages (6 figs, 6 refs) RevTeX for broadened readership;
+  http://www.umsl.edu/~fraundor/a1toc.html",,,"UMStL-CME-971007pf","physics.ed-ph gr-qc physics.acc-ph physics.class-ph",,"  Care making only clock-specific assertions about elapsed-time, and other
+``space-time smart'' strategies from the perspective of a selected inertial
+map-frame, open doors to an understanding of anyspeed motion via application of
+the metric equation.
+","[{""version"":""v1"",""created"":""Sun, 12 Oct 1997 14:55:06 GMT""},{""version"":""v2"",""created"":""Mon, 1 Jun 1998 18:41:54 GMT""}]","2007-05-23"

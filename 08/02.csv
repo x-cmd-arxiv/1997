@@ -1,0 +1,416 @@
+"alg-geom/9708001","Rahul Pandharipande","T. Graber and R. Pandharipande","Localization of virtual classes","29 pages, LaTeX2e, General revision including error corrections",,,,"alg-geom math.AG",,"  We prove a localization formula for virtual fundamental classes in the
+context of torus equivariant perfect obstruction theories. As an application,
+the higher genus Gromov-Witten invariants of projective space are expressed as
+graph sums of tautological integrals over moduli spaces of stable pointed
+curves (generalizing Kontsevich's genus 0 formulas). Also, excess integrals
+over spaces of higher genus multiple covers are computed.
+","[{""version"":""v1"",""created"":""Fri, 1 Aug 1997 21:03:40 GMT""},{""version"":""v2"",""created"":""Thu, 4 Sep 1997 19:01:26 GMT""}]","2008-02-03"
+"alg-geom/9708002","James A. Carlson","James A. Carlson and Domingo Toledo","Discriminant Complements and Kernels of Monodromy Representations","20 page dvi file available at
+  http://www.math.utah.edu/~carlson/eprints.html Minor changes for final
+  version to appear in Duke J. Math",,,,"alg-geom math.AG",,"  We show that the kernel of the monodromy representation for hypersurfaces of
+degree d and dimension n is large for d at least three with the exception of
+the cases (d,n) = (3,0) and (3,1). For these the kernel is finite. By ""large""
+we mean a group that admits a homomorphism to a semisimple Lie group of
+noncompact type with Zariski-dense image. By the Tits alternative a large group
+contains a free subgroup of rank two.
+","[{""version"":""v1"",""created"":""Fri, 1 Aug 1997 23:18:27 GMT""},{""version"":""v2"",""created"":""Fri, 13 Feb 1998 16:48:02 GMT""},{""version"":""v3"",""created"":""Mon, 11 May 1998 03:39:15 GMT""}]","2008-02-03"
+"alg-geom/9708003","Mark De Cataldo","Mark Andrea A. de Cataldo","Singular hermitian metrics on vector bundles","LaTex (article) 25 pages; revised: minor changes; to appear in
+  Crelle's J; dedicated to Michael Schneider",,,,"alg-geom math.AG",,"  We introduce a notion of singular hermitian metrics (s.h.m.) for holomorphic
+vector bundles and define positivity in view of $L^2$-estimates. Associated
+with a suitably positive s.h.m. there is a (coherent) sheaf 0-th kernel of a
+certain $d''$-complex. We prove a vanishing theorem for the cohomology of this
+sheaf. All this generalizes to the case of higher rank known results of Nadel
+for the case of line bundles. We introduce a new semi-positivity notion,
+$t$-nefness, for vector bundles, establish some of its basic properties and
+prove that on curves it coincides with ordinary nefness. We particularize the
+results on s.h.m. to the case of vector bundles of the form $E=F \otimes L$,
+where $F$ is a $t$-nef vector bundle and $L$ is a positive (in the sense of
+currents) line bundle. As applications we generalize to the higher rank case 1)
+Kawamata-Viehweg Vanishing Theorem, 2) the effective results concerning the
+global generation of jets for the adjoint to powers of ample line bundles, and
+3) Matsusaka Big Theorem made effective.
+","[{""version"":""v1"",""created"":""Sat, 2 Aug 1997 01:32:14 GMT""},{""version"":""v2"",""created"":""Wed, 25 Nov 1998 05:05:36 GMT""}]","2008-02-03"
+"alg-geom/9708004","Mark De Cataldo","Mark Andrea A. de Cataldo","Effective nonvanishing, effective global generation","LaTex (article) 13 pages; revised: one section added; to appear in
+  Ann. Inst. Fourier",,,,"alg-geom math.AG",,"  We prove a multiple-points higher-jets nonvanishing theorem by the use of
+local Seshadri constants. Applications are given to effectivity problems such
+as constructing rational and birational maps into Grassmannians, and the global
+generation of vector bundles.
+","[{""version"":""v1"",""created"":""Sat, 2 Aug 1997 01:50:03 GMT""},{""version"":""v2"",""created"":""Wed, 25 Nov 1998 05:12:29 GMT""}]","2008-02-03"
+"astro-ph/9708009","Chris Mihos","Chris Mihos (JHU), John Dubinski (CITA), and Lars Hernquist (UCSC)","Tidal Tales Two: The Effect of Dark Matter Halos on Tidal Tail
+  Morphology and Kinematics","24 pages Latex using AASTex macros, accepted for ApJ",,,,"astro-ph",,"  We examine the effect of different dark matter halo potentials on the
+morphology and kinematics of tidals tails in a merger model of NGC 7252. We
+find that models of merging galaxies with low halo masses of Mh = 4-8
+M{disk+bulge} (Mdb) can fit the observed morphology and kinematics of the NGC
+7252 tails while galaxies with high mass halos (Mh = 16-32 Mdb) fail in this
+respect. In high mass models, the deep potential only allows weakly bound disk
+material (stars or gas) at R > 5 disk scale lengths to be ejected in tidal
+tails which tend to fall back onto the parent galaxies before the final merger.
+Galaxies with massive, low density halos are somewhat more successful at
+ejecting tidal debris during mergers, but still have difficulties recreating
+the thin, gas-rich tails observed in NGC 7252. Our models suggest upper limits
+for the dark halo masses in the NGC 7252 progenitor galaxies of roughly Mh <=
+10 Mdb. We note, however, that our calculations have focused on the rather
+idealized case of the isolated merging of galaxies with distinct dark matter
+halos; calculations which employ more realistic (cosmological) initial
+conditions are needed to fully explore the use of tidal tails in constraining
+dark matter in galaxies.
+","[{""version"":""v1"",""created"":""Fri, 1 Aug 1997 16:23:03 GMT""}]","2007-05-23"
+"astro-ph/9708010","Deepa Majmudar","Deepa Majmudar, James H. Applegate (Columbia University)","Production of Beryllium and Boron by Spallation in Supernova Ejecta","5 pages, Latex, to be published in the 4th Compton Symposium
+  Conference Proceeding",,"10.1063/1.54097",,"astro-ph",,"  The abundances of beryllium and boron have been measured in halo stars of
+metallicities as low as [Fe/H] =-3. The observations show that the ratios Be/Fe
+and B/Fe are independent of metallicity and approximately equal to their solar
+values over the entire range of observed metallicity. These observations are in
+contradiction with the predictions of simple models of beryllium and boron
+production by spallation in the interstellar medium of a well mixed galaxy. We
+propose that beryllium and boron are produced by spallation in the ejecta of
+type II supernovae. In our picture, protons and alpha particles are accelerated
+early in the supernova event and irradiate the heavy elements in the ejecta
+long before the ejecta mixes with the interstellar medium. We follow the
+propagation of the accelerated particles with a Monte-Carlo code and find that
+the energy per spallation reaction is about 5 GeV for a variety of initial
+particle spectra and ejecta compositions. Reproducing the observed Be/Fe and
+B/Fe ratios requires roughly 3 times 10^{47} ergs of accelerated protons and
+alphas. This is much less than the 10^{51} ergs available in a supernova
+explosion.
+","[{""version"":""v1"",""created"":""Fri, 1 Aug 1997 17:13:13 GMT""}]","2009-10-30"
+"astro-ph/9708011","Martin Groenewegen","M.A.T. Groenewegen","AGB stars in the Magellanic Clouds","Invited Review at the ``ISO's view on Stellar Evolution'' conference,
+  July 1997, Noordwijkerhout, The Netherlands",,"10.1023/A:1001516614112",,"astro-ph",,"  Some recent results on AGB research in the Magellanic Clouds are reviewed.
+Discussed are optical and IRAS based surveys, and recent results from the
+near-infrared DENIS survey, and ISO observations.
+","[{""version"":""v1"",""created"":""Fri, 1 Aug 1997 17:36:38 GMT""}]","2009-10-30"
+"astro-ph/9708012","Dick Henry","K.B. Kwitter (Williams College), R.B.C. Henry (U. Oklahoma)","A New Look At Carbon Abundances In Planetary Nebulae. III. DDDM1, IC
+  3568, IC4593, NGC 6210, NGC 6720, NGC 6826, & NGC 7009","36 pages, 7 tables, 2 figures, latex. Tables and figures supplied as
+  two separate postscript files. Accepted for publication in ApJ",,"10.1086/305094",,"astro-ph",,"  This paper is the third in a series reporting on a study of carbon abundances
+in a carefully chosen sample of planetary nebulae representing a large range in
+progenitor mass and metallicity. We make use of the IUE Final Archive database
+containing consistently-reduced spectra to measure line strengths of C III]
+1909 along with numerous other UV lines for the planetary nebulae DDDM1, IC
+3568, IC 4593, NGC 6210, NGC 6720, NGC 6826, & NGC 7009. We combine the IUE
+data with line strengths from optical spectra obtained specifically to match
+the IUE slit positions as closely as possible, to determine values for the
+abundance ratios He/H, O/H, C/O, N/O, and Ne/O. The ratio of C III] 1909/C II
+4267 is found to be effective for merging UV and optical spectra when He II
+1640/4686 is unavailable. Our abundance determination method includes a 5-level
+program whose results are fine-tuned by corrections derived from detailed
+photoionization models constrained by the same set of emission lines. All
+objects appear to have subsolar levels of O/H, and all but one show N/O levels
+above solar. In addition, the seven planetary nebulae span a broad range in C/O
+values. We infer that many of our objects are matter bounded, and thus the
+standard ionization correction factor for N/O may be inappropriate for these
+PNe. Finally, we estimate C/O using both collisionally-excited and
+recombination lines associated with C+2 and find the well established result
+that abundances from recombination lines usually exceed those from
+collisionally-excited lines by several times.
+","[{""version"":""v1"",""created"":""Fri, 1 Aug 1997 19:17:58 GMT""}]","2009-10-30"
+"astro-ph/9708013","David Neufeld","David A. Neufeld (1), Jonas Zmuidzinas (2), Peter Schilke (3) and
+  Thomas G. Phillips (2) ((1) Johns Hopkins, (2) CalTech, (3) MPIfR Bonn)","Discovery of Interstellar Hydrogen Fluoride","11 pages (AASTeX using aaspp4.sty) plus 2 figures; to appear in ApJ
+  Letters",,"10.1086/310942",,"astro-ph",,"  We report the first detection of interstellar hydrogen fluoride. Using the
+Long Wavelength Spectrometer (LWS) of the Infrared Space Observatory (ISO), we
+have detected the 121.6973 micron J = 2 - 1 line of HF in absorption toward the
+far-infrared continuum source Sagittarius B2. The detection is statistically
+significant at the 13 sigma level. On the basis of our model for the excitation
+of HF in Sgr B2, the observed line equivalent width of 1.0 nm implies a
+hydrogen fluoride abundance of 3E-10 relative to H2. If the elemental abundance
+of fluorine in Sgr B2 is the same as that in the solar system, then HF accounts
+for ~ 2% of the total number of fluorine nuclei. We expect hydrogen fluoride to
+be the dominant reservoir of gas-phase fluorine in Sgr B2, because it is formed
+rapidly in exothermic reactions of atomic fluorine with either water or
+molecular hydrogen; thus the measured HF abundance suggests a substantial
+depletion of fluorine onto dust grains. Similar conclusions regarding depletion
+have previously been reached for the case of chlorine in dense interstellar
+clouds. We also find evidence at a lower level of statistical significance (~ 5
+sigma) for an emission feature at the expected position of the 4(3,2)-4(2,3)
+121.7219 micron line of water. The emission line equivalent width of 0.5 nm for
+the water feature is consistent with the water abundance of 5E-6 relative to H2
+that has been inferred previously from observations of the hot core of Sgr B2.
+","[{""version"":""v1"",""created"":""Fri, 1 Aug 1997 20:04:03 GMT""}]","2009-10-30"
+"astro-ph/9708014",,"Yun Wang, David N. Spergel, and Edwin L. Turner (Princeton)","Implications of Cosmic Microwave Background Anisotropies for Large Scale
+  Variations in Hubble's Constant","Final version with very minor changes in wording. To appear in ApJ on
+  May 1, 1998","Astrophys.J. 498 (1998) 1","10.1086/305539",,"astro-ph",,"  Low amplitude (linear regime) cosmic density fluctuations lead to spatial
+variations in the locally measurable value of $H_0$ (denoted as $H_L$),
+$\delta_H \equiv (H_L-H_0)/H_0$, which are of order 3-6% (95% confidence
+interval) in a sphere of 200$ h^{-1}$Mpc in diameter, and of order 1-2% in a
+sphere of 400$ h^{-1}$Mpc in diameter, for three currently viable structure
+formation models (tilted CDM, $\Lambda$CDM, and open CDM) as normalized by the
+4 year COBE DMR data. However, the true matter distribution power spectrum may
+differ from any of the currently viable models. For example, it may contain
+sharp features which have escaped detection so far. The measured CMB dipole
+velocity (the Galaxy's peculiar velocity with respect to the CMB rest frame)
+provides additional constraints on the probability distribution of $\delta_H$
+that supplement our limited knowledge of the power spectrum. For a matter power
+spectrum which consists of the smooth power spectrum of a viable cosmological
+model plus a delta-function bump, we find that given the CMB dipole velocity,
+the 95% CL upper limit of $|\delta_H|$ increases approximately by a factor of
+two, but the probability distribution of $\delta_H$ is non-Gaussian, with
+increased probability at small $\delta_H$ compared to Gaussian. Abandoning
+model power spectra entirely, we find that the observed CMB dipole velocity
+alone provides a very robust limit, $\sqrt{< \delta_H^2 >_R} <10.5
+h^{-1}{Mpc}/R$ at 95% CL, in a sphere of radius $R$, for an arbitrary power
+spectrum. Thus, variations between currently available local measures of $H_0$
+and its true global value of a few to several percent are to be expected and
+differences as large as 10% are possible based on our current knowledge of the
+CMB anisotropies.
+","[{""version"":""v1"",""created"":""Sat, 2 Aug 1997 00:36:51 GMT""},{""version"":""v2"",""created"":""Wed, 24 Dec 1997 17:15:56 GMT""}]","2009-10-30"
+"astro-ph/9708015","Tarun Souradeep","Somnath Bharadwaj, Dipak Munshi and Tarun Souradeep","Skewness in the Cosmic Microwave Background Anisotropy from Inflationary
+  Gravity Wave Background","10 pages, Latex (uses revtex), 1 postscript figure included. Accepted
+  for publication in Physical Review D","Phys.Rev. D56 (1997) 4503-4510","10.1103/PhysRevD.56.4503","CITA-97-25","astro-ph",,"  In the context of inflationary scenarios, the observed large angle anisotropy
+of the Cosmic Microwave Background (CMB) temperature is believed to probe the
+primordial metric perturbations from inflation. Although the perturbations from
+inflation are expected to be gaussian random fields, there remains the
+possibility that nonlinear processes at later epochs induce ``secondary''
+non-gaussian features in the corresponding CMB anisotropy maps. The
+non-gaussianity induced by nonlinear gravitational instability of scalar
+(density) perturbations has been investigated in existing literature. In this
+paper, we highlight another source of non-gaussianity arising out of higher
+order scattering of CMB photons off the metric perturbations. We provide a
+simple and elegant formalism for deriving the CMB temperature fluctuations
+arising due to the Sachs-Wolfe effect beyond the linear order. In particular,
+we derive the expression for the second order CMB temperature fluctuations. The
+multiple scattering effect pointed out in this paper leads to the possibility
+that tensor metric perturbation, i.e., gravity waves (GW) which do not exhibit
+gravitational instability can still contribute to the skewness in the CMB
+anisotropy maps. We find that in a flat $\Omega =1$ universe, the skewness in
+CMB contributed by gravity waves via multiple scattering effect is comparable
+to that from the gravitational instability of scalar perturbations for equal
+contribution of the gravity waves and scalar perturbations to the total rms CMB
+anisotropy. The secondary skewness is found to be smaller than the cosmic
+variance leading to the conclusion that inflationary scenarios do predict that
+the observed CMB anisotropy should be statistically consistent with a gaussian
+random distribution.
+","[{""version"":""v1"",""created"":""Sat, 2 Aug 1997 04:36:28 GMT""}]","2019-08-17"
+"cond-mat/9708011","Siroisi Masahiro","Masahiro Shiroishi, Miki Wadati","Integrable Boundary Conditions for the One-Dimensional Hubbard Model","25 pages, LaTeX file using citesort.sty, to appear in J. Phys. Soc.
+  Jpn. 66 No.8 (1997)","J. Phys. Soc. Jpn. 66 (1997) 2288-2301","10.1143/JPSJ.66.2288",,"cond-mat.stat-mech",,"  We discuss the integrable boundary conditions for the one-dimensional (1D)
+Hubbard Model in the framework of the Quantum Inverse Scattering Method (QISM).
+We use the fermionic R-matrix proposed by Olmedilla et al. to treat the twisted
+periodic boundary condition and the open boundary condition. We determine the
+most general form of the integrable twisted periodic boundary condition by
+considering the symmetry matrix of the fermionic R-matrix. To find the
+integrable open boundary condition, we shall solve the graded reflection
+equation, and find there are two diagonal solutions, which correspond to a) the
+boundary chemical potential and b) the boundary magnetic field. Non-diagonal
+solutions are obtained using the symmetry matrix of the fermionic R-matrix and
+the covariance property of the graded reflection equation. They can be
+interpreted as the SO(4) rotations of the diagonal solutions.
+","[{""version"":""v1"",""created"":""Fri, 1 Aug 1997 20:06:56 GMT""}]","2009-10-30"
+"cond-mat/9708012","Didier Sornette","A. Arneodo, J.-F. Muzy and D. Sornette","Causal cascade in the stock market from the ``infrared'' to the
+  ``ultraviolet''","9 pages, 3 figures","European Physical Journal B 2, 277-282 (1998)","10.1007/s100510050250",,"cond-mat.stat-mech q-fin.ST",,"  Modelling accurately financial price variations is an essential step
+underlying portfolio allocation optimization, derivative pricing and hedging,
+fund management and trading. The observed complex price fluctuations guide and
+constraint our theoretical understanding of agent interactions and of the
+organization of the market. The gaussian paradigm of independent normally
+distributed price increments has long been known to be incorrect with many
+attempts to improve it. Econometric nonlinear autoregressive models with
+conditional heteroskedasticity (ARCH) and their generalizations capture only
+imperfectly the volatility correlations and the fat tails of the probability
+distribution function (pdf) of price variations. Moreover, as far as changes in
+time scales are concerned, the so-called ``aggregation'' properties of these
+models are not easy to control. More recently, the leptokurticity of the full
+pdf was described by a truncated ``additive'' L\'evy flight model (TLF).
+Alternatively, Ghashghaie et al. proposed an analogy between price dynamics and
+hydrodynamic turbulence. In this letter, we use wavelets to decompose the
+volatility of intraday (S&P500) return data across scales. We show that when
+investigating two-points correlation functions of the volatility logarithms
+across different time scales, one reveals the existence of a causal information
+cascade from large scales (i.e. small frequencies, hence to vocable
+``infrared'') to fine scales (``ultraviolet''). We quantify and visualize the
+information flux across scales. We provide a possible interpretation of our
+findings in terms of market dynamics.
+","[{""version"":""v1"",""created"":""Fri, 1 Aug 1997 23:22:01 GMT""}]","2009-10-30"
+"cond-mat/9708013","Jian-Sheng Wang","Jian-Sheng Wang (National University of Singapore)","Random Sequential Adsorption, Series Expansion and Monte Carlo
+  Simulation","7 pages, plain TeX",,"10.1016/S0378-4371(98)00028-4",,"cond-mat.stat-mech",,"  Random sequential adsorption is an irreversible surface deposition of
+extended objects. In systems with continuous degrees of freedom coverage
+follows a power law, theta(t) = theta_J - c t^{-alpha}, where the exponent
+alpha depends on the geometric shape (symmetry) of the objects. Lattice models
+give typically exponential saturation to jamming coverage. We discuss how such
+function theta(t) can be computed by series expansions and analyzed with Pade
+approximations. We consider the applications of efficient Monte Carlo computer
+simulation method (event-driven method) to random sequential adsorptions with
+high precision and at very long-time scale.
+","[{""version"":""v1"",""created"":""Sat, 2 Aug 1997 03:18:21 GMT""}]","2015-06-25"
+"cond-mat/9708014","Stephan Roche","S. Roche (Department of Applied Physics, University of Tokyo), D.
+  Mayou (LEPES CNRS, Grenoble)","Conductivity in 3D quasiperiodic systems","Latex, Phys. Rev. Lett. in press",,,,"cond-mat",,"  We develop a new real-space method which allows to evaluate the
+Kubo-Greenwood conductivity of independent electrons in static aperiodic
+potentials. We apply it to a numerical study of propagation modes in 3
+dimensional quasiperiodic systems. The effect of quenched disorder is analysed
+and for Fermi energies in pseudo-gaps, the conductivity can be stable or even
+increase with disorder.
+","[{""version"":""v1"",""created"":""Sat, 2 Aug 1997 08:25:28 GMT""}]","2007-05-23"
+"cond-mat/9708015","Robert Shcherbakov","R.R. Shcherbakov","Self-Organizing Height-Arrow Model: Numerical and Analytical Results","14 pages, RevTeX, 12 Postscript and 4 RevTex figures, additional
+  information available at http://thsun1.jinr.ru/~shcher",,,,"cond-mat.stat-mech",,"  The recently introduced self-organizing height-arrow (HA) model is
+numerically investigated on the square lattice and analytically on the Bethe
+lattice. The concentration of occupied sites and critical exponents of
+distributions of avalanches are evaluated for two slightly different versions
+of the model. The obtained exponents for distributions of avalanches by mass,
+area, duration and appropriate fractal dimensions are close to those for the
+BTW model, which suggests that the HA model belongs to the same universality
+class. For comparison, the concentration of occupied sites in the HA model is
+calculated exactly on the Bethe lattice of coordination number $q=4$ as well.
+","[{""version"":""v1"",""created"":""Sat, 2 Aug 1997 08:29:21 GMT""}]","2008-02-03"
+"cond-mat/9708016","Stephan Roche","S. Roche (Department of Applied Physics - University of Tokyo), Guy
+  Trambly de Laissardiere (Lab. L\'eon Brillouin, CEA-SACLAY) and D. Mayou
+  (LEPES-CNRS-Grenoble)","Electronic transport properties of quasicrystals: a Review","Latex, 28 pages, Journ. of Math. Phys., Vol38 April 1997",,"10.1063/1.531914",,"cond-mat",,"  We present a review of some results concerning electronic transport
+properties of quasicrystals. After a short introduction to the basic concepts
+of quasiperiodicity, we consider the experimental transport properties of
+electrical conductivity with particular focus on the effect of temperature,
+magnetic field and defects. Then, we present some heuristic approaches that
+tend to give a coherent view of different, and to some extent complementary,
+transport mechanisms in quasicrystals. Numerical results are also presented and
+in particular the evaluation of the linear response Kubo-Greenwood formula of
+conductivity in quasiperiodic systems in presence of disorder.
+","[{""version"":""v1"",""created"":""Sat, 2 Aug 1997 12:47:00 GMT""}]","2009-10-30"
+"dg-ga/9708002","Claude LeBrun","Matthew J. Gursky and Claude LeBrun","Yamabe Invariants and Spin^c Structures","Standard LaTeX file",,,,"dg-ga math.DG",,"  The Yamabe Invariant of a smooth compact manifold is by definition the
+supremum of the scalar curvatures of unit-volume Yamabe metrics on the
+manifold. For an explicit infinite class of 4-manifolds, we show that this
+invariant is positive but strictly less than that of the 4-sphere. This is done
+by using spin^c Dirac operators to control the lowest eigenvalue of a
+perturbation of the Yamabe Laplacian. These results dovetail perfectly with
+those derived from the perturbed Seiberg-Witten equations, but the present
+method is much more elementary in spirit.
+","[{""version"":""v1"",""created"":""Fri, 1 Aug 1997 17:30:33 GMT""}]","2008-02-03"
+"dg-ga/9708003","Udo Jeromin","Udo Hertrich-Jeromin","The surfaces capable of division into Infinitesimal Squares by their
+  Curves of Curvature","The paper has been withdrawn. It contains a crucial error in the
+  definition of a continuously differentiable submanifold","Math. Intell. 22 (2000) 54-61",,,"dg-ga math.DG",,"  Classically, isothermic surfaces are characterized as those surfaces which
+are ""divisible into infinitesimal squares by their curvature lines"". This
+characterization is the direct analogue to the definition of discrete
+isothermic nets. In order to understand the relations between the discrete and
+the smooth theory better, it is described how to give the classical
+characterization a rigorous meaning in the sense of modern differential
+geometry.
+","[{""version"":""v1"",""created"":""Fri, 1 Aug 1997 20:10:22 GMT""},{""version"":""v2"",""created"":""Thu, 22 Jun 2000 08:11:03 GMT""}]","2008-02-03"
+"funct-an/9708001",,"R. Mennicken (Regensburg), A. K. Motovilov (Dubna)","Operator interpretation of resonances arising in spectral problems for 2
+  x 2 operator matrices","LaTeX 2e (REVTeX style), 62 pages. A slightly extended version. In
+  particular a figure was added. A number of corrections was made. Submitted to
+  Math. Nachr","Mathematische Nachrichten, vol. 201 (1999), pp. 117-181.",,,"funct-an hep-th math-ph math.MP math.OA math.SP nucl-th",,"  We consider operator matrices {\bf H}= (A_0 B_{01} \\ B_{10} A_{1}) with
+self-adjoint entries A_i, i=0,1, and bounded B_{01}=B_{10}^*, acting in the
+orthogonal sum {\cal H}={\cal H}_0\oplus{\cal H}_1 of Hilbert spaces {\cal H}_0
+and {\cal H}_1. We are especially interested in the case where the spectrum of,
+say, A_1 is partly or totally embedded into the continuous spectrum of A_0 and
+the transfer function M_1(z)=A_1-z+V_1(z), where
+V_1(z)=B_{10}(z-A_0)^{-1}B_{01}, admits analytic continuation (as an
+operator-valued function) through the cuts along branches of the continuous
+spectrum of the entry A_0 into the unphysical sheet(s) of the spectral
+parameter plane. The values of z in the unphysical sheets where M_1^{-1}(z) and
+consequently the resolvent (H-z)^{-1} have poles are usually called resonances.
+A main goal of the present work is to find non-selfadjoint operators whose
+spectra include the resonances as well as to study the completeness and basis
+properties of the resonance eigenvectors of M_1(z) in {\cal H}_1. To this end
+we first construct an operator-valued function V_1(Y) on the space of operators
+in {\cal H}_1 possessing the property: V_1(Y)\psi_1=V_1(z)\psi_1 for any
+eigenvector \psi_1 of Y corresponding to an eigenvalue z and then study the
+equation H_1=A_1+V_1(H_1). We prove the solvability of this equation even in
+the case where the spectra of A_0 and A_1 overlap. Using the fact that the root
+vectors of the solutions H_1 are at the same time such vectors for M_1(z), we
+prove completeness and even basis properties for the root vectors (including
+those for the resonances).
+","[{""version"":""v1"",""created"":""Fri, 1 Aug 1997 21:42:56 GMT""},{""version"":""v2"",""created"":""Sat, 2 Aug 1997 20:25:47 GMT""},{""version"":""v3"",""created"":""Tue, 17 Mar 1998 20:59:50 GMT""}]","2008-02-03"
+"hep-ex/9708004","Suren Bagdasarov","K. Goulianos","Results on Diffraction","16pp, LaTex file, uses psfig, epsf and sprocl.sty; 11 PS/EPS figures,
+  presented at ""Physics in Collision 1997""",,,"Rockefeller University RU 97/E-48","hep-ex",,"  Results on hard diffraction from HERA and proton-antiproton Colliders are
+reviewed with emphasis on the factorization properties of the diffractive
+structure function of the proton and on the structure of the pomeron.
+","[{""version"":""v1"",""created"":""Sat, 2 Aug 1997 00:46:38 GMT""}]","2007-05-23"
+"hep-ph/9708208",,"Robert N. Cahn and Mahiko Suzuki","Final-State Interactions in Nonleptonic Weak Decays of D and B Mesons","53 pages, 3 figures included as encapsulated postscript files. Full
+  postscript also available from
+  http://theor1.lbl.gov/www/theorygroup/papers/40626.ps",,,"LBNL-40626, UCB-PTH-97/40","hep-ph",,"  We study final-state interactions in nonleptonic weak decays in statistical
+models by averaging over ensembles of strong interaction S-matrices. The models
+range from one with completely random strong interactions, which gives
+extensive mixing between physical states, to models with feeble final-state
+interactions, characterized by small phase shifts.
+","[{""version"":""v1"",""created"":""Fri, 1 Aug 1997 22:52:59 GMT""}]","2007-05-23"
+"hep-ph/9708216","Andrija Rasin","Andrija Rasin","Diagonalization of Quark Mass Matrices and the Cabibbo-Kobayashi-Maskawa
+  Matrix","14 pages, Revtex",,,,"hep-ph",,"  I discuss some general aspects of diagonalizing the quark mass matrices and
+list all possible parametrizations of the Cabibbo-Kobayashi-Maskawa matrix
+(CKM) in terms of three rotation angles and a phase. I systematically study the
+relation between the rotations needed to diagonalize the Yukawa matrices and
+various parametrizations of the CKM.
+","[{""version"":""v1"",""created"":""Fri, 1 Aug 1997 17:00:54 GMT""}]","2007-05-23"
+"hep-ph/9708217","Suren Bagdasarov","K. Goulianos","Factorization and Scaling in Hard Diffraction","6pp, LaTex file, uses psfig, 1 PS figure, presented at DIS97",,"10.1063/1.53630","Rockefeller University RU 97/E-29","hep-ph",,"  We compare results on diffractive W-boson production at the Tevatron with
+predictions based on the diffractive structure function measured in deep
+inelastic scattering at HERA assuming (a) conventional factorization or (b)
+hard factorization combined with a rapidity gap distribution scaled to the
+total gap probability. We find that conventional factorization fails, while the
+scaling prediction agrees with the data.
+","[{""version"":""v1"",""created"":""Sat, 2 Aug 1997 00:01:56 GMT""}]","2009-10-30"
+"hep-ph/9708218","Robert Szalapski","R. Szalapski","Contributions of LEP1.5, LEP2 and linear-collider data to indirect
+  constraints on non-Abelian gauge-boson couplings","\documentstyle[preprint,aps,floats,psfig]{revtex}, 4 figures,
+  postscript version available from ftp://ftp.kek.jp/kek/preprints/TH/TH-531","Phys. Rev. D 57, 5519 (1998)","10.1103/PhysRevD.57.5519","KEK-TH-531, KEK Preprint 97-107","hep-ph",,"  It is possible to place direct constraints on WW-photon and WWZ couplings by
+studying their tree-level contributions to the process e^+e^- ---> W^+W^-.
+However, these couplings also contribute at the loop level to e^+e^- ---> f
+fbar processes where `f' is any Standard-Model fermion. In this paper the
+available LEP1.5 and LEP2 data, the anticipated LEP2 data and possible linear
+collider data for these latter processes is combined with low-energy and Z-pole
+data to place indirect constraints on nonstandard WW-photon and WWZ couplings.
+The direct and indirect constraints are then compared. An effective Lagrangian
+is used to describe the new physics. In order that the implications of this
+analysis are as broad as possible, both the light-Higgs scenario, described by
+an effective Lagrangian with a linear realization of the symmetry-breaking
+sector, and the strongly interacting scenario, described by the electroweak
+chiral Lagrangian, are considered.
+","[{""version"":""v1"",""created"":""Sat, 2 Aug 1997 07:59:44 GMT""}]","2016-08-25"
+"hep-th/9708004","Bernd Schroers","F.A. Bais and B.J. Schroers","Quantisation of Monopoles with Non-abelian Magnetic Charge","57 pages, harvmac, amssym, two eps figures, minor mistakes and typos
+  corrected, references added; to appear in Nucl. Phys. B","Nucl.Phys. B512 (1998) 250-294","10.1016/S0550-3213(97)00778-5","ITFA-97-28","hep-th",,"  Magnetic monopoles in Yang-Mills-Higgs theory with a non-abelian unbroken
+gauge group are classified by holomorphic charges in addition to the
+topological charges familiar from the abelian case. As a result the moduli
+spaces of monopoles of given topological charge are stratified according to the
+holomorphic charges. Here the physical consequences of the stratification are
+explored in the case where the gauge group SU(3) is broken to U(2). The
+description due to A. Dancer of the moduli space of charge two monopoles is
+reviewed and interpreted physically in terms of non-abelian magnetic dipole
+moments. Semi-classical quantisation leads to dyonic states which are labelled
+by a magnetic charge and a representation of the subgroup of U(2) which leaves
+the magnetic charge invariant (centraliser subgroup). A key result of this
+paper is that these states fall into representations of the semi-direct product
+$U(2) \semidir R^4$. The combination rules (Clebsch-Gordan coefficients) of
+dyonic states can thus be deduced. Electric-magnetic duality properties of the
+theory are discussed in the light of our results, and supersymmetric dyonic BPS
+states which fill the SL(2,Z)-orbit of the basic massive W-bosons are found.
+","[{""version"":""v1"",""created"":""Fri, 1 Aug 1997 16:29:57 GMT""},{""version"":""v2"",""created"":""Fri, 24 Oct 1997 08:50:56 GMT""}]","2009-10-30"
+"hep-th/9708005","Steven S. Gubser","Steven S. Gubser and Igor R. Klebanov","Absorption by Branes and Schwinger Terms in the World Volume Theory","13 pages, latex, minor changes, version to appear in Physics Letters
+  B","Phys.Lett.B413:41-48,1997","10.1016/S0370-2693(97)01099-X","PUPT-1716","hep-th",,"  We study how coincident Dirichlet 3-branes absorb incident gravitons
+polarized along their world volume. We show that the absorption cross-section
+is determined by the central term in the correlator of two stress-energy
+tensors. The existence of a non-renormalization theorem for this central charge
+in four-dimensional N=4 supersymmetric Yang-Mills theories shows that the
+leading term at low energies in the absorption cross-section is not
+renormalized. This guarantees that the agreement of the cross-section with
+semiclassical supergravity, found in earlier work, survives all loop
+corrections. The connection between absorption of gravitons polarized along the
+brane and Schwinger terms in the stress-energy correlators of the world volume
+theory holds in general. We explore this connection to deduce some properties
+of the stress-energy tensor OPE's for 2-branes and 5-branes in 11 dimensions,
+as well as for 5-branes in 10 dimensions.
+","[{""version"":""v1"",""created"":""Sat, 2 Aug 1997 00:06:25 GMT""},{""version"":""v2"",""created"":""Tue, 5 Aug 1997 12:28:13 GMT""},{""version"":""v3"",""created"":""Tue, 2 Sep 1997 16:50:10 GMT""}]","2016-09-06"
+"hep-th/9708006","Conor Houghton","Conor Houghton and Paul Sutcliffe","SU(N) Monopoles and Platonic Symmetry","14pp, RevTex, two figures made of six Postscript files. To appear in
+  the Journal of Mathematical Physics","J.Math.Phys. 38 (1997) 5576-5589","10.1063/1.532152","DAMTP-97-55, UKC/IMS/96-70","hep-th",,"  We discuss the ADHMN construction for SU(N) monopoles and show that a
+particular simplification arises in studying charge N-1 monopoles with minimal
+symmetry breaking. Using this we construct families of tetrahedrally symmetric
+SU(4) and SU(5) monopoles. In the moduli space approximation, the SU(4)
+one-parameter family describes a novel dynamics where the monopoles never
+separate, but rather, a tetrahedron deforms to its dual. We find a
+two-parameter family of SU(5) tetrahedral monopoles and compute some geodesics
+in this submanifold numerically. The dynamics is rich, with the monopoles
+scattering either once or twice through octahedrally symmetric configurations.
+","[{""version"":""v1"",""created"":""Sat, 2 Aug 1997 15:00:18 GMT""}]","2009-10-30"
+"nucl-ex/9708001","Jamie Nagle","E864 Collaboration: T.A. Armstrong et al","Search for Exotic Strange Quark Matter in High Energy Nuclear Reactions","21 pages, 9 figures, to be published in Nuclear Physics A (Carl Dover
+  memorial edition)","Nucl.Phys. A625 (1997) 494-512","10.1016/S0375-9474(97)00399-0",,"nucl-ex",,"  We report on a search for metastable positively and negatively charged states
+of strange quark matter in Au+Pb reactions at 11.6 A GeV/c in experiment E864.
+We have sampled approximately six billion 10% most central Au+Pb interactions
+and have observed no strangelet states (baryon number A < 100 droplets of
+strange quark matter). We thus set upper limits on the production of these
+exotic states at the level of 1-6 x 10^{-8} per central collision. These limits
+are the best and most model independent for this colliding system. We discuss
+the implications of our results on strangelet production mechanisms, and also
+on the stability question of strange quark matter.
+","[{""version"":""v1"",""created"":""Fri, 1 Aug 1997 19:22:58 GMT""}]","2015-06-26"
+"quant-ph/9708004","Sougato Bose","S.Bose, V.Vedral and P.L.Knight","A Multiparticle Generalization of Entanglement Swapping","9 pages revtex, 7 eps figures","Phys.Rev.A57:822,1998","10.1103/PhysRevA.57.822",,"quant-ph",,"  We generalize the procedure of entanglement swapping to obtain a scheme for
+manipulating entanglement in multiparticle systems. We describe how this scheme
+allows to establish multiparticle entanglement between particles belonging to
+distant users in a communication network through a prior distribution of
+singlets followed by only local measurements. We show that this scheme can be
+regarded as a method of generating entangled states of many particles and
+compare it with existing schemes using simple quantum computational networks.
+We highlight the practical advantages of using a series of entanglement
+swappings during the distribution of entangled particles between two parties.
+Applications of multiparticle entangled states in cryptographic conferencing
+and in reading messages from more than one source through a single measurement
+are also described.
+","[{""version"":""v1"",""created"":""Fri, 1 Aug 1997 16:08:49 GMT""}]","2008-12-30"

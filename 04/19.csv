@@ -1,0 +1,385 @@
+"alg-geom/9704019","Chiantini","Luca Chiantini, Ciro Ciliberto","Towards a Halphen theory of linear series on curves","AMSTeX/AMSppt, 23 pages",,,,"alg-geom math.AG",,"  A linear series on a curve C in $P^3$ is ""primary"" when it does not contain
+the series cut by planes. We provide a lower bound for the degree of these
+series, in terms of deg(C), g(C) and of the number $s = min{i: h^0(I_C(i))\neq
+0}$; as a corollary, we obtain bounds for the gonality of C. Examples show that
+our bound is sharp. Extensions to the case of general linear series and to the
+case of curves in higher projective spaces are considered.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 1997 07:50:01 GMT""}]","2008-02-03"
+"astro-ph/9704184","Esther M. Hu","Tae-Sun Kim, Esther M. Hu, Lennox L. Cowie, and Antoinette Songaila
+  (Univ. of Hawaii, Institute for Astronomy)","The Redshift Evolution of the Lyman Alpha Forest","40 pages, LaTeX (aaspp4.sty), includes 4 tables + 18 encapsulated
+  PostScript figures. To appear in The Astronomical Journal, July 1997","Astron.J. 114 (1997) 1-13","10.1086/118446","IfA-97-25","astro-ph",,"  We have analyzed the properties of low column density Lyman alpha forest
+clouds (12.8 < log N_HI < 16.0) toward 5 QSOs at different redshifts, using
+high signal-to-noise data from the HIRES spectrograph on the Keck I 10-m
+telescope. The results are used to study the evolution of these clouds in the
+interval 2.1 < z < 3.5. We find: 1) The differential density distribution of
+forest clouds, f(N_HI), fits an empirical power law with a typical slope of
+-1.35 to -1.55 for clouds with N_HI < 10^14.3 cm^{-2} and changes extremely
+slowly with redshift over this N_HI range. 2) The deviation of f(N_HI) from
+this power-law distribution at higher column densities depends on redshift: for
+higher redshifts, the departure from a power-law distribution occurs at higher
+N_HI, which means that higher column density clouds rapidly disappear with
+decreasing redshift. This may be consistent with an invariant shape for the
+different column density distributions, but with a shift to a lower column
+density normalization for systems at different redshifts driven by the overall
+expansion of the universe. 3) The line widths of the forest clouds increase as
+redshift decreases. 4) The correlation strength of the forest clouds seems to
+increase as redshift decreases. We discuss these results in terms of the
+evolution of the IGM comparing the results to models and analytic descriptions
+of the evolution of structure in the gas.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 1997 23:51:17 GMT""},{""version"":""v2"",""created"":""Mon, 21 Apr 1997 03:35:09 GMT""}]","2009-10-30"
+"astro-ph/9704187","Dar Arnon","Arnon Dar","The Afterglow of GRBs","Additional references, eq. 9 corrected, some minor changes",,,,"astro-ph",,"  Models where relativistic jets from merger or accretion induced collapse in
+compact binary systems produce cosmological gamma ray bursts (GRBs) also
+predict that GRBs are accompanied by delayed emission of high energy photons,
+TeV neutrinos, X-rays, optical photons and radio waves. Their emission
+mechanisms are similar to those responsible for their emissions by blazars
+during gamma ray flares. The recently observed afterglow of GRB 970228 in
+X-rays and optical photons is well accounted by such models. In particular, the
+predicted power-law spectrum, time delay which is inversely proportional to
+frequency and a power-law decay with time which is energy independent, are all
+in excellent agreement with the observations.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 1997 12:21:12 GMT""},{""version"":""v2"",""created"":""Fri, 25 Apr 1997 10:26:46 GMT""}]","2008-02-03"
+"astro-ph/9704191","Steve Vogt","Steven S. Vogt, Artie P. Hatzes, Anthony A. Misch, and M. Kurster","Doppler Imagery of the Spotted RS CVn Star HR 1099 (= V711 Tau) from
+  1981 - 1992","LaTex, 200 pages with 88 encapsulated Postscript figures; submitted
+  to Ap.J. Suppl",,,"1359","astro-ph",,"  We present 23 Doppler images of the spotted RS CVn star HR 1099 from 1981 to
+1992. HR 1099 shows a large cool polar spot which has persisted for the 11
+years of this study and other low-latitude spots which come and go on
+relatively short timescales. The polar spot has variable protuberances which
+look very similar to the time-variable vertical extensions of the Sun's polar
+coronal hole. The area of the polar spot and its extensions shows marginal
+evidence of being periodically variable in time with a period of ~3 years. On
+several occasions, isolated prominent spots emerged and then disappeared near
+the equator. The tracks of two long-lived spots suggest that some spots which
+emerge at low or intermediate latitudes migrate up to the pole in a clockwise
+spiral (slower than the orbit), and then apparently merge with the polar spot.
+Differential rotation as measured from spot movements showed that intermediate
+and low latitudes rotate slightly slower than the orbital angular velocity,
+while the pole and highest latitudes appear to be synchronized to the orbit.
+The differential rotation is of opposite sign and a factor of 50 less than for
+the Sun. We propose that the starspots on HR 1099 and other rapidly rotating RS
+CVn stars are, by analogy with solar coronal holes, large unipolar magnetic
+regions tightly frozen into multi-kilogauss axisymmetric dipole fields in these
+stars. Since the large cool polar spots, the signature of these dipoles, are
+not present on more slowly rotating RS CVn stars, we believe that they must be
+dynamo-induced rather than remnant fossil fields.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 1997 18:12:01 GMT""}]","2007-05-23"
+"astro-ph/9704192","Anthony H. Gonzalez","Anthony H. Gonzalez and S.M. Faber","Malmquist Bias and the Distance to the Virgo Cluster","19 pages, 3 figures, Latex, To appear in ApJ",,"10.1086/304412","Lick Bulletin No. 1358","astro-ph",,"  This paper investigates the impact of Malmquist bias on the distance to the
+Virgo cluster determined by the H_0 Key Project using M100, and consequently on
+the derived value of H_0. Malmquist bias is a volume-induced statistical effect
+which causes the most probable distance to be different from the raw distance
+measured. Consideration of the bias in the distance to the Virgo cluster raises
+this distance and lowers the calculated value of H_0. Monte Carlo simulations
+of the cluster have been run for several possible distributions of spirals
+within the cluster and of clusters in the local universe. Simulations
+consistent with known information regarding the cluster and the errors of
+measurement result in a bias of about 6.5%-8.5%. This corresponds to an
+unbiased distance of 17.2-17.4 Mpc and a value of H_0 in the range 80-82
+km/s/Mpc.
+  The problem of determining the bias to Virgo illustrates several key points
+regarding Malmquist bias. Essentially all conventional astronomical distance
+measurements are subject to this bias. In addition, the bias accumulates when
+an attempt is made to construct ""distance ladders"" from measurements which are
+individually biased. As will be shown in the case of Virgo, the magnitude and
+direction of the bias are sensitive to the spatial distribution of the parent
+poputation from which the observed object is drawn - a distribution which is
+often poorly known. This leads to uncertainty in the magnitude of the bias, and
+adds to the importance of minimizing the number of steps in ""distance ladders"".
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 1997 23:02:36 GMT""}]","2009-10-30"
+"astro-ph/9704193","George F. Smoot","George F. Smoot","CMB Experiment Baseline Determination by Minimizing Pixel Observations
+  Dispersion","9 pages",,,"COBE 5047 updated","astro-ph",,"  This paper discusses a couple of approaches to removing instrument gain and
+baseline variation from observations of the CMB anisotropy. These techniques
+were tested on the COBE DMR data, a balloon experiment, and by monte carlo
+simulations. This work, though considered technical, is made available because
+CMB anisotropy mapping data processing is currently very active and a
+significant number of groups are working on this issue. Specifically,
+time-ordered estimates of the gain and baseline via fitting to limited sections
+of data or to the full or a large section of data are considered and compared.
+An expression is given for the correlation between pixels introduced by the
+residual baseline and removal technique.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 1997 23:07:02 GMT""},{""version"":""v2"",""created"":""Sun, 11 May 1997 23:55:05 GMT""}]","2008-02-03"
+"astro-ph/9704194","J. E. Pesce","C. Megan Urry(1), A. Treves(2,3), L. Maraschi(4,5), H. Marshall(6), T.
+  Kii(7), G. Madejski(8), S. Penton(9), J. E. Pesce(1), E. Pian(1), A.
+  Celotti(2), R. Fujimoto(7), F. Makino(7), C. Otani(7), R. M. Sambruna(8), K.
+  Sasaki(7), J. M. Shull(9), P. Smith(10), T. Takahashi(7), M. Tashiro(11) ((1)
+  STScI, (2) SISSA Trieste, (3) Univ. Milan at Como, (4) Brera Observatory, (5)
+  Univ. Milan, (6) Eureka Scientific, (7) ISAS Japan, (8) GSFC, (9) Univ.
+  Colorado, (10) Steward Observatory, (11) University of Tokyo)","Multiwavelength Monitoring of the BL Lacertae Object PKS 2155-304 in May
+  1994. III. Probing the Inner Jet through Multiwavelength Correlations","24 pages, latex file with encapsulated postscript, accepted to the
+  Astrophysical Journal",,"10.1086/304536",,"astro-ph",,"  In May 1994 the BL Lac object PKS 2155-304 was observed continuously for ~10
+d with IUE and EUVE and for 2 d with ASCA, as well as with ROSAT and with
+ground- based radio, IR, and optical telescopes. The light curves show a
+well-defined X-ray flare (x2 increase in 1/2 d, with similar decay) followed by
+a broader, lower amplitude EUV flare ~1 day later, and a broad, low-amplitude
+UV flare ~2 d later (amplitude ~35%, duration >2 d). In the preceding week
+there was at least one X-ray flare of comparable amplitude or perhaps ongoing
+stochastic X-ray variations. An extremely rapid change in UV flux was seen at
+the beginning of the IUE observation. Assuming the central X-ray, EUV, and UV
+events are associated, the lags, the decrease of amplitude with wavelength, and
+the broadening of the temporal profile with wavelength are all qualitatively as
+expected for synchrotron emission from an inhomogeneous relativistic jet. We
+can rule out a Fermi-type shock acceleration event or a pair cascade in a
+homogeneous synchrotron-emitting region. A homogeneous region is still possible
+if there was an instantaneous (t<<hours) injection of high energy electrons
+that emit first at X-ray energies. Alternatively, the data are consistent with
+a compression wave or other disturbance crossing a region with stratified
+particle energy distributions (e.g., behind a shock front and/or in an
+inhomogeneous jet). The present light curves are in sharp contrast to November
+1991, when the amplitude was wavelength independent and the UV lagged the
+X-rays by less than ~3 hours. This means that the origin of rapid
+multiwavelength variability in this blazar is complex, involving at least two
+different modes. (abbreviated abstract)
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 1997 15:14:44 GMT""}]","2009-10-30"
+"cond-mat/9704165","Marcel Franz","M. Franz (Johns Hopkins), Ian Affleck and M. H. S. Amin (UBC)","Theory of equilibrium flux lattices in unconventional superconductors","4 pages, RevTeX, 2 PostScript figures included [The version to appear
+  in PRL. Stylistic changes in the text, a brief discussion of new results
+  involving the non-linear Meissner effect in the vortex lattice added.]","PRL 79, 1555 (1997).","10.1103/PhysRevLett.79.1555",,"cond-mat.supr-con",,"  We investigate equilibrium flux lattice structures in superconductors with
+unconventional order parameters, such as high-$T_c$ cuprates, using a
+generalized London model with non-local electrodynamics derived from a simple
+microscopic model. We find a rich phase diagram containing triangular, centered
+rectangular and square lattices with various orientations to the ionic lattice,
+as a function of magnetic field and temperature.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 1997 20:56:39 GMT""},{""version"":""v2"",""created"":""Thu, 10 Jul 1997 20:40:18 GMT""}]","2009-10-30"
+"cond-mat/9704166","Walter Kob","Stefan Kammerer, Walter Kob and Rolf Schilling (Institute of Physics,
+  Mainz, Germany)","Dynamics of the rotational degrees of freedom in a supercooled liquid of
+  diatomic molecules","17 pages of RevTex, 12 figures","Phys. Rev. E 56, 5450 (1997)","10.1103/PhysRevE.56.5450","KOMA-97-15","cond-mat.stat-mech",,"  Using molecular dynamics computer simulations, we investigate the dynamics of
+the rotational degrees of freedom in a supercooled system composed of rigid,
+diatomic molecules. The interaction between the molecules is given by the sum
+of interaction-site potentials of the Lennard-Jones type. In agreement with
+mode-coupling theory (MCT), we find that the relaxation times of the
+orientational time correlation functions C_1^(s), C_2^(s) and C_1 show at low
+temperatures a power-law with the same critical temperature T_c, and which is
+also identical to the critical temperature for the translational degrees of
+freedom. In contrast to MCT we find, however, that for these correlators the
+time-temperature superposition principle does not hold well and that also the
+critical exponent gamma depends on the correlator. We also study the
+temperature dependence of the rotational diffusion constant D_r and demonstrate
+that at high temperatures D_r is proportional to the translational diffusion
+constant D and that when the system starts to become supercooled the former
+shows an Arrhenius behavior whereas the latter exhibits a power-law dependence.
+We discuss the origin for the difference in the temperature dependence of D (or
+the relaxation times of C_l^(s) and D_r. Finally we present results which show
+that at low temperatures 180 degree flips of the molecule are an important
+component of the relaxation dynamics for the orientational degrees of freedom.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 1997 15:48:44 GMT""}]","2009-10-30"
+"dg-ga/9704009","Maxim Kontsevich","M. Kontsevich","Rozansky-Witten invariants via formal geometry","plain TeX, 11 pages",,,,"dg-ga alg-geom hep-th math.AG math.DG math.QA q-alg",,"  We show that recently constructed invariants of 3-dimensional manifolds and
+of hyperkaehler manifolds (L.Rozansky and E.Witten, hep-th/9612216) come from
+characteristic classes of foliations and from Gelfand-Fuks cohomology. In
+particular, any symplectic foliation gives invariants of 3-manifolds.
+  Our preprint has many intersections with the preprint alg-geom/9704009 by
+M.Kapranov.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 1997 12:46:15 GMT""}]","2008-02-03"
+"funct-an/9704003","Albert Schwarz","Leonid Friedlander, Albert Schwarz","Grassmannian and elliptic operators","10 pages, TEX",,,,"funct-an hep-th math-ph math.FA math.MP",,"  The conjecture about relation between infinite-dimensional Grassmannian and
+string theory is based on the fact that moduli spaces of algebraic curves are
+embedded into Grassmannian via Krichever construction. We describe a
+multidimensional analog of Krichever construction, that can be used in the
+attempt to relate Grassmannian to membranes.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 1997 03:15:06 GMT""}]","2008-02-03"
+"gr-qc/9704053","Karel Kuchar","J. Bicak (Charles Univ.) and K. Kuchar (Univ. Utah)","Null dust in canonical gravity","25 pages, REVTEX, no figures","Phys.Rev.D56:4878-4895,1997","10.1103/PhysRevD.56.4878",,"gr-qc",,"  We present the Lagrangian and Hamiltonian framework which incorporates null
+dust as a source into canonical gravity. Null dust is a generalized Lagrangian
+system which is described by six Clebsch potentials of its four-velocity Pfaff
+form. The Dirac--ADM decomposition splits these into three canonical
+coordinates (the comoving coordinates of the dust) and their conjugate momenta
+(appropriate projections of four-velocity). Unlike ordinary dust of massive
+particles, null dust therefore has three rather than four degrees of freedom
+per space point. These are evolved by a Hamiltonian which is a linear
+combination of energy and momentum densities of the dust. The energy density is
+the norm of the momentum density with respect to the spatial metric. The
+coupling to geometry is achieved by adding these densities to the gravitational
+super-Hamiltonian and supermomentum. This leads to appropriate Hamiltonian and
+momentum constraints in the phase space of the system. The constraints can be
+rewritten in two alternative forms in which they generate a true Lie algebra.
+The Dirac constraint quantization of the system is formally accomplished by
+imposing the new constraints as quantum operator restrictions on state
+functionals. We compare the canonical schemes for null and ordinary dust and
+emhasize their differences.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 1997 20:28:13 GMT""}]","2014-11-17"
+"gr-qc/9704054","Peter Leifer","Peter Leifer","The Nonlinear Quantum Gauge Theory-Superrelativity","11 pages, LaTeX, 1 eps-figure, has been submitted at the 43rd Meeting
+  of the Israel Physical Society","Int.J.Theor.Phys. 37, (1) 387 (1998)",,,"gr-qc",,"  A new type of a nonlinear gauge quantum theory (superrelativity) has been
+proposed. Such theory demands a radical reconstruction of both the quantum
+field conception and spacetime structure, and this paves presumably way to the
+comprehension of the quantum nature of inertia.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 1997 11:36:51 GMT""}]","2012-09-13"
+"hep-ph/9704357","David Atwood","David Atwood, Amarjit Soni","B to eta' + X and The QCD Anomaly","19 pages, 5 figures","Phys.Lett.B405:150-156,1997","10.1016/S0370-2693(97)00592-3",,"hep-ph",,"  Mechanisms for the observed large $Br(B \to \eta' +X_s)$ are examined. We
+propose that the dominant fraction of the $B \to \eta' +X_s$ rate is due mainly
+to $b \to s g^*$, where $g^*$ is an off-shell gluon, followed by $g^* \to
+g\eta'$ via the anomalous coupling of the $\eta'$ to two gluons. The calculated
+rate for $B \to \eta'+X_s$ is in rough accord with experiment using a fairly
+constant glue-glue-$\eta'$ form factor. This behavior of the form factor may be
+indicative of glueball dominance of the channel. Searches via the modes $\eta'
+h^+h^-$ ($h=\pi$ or $K$) may be worthwhile. Charmonia contributions [i.e $B \to
+\eta_c, \psi (\to \eta'+X) +X_s$] can only account for at most 20% of the
+central value of the signal. Implications for $B \to \eta' +X_d$ and for the
+corresponding $\eta$ modes are also given.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 1997 22:45:47 GMT""}]","2014-11-17"
+"hep-ph/9704358","Francesco Sannino","Masayasu Harada (Syracuse Univ.), Francesco Sannino (Syracuse Univ.,
+  Univ. ``Federico II'' & INFN (Napoli)), Joseph Schechter (Syracuse Univ.USA)
+  and Herbert Weigel (Tuebingen Univ.)","Generalization of the Bound State Model","35 pages (ReVTeX), 2 PostScript Figures","Phys.Rev. D56 (1997) 4098-4114","10.1103/PhysRevD.56.4098","SU-4240-659, UNITU-THEP-6/1997","hep-ph hep-th nucl-th",,"  In the bound state approach the heavy baryons are constructed by binding,
+with any orbital angular momentum, the heavy meson multiplet to the nucleon
+considered as a soliton in an effective meson theory. We point out that this
+picture misses an entire family of states, labeled by a different angular
+momentum quantum number, which are expected to exist according to the geometry
+of the three-body constituent quark model (for N_C=3). To solve this problem we
+propose that the bound state model be generalized to include orbitally excited
+heavy mesons bound to the nucleon. In this approach the missing angular
+momentum is ``locked-up'' in the excited heavy mesons. In the simplest
+dynamical realization of the picture we give conditions on a set of coupling
+constants for the binding of the missing heavy baryons of arbitrary spin. The
+simplifications made include working in the large M limit, neglecting nucleon
+recoil corrections, neglecting mass differences among different heavy spin
+multiplets and also neglecting the effects of light vector mesons.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 1997 23:46:03 GMT""}]","2016-09-06"
+"hep-ph/9704359","Koichi Funakubo","K.Funakubo (Saga University), A.Kakuto, S.Otsuki, and F.Toyoda (Kinki
+  University)","CP Violating Bubble Wall and Electroweak Baryogenesis","19 pages, 6 EPS figures, uses epsf.sty","Prog.Theor.Phys. 98 (1997) 427-442","10.1143/PTP.98.427","SAGA-HE-121","hep-ph",,"  The electroweak baryogenesis depends on the profile of the CP-violating
+bubble wall created at the first order phase transition. We attempt to
+determine it by solving the coupled equations of motion for the moduli and
+phases of the two Higgs doublets at the transition temperature. A variety of
+CP-violating bubble walls are classified by boundary conditions. We point out
+that a sufficiently small explicit CP violation gives nonperturbative effects
+to yield the baryon asymmetry of the universe.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 1997 06:46:30 GMT""}]","2009-10-30"
+"hep-th/9704138","Nouredine Chair","Noureddine Chair","Grassmannian Cohomolgy Rings and Fusion Rings from Algebraic Equations","18 pages, LaTeX. Minor adjustment to references",,,"SISSA-ISAS 53/97/FM","hep-th alg-geom math.AG",,"  The potential that generates the cohomology ring of the Grassmannian is given
+in terms of the elementary symmetric functions using the Waring formula that
+computes the power sum of roots of an algebraic equation in terms of its
+coefficients. As a consequence, the fusion potential for $su(N)_K$ is obtained.
+This potential is the explicit Chebyshev polynomial in several variables of the
+first kind. We also derive the fusion potential for $sp(N)_K$ from a reciprocal
+algebraic equation. This potential is identified with another Chebyshev
+polynomial in several variables. We display a connection between these fusion
+potentials and generalized Fibonacci and Lucas numbers.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 1997 17:18:32 GMT""},{""version"":""v2"",""created"":""Thu, 29 May 1997 16:36:00 GMT""}]","2008-02-03"
+"hep-th/9704139","David Gross","David Gross","The Triumph And Limitations Of Quantum Field Theory","16 pages, Latex",,,,"hep-th",,"  Talk presented at the conference ``Historical and Philosophical Reflections
+on the Foundations of Quantum Field Theory,'' at Boston University, March 1996.
+It will be published in the proceedings of this conference.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 1997 18:58:28 GMT""}]","2007-05-23"
+"hep-th/9704140",,"N.P.Chitaia, S.A.Gogilidze and Yu.S.Surovtsev","Quasigroup of Local-Symmetry Transformations in Constrained Theories","20 pages, LaTex",,,"Communication of Joint Institute for Nuclear Research E2-96-244,
+  Dubna, 1996","hep-th",,"  In the framework of the generalized Hamiltonian formalism by Dirac, the local
+symmetries of dynamical systems with first- and second-class constraints are
+investigated in the general case without restrictions on the algebra of
+constraints. The method of constructing the generator of local-symmetry
+transformations is obtained from the requirement for them to map the solutions
+of the Hamiltonian equations of motion into the solutions of the same
+equations. It is proved that second-class constraints do not contribute to the
+transformation law of the local symmetry entirely stipulated by all the
+first-class constraints (and only by them) of an equivalent set passing to
+which from the initial constraint set is always possible and is presented. A
+mechanism of occurrence of higher derivatives of coordinates and group
+parameters in the symmetry transformation law in the Noether second theorem is
+elucidated. In the latter case it is shown that the obtained transformations of
+symmetry are canonical in the extended (by Ostrogradsky) phase space. It is
+thereby shown in the general case that the degeneracy of theories with the
+first- and second-class constraints is due to their invariance under
+local-symmetry transformations. It is also shown in the general case that the
+action functional and the corresponding Hamiltonian equations of motion are
+invariant under the same quasigroup of local-symmetry transformations.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 1997 18:20:45 GMT""}]","2007-05-23"
+"nucl-ex/9704007","Uwe Leinberger GSI Darmstadt T.","U. Leinberger, E. Berdermann, F. Heine, S. Heinz, O. Joeres, P.
+  Kienle, I. Koenig, W. Koenig, C. Kozhuharov, A. Schroeter, H. Tsertos (ORANGE
+  Collaboration: GSI Darmstadt, TU Munich, Univ. of Cyprus), C. Hofmann, G.
+  Soff (TU Dresden)","First Energy and Angle differential Measurements of e^+e^- -pairs
+  emitted by Internal Pair Conversion of excited Heavy Nuclei","LaTeX, 28 pages incl. 10 PS figures; Accepted by Z.Phys.A","Eur.Phys.J. A1 (1998) 249-256","10.1007/s100500050058",,"nucl-ex",,"  We present the first energy and angle resolved measurements of e+e- pairs
+emitted from heavy nuclei (Z>=40) at rest by internal pair conversion (IPC) of
+transitions with energies of less than 2MeV as well as recent theoretical
+results using the DWBA method, which takes full account of relativistic
+effects, magnetic substates and finite size of the nucleus. The 1.76MeV E0
+transition in Zr90 (Sr source) and the 1.77MeV M1 transition in Pb207 (Bi
+source) have been investigated experimentally using the essentially improved
+set-up at the double-ORANGE beta-spectrometer of GSI. The measurements prove
+the capability of the setup to cleanly identify the IPC pairs in the presence
+of five orders of magnitude higher beta- and gamma background from the same
+source and to yield essentially background-free sum spectra despite the large
+background. Using the ability of the ORANGE setup to directly determine the
+opening angle of the e+e- pairs, the angular correlation of the emitted pairs
+was measured. In the Zr90 case the correlation could be deduced for a wide
+range of energy differences of the pairs. The Zr90 results are in good
+agreement with recent theory. The angular correlation deduced for the M1
+transition in Pb207 is in strong disagreement with theoretical predictions
+derived within the Born approximation and shows almost isotropic character.
+This is again in agreement with the new theoretical results.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 1997 22:56:44 GMT""},{""version"":""v2"",""created"":""Fri, 16 Jan 1998 15:31:59 GMT""}]","2009-10-30"
+"nucl-ex/9704008",,"Th. Rubehn, K. X. Jing, L. G. Moretto, L. Phair, K. Tso, and G. J.
+  Wozniak (Lawrence Berkeley National Laboratory)","3He- and 4He-induced nuclear fission - a test of the transition state
+  method","14 pages, TeX, psfig, also available at
+  http://csa5.lbl.gov/moretto/ps/rubehn_lbnl39895.ps, Proc. of the XXXV.
+  International Winter Meeting on Nuclear Physics, Bormio, Italy (1997)",,,"LBNL-39895","nucl-ex",,"  Fission in 3He and 4He induced reactions at excitation energies between the
+fission barrier and 140 MeV has been investigated. Twentythree fission
+excitation functions of various compound nuclei in different mass regions are
+shown to scale exactly according to the transition state prediction once the
+shell effects are accounted for. New precise measurements of excitation
+functions in a mass region where shell effects are very strong, allow one to
+test the predictions with an even higher accuracy. The fact that no deviations
+from the transition state method have been observed within the experimentally
+investigated excitation energy regime allows one to assign limits for the
+fission transient time. The precise measurement of fission excitation functions
+of neighboring isotopes enables us to experimentally estimate the first chance
+fission probability. Even if only first chance fission is investigated, no
+evidence for fission transient times larger than 30 zs can be found.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 1997 20:43:53 GMT""}]","2007-05-23"
+"physics/9704022","Jonas Mureika","J. R. Mureika (University of Southern California)","A Simple Model for Predicting Sprint Race Times Accounting for Energy
+  Loss on the Curve","20pp, latex; submitted to the ""Canadian Journal of Physics""","Can. J. Phys. 75, 837-851 (November 1997)","10.1139/cjp-75-11-837",,"physics.pop-ph",,"  The mathematical model of J. Keller for predicting World Record race times,
+based on a simple differential equation of motion, predicted quite well the
+records of the day. One of its shortcoming is that it neglects to account for a
+sprinter's energy loss around a curve, a most important consideration
+particularly in the 200m--400m. An extension to Keller's work is considered,
+modeling the aforementioned energy loss as a simple function of the centrifugal
+force acting on the runner around the curve. Theoretical World Record
+performances for indoor and outdoor 200m are discussed, and the use of the
+model at 300m is investigated. Some predictions are made for possible 200m
+outdoor and indoor times as run by Canadian 100m WR holder Donovan Bailey,
+based on his 100m final performance at the 1996 Olympic Games in Atlanta.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 1997 21:02:40 GMT""}]","2009-10-30"
+"physics/9704023","Jonas Mureika","J. R. Mureika","And the Winner Is . . . Predicting the Outcome of the 150m Showdown","7pp, LaTeX; layman-targeted article; related to methods of
+  physics/9704022","Athletics: The Canadian Track and Field Magazine (June 1997)",,,"physics.pop-ph",,"  Using the model framework for curve running as described in physics/9704022,
+the possible outcome of the 150m ""One to One"" showdown between sprinters
+Donovan Bailey and Michael Johnson are discussed (to be run 01 Jun 1997 at
+Skydome in Toronto, Ontario, Canada).
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 1997 21:14:23 GMT""}]","2008-02-03"
+"physics/9704024","Ermanno Sandilli","Sergiu I. Vacaru","Studies on Santilli's Locally Anisotropic and Inhomogeneous
+  Isogeometries: I. Isobundles and Generalized Isofinsler Gravity","47 pages, LaTex. In press at Algebras, Groups and Geometries, Vol.
+  14, 1997. For more information, please contact the Institute for Basic
+  Research at ibr@gte.net or http://home1.gte.net/ibr/",,,"51N30, 51p05, 53-XX","physics.gen-ph",,"  We generalize the geometry of Santilli's locally anisotropic and
+inhomogeneous isospaces to the geometry of vector isobundles provided with
+nonlinear and distinguished isoconnections and isometric structures. We
+present, apparently for the first time, the isotopies of Lagrange, Finsler and
+Kaluza--Klein spaces. We also continue the study of the interior, locally
+anisotropic and inhomogeneous gravitation by extending the isoriemannian
+space's constructions and presenting a geometric background for the theory of
+isofield interactions in generalized isolagrange and isofinsler spaces.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 1997 04:31:57 GMT""}]","2008-02-03"
+"q-alg/9704014","Victor Ginzburg","Victor Ginzburg and Vadim Schechtman","Screenings and a universal Lie-de Rham cocycle","Amstex, 38pp. Minor improvements made and some references added",,,,"q-alg alg-geom hep-th math.AG math.QA",,"  Feigin and Fuchs have given a well-known construction of intertwining
+operators between ""Fock-type"" modules over the Virasoro algebra. The
+intertwiners are obtained via contour integration of certain ""screening
+operators"" over top homology classes of a configuration space. The main
+observation of the present paper is that the screening operators contain more
+information. Specifically, at the chain level, the screening operators provide
+a certain canonical cocycle of the Virasoro (resp. affine Kac-Moody) algebra
+with coefficients in the de Rham complex of an operator-valued local system on
+the configuration space. This way we obtain canonical morphisms from higher
+homology groups of the above local systems to appropriate higher Ext-groups
+between the Fock space representations. Our construction is motivated by, and
+in a special case reduces to the construction of Bowknegt et al, see [BMP1],
+[BMP2].
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 1997 02:30:29 GMT""},{""version"":""v2"",""created"":""Mon, 15 Sep 1997 20:56:57 GMT""}]","2008-02-03"
+"q-alg/9704015","Tomasz Brzezinski","Tomasz Brzezinski","Quantum Homogeneous Spaces and Coalgebra Bundles","8 pages, LaTeX. Contribution to the proceedings of XV Workshop an
+  Geometric Methods in Physics, Bialowieza 1996",,"10.1016/S0034-4877(97)85914-9","DAMTP/97-18","q-alg math-ph math.MP math.QA",,"  It is shown that quantum homogeneous spaces of a quantum group H can be
+viewed as fibres of quantum fibrations with the total space H that are dual to
+coalgebra bundles. As concrete examples of such structures the fibrations with
+the quantum 2-sphere and the quantum hyperboloid fibres are considered.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 1997 11:33:24 GMT""}]","2009-10-30"
+"quant-ph/9704038","Antoine Suarez","Antoine Suarez (Center for Quantum Philosophy, Zurich) and Valerio
+  Scarani (EPFL, Swiss Federal Institute of Technology, Lausanne)","Does entanglement depend on the timing of the impacts at the
+  beam-splitters?","5 pages of Latex and 2 eps figures. Submitted to Phys. Lett. A","Phys.Lett. A232 (1997) 9-14","10.1016/S0375-9601(97)00346-0","CQP-960924","quant-ph",,"  A new nonlocality experiment with moving beam-splitters is proposed. The
+experiment is analysed according to conventional quantum mechanics, and to an
+alternative nonlocal description in which superposition depends not only on
+indistinguishability but also on the timing of the impacts at the
+beam-splitters.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 1997 12:05:35 GMT""}]","2009-10-30"
+"solv-int/9704012","Igor Loutsenko","Y. Berest, I. Loutsenko","Huygens' Principle in Minkowski Spaces and Soliton Solutions of the
+  Korteweg-de Vries Equation","23 pages, LaTeX, to be published in Comm.Math.Phys (1997)",,"10.1007/s002200050235",,"solv-int nlin.SI",,"  A new class of linear second order hyperbolic partial differential operators
+satisfying Huygens' principle in Minkowski spaces is presented. The
+construction reveals a direct connection between Huygens' principle and the
+theory of solitary wave solutions of the Korteweg-de Vries equation.
+","[{""version"":""v1"",""created"":""Fri, 18 Apr 1997 22:00:52 GMT""}]","2009-10-30"
+"solv-int/9704013","Galina A. Korepanova","I.G. Korepanov","Some eigenstates for a model associated with solutions of tetrahedron
+  equation. IV. String-particle marriage","LaTeX, 6 pages",,,,"solv-int nlin.SI",,"  This paper continues the series begun with works solv-int/9701016,
+solv-int/9702004 and solv-int/9703010. Here we construct more sophisticated
+strings, combining ideas from those papers and some considerations involving
+solutions of tetrahedron equation due to Sergeev, Mangazeev and Stroganov.
+","[{""version"":""v1"",""created"":""Sat, 19 Apr 1997 08:40:04 GMT""}]","2008-02-03"

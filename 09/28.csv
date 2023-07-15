@@ -1,0 +1,73 @@
+"cond-mat/9709307","Jayajit Das","Jayajit Das and Madan Rao (IMSc, Madras)","Dynamics of Ordering of Heisenberg Spins with Torque --- Nonconserved
+  Case. I","13 pages, REVTEX, and 19 .eps figures, compressed, Submitted to Phys.
+  Rev. E",,"10.1103/PhysRevE.57.5069",,"cond-mat",,"  We study the dynamics of ordering of a nonconserved Heisenberg magnet. The
+dynamics consists of two parts --- an irreversible dissipation into a heat bath
+and a reversible precession induced by a torque due to the local molecular
+field. For quenches to zero temperature, we provide convincing arguments, both
+numerically (Langevin simulation) and analytically (approximate closure scheme
+due to Mazenko), that the torque is irrelevant at late times. We subject the
+Mazenko closure scheme to systematic numerical tests. Such an analysis, carried
+out for the first time on a vector order parameter, shows that the closure
+scheme performs respectably well. For quenches to $T_c$, we show, to ${\cal
+O}(\epsilon^2)$, that the torque is irrelevant at the Wilson-Fisher fixed
+point.
+","[{""version"":""v1"",""created"":""Sat, 27 Sep 1997 16:09:15 GMT""}]","2009-10-30"
+"cond-mat/9709308","Xiangyu Ge","Xiang-Yu Ge, Mark D. Gould, Yao-Zhong Zhang and Huan-Qiang Zhou","Integrable eight-state supersymmetric $U$ model with boundary terms and
+  its Bethe ansatz solution","5 pages, RevTex",,"10.1016/S0375-9601(97)00959-6","University of Queensland preprint","cond-mat.str-el",,"  A class of integrable boundary terms for the eight-state supersymmtric $U$
+model are presented by solving the graded reflection equations. The boundary
+model is solved by using the coordinate Bethe ansatz method and the Bethe
+ansatz equations are obtained.
+","[{""version"":""v1"",""created"":""Sun, 28 Sep 1997 03:02:31 GMT""}]","2009-10-30"
+"cond-mat/9709309",,"E. Kanzieper, V. Freilikher","Two-band random matrices","12 pages (latex), references added, discussion enlarged","Physical Review E 57, 6604 (1998)","10.1103/PhysRevE.57.6604",,"cond-mat.stat-mech chao-dyn cond-mat.dis-nn hep-th nlin.CD",,"  Spectral correlations in unitary invariant, non-Gaussian ensembles of large
+random matrices possessing an eigenvalue gap are studied within the framework
+of the orthogonal polynomial technique. Both local and global characteristics
+of spectra are directly reconstructed from the recurrence equation for
+orthogonal polynomials associated with a given random matrix ensemble. It is
+established that an eigenvalue gap does not affect the local eigenvalue
+correlations which follow the universal sine and the universal multicritical
+laws in the bulk and soft-edge scaling limits, respectively. By contrast,
+global smoothed eigenvalue correlations do reflect the presence of a gap, and
+are shown to satisfy a new universal law exhibiting a sharp dependence on the
+odd/even dimension of random matrices whose spectra are bounded. In the case of
+unbounded spectrum, the corresponding universal `density-density' correlator is
+conjectured to be generic for chaotic systems with a forbidden gap and broken
+time reversal symmetry.
+","[{""version"":""v1"",""created"":""Sun, 28 Sep 1997 07:28:01 GMT""},{""version"":""v2"",""created"":""Tue, 23 Dec 1997 07:33:23 GMT""}]","2009-10-30"
+"gr-qc/9709075","Karen Camarda","K. Camarda and E. Seidel","Numerical Evolution of Dynamic 3D Black Holes: Extracting Waves","9 pages, 3 figures, LaTeX","Phys.Rev.D57:3204-3208,1998","10.1103/PhysRevD.57.3204",,"gr-qc",,"  We consider the numerical evolution of dynamic black hole initial data sets
+with a full 3D, nonlinear evolution code. These data sets consist of single
+black holes distorted by strong gravitational waves, and mimic the late stages
+of coalescing black holes. Through comparison with results from well
+established axisymmetric codes, we show that these dynamic black holes can be
+accurately evolved. In particular, we show that with present computational
+resources and techniques, the process of excitation and ringdown of the black
+hole can be evolved, and one can now extract accurately the gravitational waves
+emitted from the 3D Cartesian metric functions, even though they may be buried
+in the metric at levels on the order of $10^{-3}$ and below. Waveforms for both
+the $\ell=2$ and the much more difficult $\ell=4$ modes are computed and
+compared with axisymmetric calculations. In addition to exploring the physics
+of distorted black hole data sets, and showing the extent to which the waves
+can be accurately extracted, these results also provide important testbeds for
+all fully nonlinear numerical codes designed to evolve black hole spacetimes in
+3D, whether they use singularity avoiding slicings, apparent horizon boundary
+conditions, or other evolution methods.
+","[{""version"":""v1"",""created"":""Sat, 27 Sep 1997 19:16:40 GMT""}]","2010-01-08"
+"hep-ph/9709482","L. Maharana","B. B. Deo and L. Maharana","A Heavy Higgs Can Give Strong First Order Electroweak Phase Transition
+  in the Standard Model","13 pages, ReVTex, 2 figures, available upon request",,,"uuphys-02-97","hep-ph",,"  The role of Higgs sector of the standard model in first order phase
+transition is reexamined.It is found that a solution to the mass gap equations
+exist which can be used in higher orders. This possible solution leads to a
+transition which is found to be strongly first order and the ratio of the
+critical scaler field and the critical temperature is about 1.2 for a Higgs of
+mass around 400 GeV.This can explain baryogenesis.
+","[{""version"":""v1"",""created"":""Sun, 28 Sep 1997 12:32:20 GMT""}]","2009-09-25"
+"nucl-th/9709064","Dick Furnstahl","R. J. Furnstahl (Ohio State), John J. Rusnak (Ohio State), Brian D.
+  Serot (Indiana)","The Nuclear Spin-Orbit Force in Chiral Effective Field Theories","16 pages, REVTeX 3.0 with epsf.sty, plus 6 figures","Nucl.Phys. A632 (1998) 607-623","10.1016/S0375-9474(98)00004-9","IU/NTC 97-09","nucl-th",,"  A compelling feature of relativistic mean-field phenomenology has been the
+reproduction of spin-orbit splittings in finite nuclei after fitting only to
+equilibrium properties of infinite nuclear matter. This successful result
+occurs when the velocity dependence of the equivalent central potential that
+leads to saturation arises primarily because of a reduced nucleon effective
+mass. The spin-orbit interaction is then also specified when one works in a
+four-component Dirac framework. Here the nature of the spin-orbit force in more
+general chiral effective field theories of nuclei is examined, with an emphasis
+on the role of the tensor coupling of the isoscalar vector meson (omega) to the
+nucleon.
+","[{""version"":""v1"",""created"":""Sun, 28 Sep 1997 13:18:51 GMT""}]","2009-10-30"
